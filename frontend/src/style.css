@@ -1,0 +1,879 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Orbitron:wght@400..900&display=swap');
+
+/* ========================================
+   STARGUIDE - Cosmic Observatory Theme
+   Tailwind CSS v4 Custom Theme
+   ======================================== */
+
+@theme {
+  /* Void (Deep Space) Colors */
+  --color-void-950: #030308;
+  --color-void-900: #0a0a14;
+  --color-void-850: #0f0f1f;
+  --color-void-800: #14142a;
+  --color-void-700: #1a1a3a;
+  --color-void-600: #24244a;
+  --color-void-500: #2e2e5a;
+
+  /* Stellar (Gold) Accent */
+  --color-stellar-50: #fff9eb;
+  --color-stellar-100: #ffefc6;
+  --color-stellar-200: #ffdd88;
+  --color-stellar-300: #ffc94a;
+  --color-stellar-400: #ffb420;
+  --color-stellar-500: #f99307;
+  --color-stellar-600: #dd6d02;
+  --color-stellar-700: #b74a06;
+
+  /* Nebula (Purple) Accent */
+  --color-nebula-400: #e879f9;
+  --color-nebula-500: #d946ef;
+  --color-nebula-600: #c026d3;
+
+  /* Element Colors */
+  --color-element-physical: #c4c4c4;
+  --color-element-fire: #f4634e;
+  --color-element-ice: #47c7fd;
+  --color-element-lightning: #d376f0;
+  --color-element-wind: #5fe8b6;
+  --color-element-quantum: #625afa;
+  --color-element-imaginary: #f3d86b;
+
+  /* Tier Colors */
+  --color-tier-ss: #ff9500;
+  --color-tier-splus: #ffd000;
+  --color-tier-s: #a855f7;
+  --color-tier-a: #3b82f6;
+  --color-tier-b: #22c55e;
+  --color-tier-c: #6b7280;
+
+  /* Recommendation Colors */
+  --color-rec-bis: #fbbf24;
+  --color-rec-generalist: #a1a1aa;
+  --color-rec-f2p: #4ade80;
+
+  /* Font Families */
+  --font-display: 'Orbitron', ui-sans-serif, system-ui;
+  --font-body: 'Exo 2', ui-sans-serif, system-ui;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* Border Radius */
+  --radius-card: 1rem;
+  --radius-portrait: 0.75rem;
+
+  /* Animations */
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-pulse-glow: pulse-glow 2s ease-in-out infinite;
+  --animate-slide-up: slide-up 0.5s ease-out;
+  --animate-slide-in-right: slide-in-right 0.4s ease-out;
+  --animate-scale-in: scale-in 0.3s ease-out;
+  --animate-fade-in: fade-in 0.4s ease-out;
+  --animate-star-twinkle: star-twinkle 4s ease-in-out infinite;
+}
+
+/* ========================================
+   MOBILE RESPONSIVE UTILITIES
+   ======================================== */
+
+/* Touch target minimum (Apple HIG 44x44px) */
+.touch-target {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+/* Safe area for notched devices */
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+
+/* Responsive visibility utilities */
+@media (max-width: 767px) {
+  .hide-mobile { display: none !important; }
+}
+
+@media (min-width: 768px) {
+  .hide-desktop { display: none !important; }
+}
+
+/* Mobile-optimized scrolling */
+.scroll-touch {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.scroll-touch::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 1; filter: brightness(1); }
+  50% { opacity: 0.8; filter: brightness(1.2); }
+}
+
+@keyframes slide-up {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-in-right {
+  0% { opacity: 0; transform: translateX(20px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes scale-in {
+  0% { opacity: 0; transform: scale(0.9); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes star-twinkle {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+/* Animation Preloader - hidden element that forces browser to compile animations on load */
+.animation-preloader {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  z-index: -9999;
+}
+
+/* ========================================
+   BASE STYLES
+   ======================================== */
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-void-950);
+  color: white;
+  font-family: var(--font-body);
+  margin: 0;
+  background-image: radial-gradient(ellipse at top, #1a1a3a 0%, #0a0a14 50%, #030308 100%);
+  min-height: 100vh;
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-void-900);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-void-600);
+  border-radius: 9999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-void-500);
+}
+
+::selection {
+  background: rgba(249, 147, 7, 0.3);
+  color: white;
+}
+
+/* ========================================
+   GLASS CARD SYSTEM
+   ======================================== */
+
+.glass-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-card);
+  background: rgba(20, 20, 42, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.02) 100%
+  );
+}
+
+.glass-card-hover {
+  transition: all 0.3s;
+}
+
+.glass-card-hover:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+/* ========================================
+   CHARACTER PORTRAIT STYLES
+   ======================================== */
+
+.portrait-container {
+  position: relative;
+  border-radius: var(--radius-portrait);
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+
+.portrait-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius-portrait);
+  pointer-events: none;
+  padding: 3px;
+  background: linear-gradient(135deg, var(--ring-color-1), var(--ring-color-2));
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+}
+
+.portrait-ring-fire { --ring-color-1: #f4634e; --ring-color-2: #dd3a26; }
+.portrait-ring-ice { --ring-color-1: #47c7fd; --ring-color-2: #1e90ff; }
+.portrait-ring-lightning { --ring-color-1: #d376f0; --ring-color-2: #a855f7; }
+.portrait-ring-wind { --ring-color-1: #5fe8b6; --ring-color-2: #10b981; }
+.portrait-ring-quantum { --ring-color-1: #625afa; --ring-color-2: #4338ca; }
+.portrait-ring-imaginary { --ring-color-1: #f3d86b; --ring-color-2: #eab308; }
+.portrait-ring-physical { --ring-color-1: #c4c4c4; --ring-color-2: #9ca3af; }
+
+/* ========================================
+   TIER BADGES
+   ======================================== */
+
+.tier-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.625rem;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.tier-badge-ss {
+  background: linear-gradient(to right, #f59e0b, #f97316);
+  color: white;
+  box-shadow: 0 0 12px rgba(249, 115, 22, 0.5);
+}
+
+.tier-badge-splus {
+  background: linear-gradient(to right, #facc15, #f59e0b);
+  color: #030308;
+  box-shadow: 0 0 10px rgba(251, 191, 36, 0.4);
+}
+
+.tier-badge-s {
+  background: linear-gradient(to right, #a855f7, #8b5cf6);
+  color: white;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.4);
+}
+
+.tier-badge-a {
+  background: linear-gradient(to right, #3b82f6, #6366f1);
+  color: white;
+  box-shadow: 0 0 8px rgba(59, 130, 246, 0.4);
+}
+
+.tier-badge-b {
+  background: linear-gradient(to right, #22c55e, #10b981);
+  color: white;
+  box-shadow: 0 0 8px rgba(34, 197, 94, 0.4);
+}
+
+.tier-badge-c {
+  background: linear-gradient(to right, #6b7280, #64748b);
+  color: white;
+}
+
+/* ========================================
+   RECOMMENDATION TIER INDICATORS
+   ======================================== */
+
+.rec-tier-bis {
+  border: 2px solid var(--color-rec-bis);
+  box-shadow: 0 0 12px rgba(251, 191, 36, 0.3);
+}
+
+.rec-tier-generalist {
+  border: 2px solid var(--color-rec-generalist);
+}
+
+.rec-tier-f2p {
+  border: 2px solid var(--color-rec-f2p);
+}
+
+/* ========================================
+   SCORE DISPLAY
+   ======================================== */
+
+.score-ring {
+  position: relative;
+  --score-percentage: 0;
+}
+
+.score-ring-bg {
+  position: absolute;
+  inset: 0;
+  background: conic-gradient(rgba(255, 255, 255, 0.1) 0deg, rgba(255, 255, 255, 0.1) 360deg);
+  border-radius: 50%;
+}
+
+.score-ring-fill {
+  position: absolute;
+  inset: 0;
+  background: conic-gradient(
+    var(--score-color) 0deg,
+    var(--score-color) calc(var(--score-percentage) * 3.6deg),
+    transparent calc(var(--score-percentage) * 3.6deg)
+  );
+  border-radius: 50%;
+  transition: all 1s ease-out;
+}
+
+.score-ring-inner {
+  position: absolute;
+  inset: 0.25rem;
+  background: var(--color-void-900);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ========================================
+   BUTTONS
+   ======================================== */
+
+.btn-primary {
+  position: relative;
+  overflow: hidden;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: linear-gradient(to right, var(--color-stellar-600), var(--color-stellar-500));
+  color: white;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(to right, var(--color-stellar-500), var(--color-stellar-400));
+}
+
+.btn-secondary {
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--color-void-700);
+  color: rgba(255, 255, 255, 0.8);
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+
+.btn-secondary:hover {
+  background: var(--color-void-600);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.btn-ghost {
+  padding: 0.5rem 1rem;
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.6);
+  border-radius: 0.5rem;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-ghost:hover {
+  color: white;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* ========================================
+   TAB NAVIGATION
+   ======================================== */
+
+.tab-group {
+  display: flex;
+  gap: 0.25rem;
+  padding: 0.25rem;
+  background: rgba(20, 20, 42, 0.5);
+  border-radius: 0.5rem;
+}
+
+.tab-item {
+  padding: 0.5rem 1rem;
+  font-family: var(--font-display);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  border-radius: 0.375rem;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.tab-item:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.tab-item-active {
+  background: var(--color-void-600);
+  color: white;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+/* ========================================
+   STARFIELD BACKGROUND
+   ======================================== */
+
+.starfield {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.star {
+  position: absolute;
+  border-radius: 50%;
+  background: white;
+  animation: star-twinkle var(--twinkle-duration, 4s) ease-in-out infinite;
+  animation-delay: var(--twinkle-delay, 0s);
+}
+
+/* ========================================
+   LAYOUT UTILITIES
+   ======================================== */
+
+.content-container {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .content-container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .content-container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+.section-header {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 0 30px rgba(249, 147, 7, 0.3);
+}
+
+.section-subheader {
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 1rem;
+}
+
+/* ========================================
+   REASONING PANEL
+   ======================================== */
+
+.reasoning-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.5rem 0;
+}
+
+.reasoning-bullet {
+  width: 0.375rem;
+  height: 0.375rem;
+  border-radius: 50%;
+  background: var(--color-stellar-500);
+  margin-top: 0.5rem;
+  flex-shrink: 0;
+}
+
+.reasoning-text {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.625;
+}
+
+/* ========================================
+   TEAM CARD
+   ======================================== */
+
+.team-card {
+  position: relative;
+  overflow: visible;
+  border-radius: var(--radius-card);
+  background: rgba(20, 20, 42, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 1rem;
+}
+
+.team-portraits {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.team-portraits-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  justify-items: center;
+  padding: 0.5rem 0;
+  padding-bottom: 2rem; /* Space for name tooltips */
+  overflow: visible;
+}
+
+@media (max-width: 400px) {
+  .team-portraits-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+}
+
+.team-connector {
+  width: 1.5rem;
+  height: 2px;
+  background: linear-gradient(to right, rgba(255,255,255,0.2), rgba(255,255,255,0.4), rgba(255,255,255,0.2));
+}
+
+/* ========================================
+   UTILITY CLASSES
+   ======================================== */
+
+.text-glow-stellar {
+  text-shadow: 0 0 20px rgba(249, 147, 7, 0.5);
+}
+
+.text-glow-nebula {
+  text-shadow: 0 0 20px rgba(168, 85, 247, 0.5);
+}
+
+/* Animation delays for staggered effects */
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+
+/* Width utilities */
+.w-18 { width: 4.5rem; }
+.h-18 { height: 4.5rem; }
+
+/* ========================================
+   ENHANCED TEAM TIER BADGES
+   ======================================== */
+
+@keyframes tier-glow-pulse {
+  0%, 100% {
+    box-shadow: 0 0 12px var(--glow-color), 0 0 24px var(--glow-color-dim);
+  }
+  50% {
+    box-shadow: 0 0 20px var(--glow-color), 0 0 40px var(--glow-color-dim);
+  }
+}
+
+@keyframes tier-shimmer {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+.team-tier-glow-ss {
+  --glow-color: rgba(255, 149, 0, 0.6);
+  --glow-color-dim: rgba(255, 149, 0, 0.2);
+  animation: tier-glow-pulse 2s ease-in-out infinite;
+}
+
+.team-tier-glow-splus {
+  --glow-color: rgba(255, 208, 0, 0.5);
+  --glow-color-dim: rgba(255, 208, 0, 0.15);
+  animation: tier-glow-pulse 2.5s ease-in-out infinite;
+}
+
+/* ========================================
+   SLOT CARD ENHANCEMENTS
+   ======================================== */
+
+@keyframes slot-reveal {
+  0% {
+    opacity: 0;
+    transform: translateY(12px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.slot-animate-in {
+  animation: slot-reveal 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+  animation-delay: var(--slot-delay, 0s);
+  opacity: 0;
+}
+
+/* ========================================
+   CHARACTER HOVER EFFECTS
+   ======================================== */
+
+@keyframes character-float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.character-hover-lift {
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.character-hover-lift:hover {
+  transform: translateY(-6px) scale(1.05);
+}
+
+.character-hover-lift:hover .portrait-ring {
+  filter: brightness(1.2);
+}
+
+/* ========================================
+   COSMIC DECORATIVE ELEMENTS
+   ======================================== */
+
+.cosmic-divider {
+  position: relative;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(249, 147, 7, 0.3) 20%,
+    rgba(249, 147, 7, 0.6) 50%,
+    rgba(249, 147, 7, 0.3) 80%,
+    transparent 100%
+  );
+  margin: 1.5rem 0;
+}
+
+.cosmic-divider::before {
+  content: '✦';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--color-void-800);
+  padding: 0 0.75rem;
+  color: var(--color-stellar-500);
+  font-size: 0.75rem;
+}
+
+/* ========================================
+   ENHANCED GLASS EFFECTS
+   ======================================== */
+
+.glass-card-glow {
+  position: relative;
+}
+
+.glass-card-glow::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  background: linear-gradient(
+    135deg,
+    rgba(249, 147, 7, 0.15) 0%,
+    transparent 30%,
+    transparent 70%,
+    rgba(168, 85, 247, 0.1) 100%
+  );
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.glass-card-glow:hover::after {
+  opacity: 1;
+}
+
+/* ========================================
+   TEAM LIST ITEM ENHANCEMENTS
+   ======================================== */
+
+@keyframes list-item-enter {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.team-list-item {
+  animation: list-item-enter 0.3s ease-out forwards;
+  animation-delay: var(--item-delay, 0s);
+  opacity: 0;
+}
+
+.team-list-item:hover {
+  background: linear-gradient(
+    90deg,
+    rgba(249, 147, 7, 0.08) 0%,
+    rgba(249, 147, 7, 0.03) 100%
+  );
+}
+
+/* ========================================
+   REASONING SECTION POLISH
+   ======================================== */
+
+.reasoning-glow {
+  position: relative;
+  padding-left: 1rem;
+  border-left: 2px solid transparent;
+  background-image: linear-gradient(var(--color-void-800), var(--color-void-800)),
+                    linear-gradient(180deg, var(--color-stellar-500) 0%, var(--color-nebula-500) 100%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+/* ========================================
+   MICRO-INTERACTIONS
+   ======================================== */
+
+@keyframes button-press {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.96); }
+  100% { transform: scale(1); }
+}
+
+.btn-interactive:active {
+  animation: button-press 0.15s ease-out;
+}
+
+/* Alternates toggle pulse */
+@keyframes pulse-attention {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(249, 147, 7, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(249, 147, 7, 0);
+  }
+}
+
+.alternates-attention {
+  animation: pulse-attention 2s ease-in-out infinite;
+}
+
+/* ========================================
+   NOISE TEXTURE OVERLAY
+   ======================================== */
+
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* ========================================
+   SCANLINE EFFECT (subtle)
+   ======================================== */
+
+.scanlines {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9998;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0) 0px,
+    rgba(0, 0, 0, 0) 2px,
+    rgba(0, 0, 0, 0.03) 2px,
+    rgba(0, 0, 0, 0.03) 4px
+  );
+}
