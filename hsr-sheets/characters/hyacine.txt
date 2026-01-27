@@ -1,0 +1,61 @@
+NAME: HYACINE
+RARITY: 5
+PATH: Remembrance
+
+MAIN ROLE: Sustain/Support
+SUSTAIN TYPE: Healer/Cleanse
+BUFF TYPE: HP
+TEAM ARCHETYPES: Generalist, HP scaling, Summon
+SP USAGE: Depends on team and SP
+SKILL ROTATION: Use Skill if SP allows
+
+=== GENERAL ANALYSIS ===
+Kit overview: Consistent team-wide healer and HP buffer
+Hyacine summons Ica with her Skill or Ultimate, then heals the whole team, and cleanse 1 debuff. Ica normally does not appear in the action bar nor take actions. If any allies lose HP, Ica will consume its own HP to heal allies.
+
+Upon using Ultimate. Hyacine heals the team and enters [After Rain] state, last for 3 turns. During [After Rain] state, all allies' max HP are increased. Ica will also launch an AoE attack upon using Ultimate.
+
+During [After Rain], every time Hyacine uses a Basic Attack or Skill, Ica will gain an extra turn and deal AoE damage based on the amount of healing they've done, The more Hyacine and Ica heals, the more damage Ica does.
+
+Synergies:
+- Units that can benefit from Hyacine's max HP buff
+- Characters that consume lots of HP and would appreciate her healing.
+- Characters that highly appreciate the HP drain from her S1.
+
+Notes:
+- Despite being a HP scaling character, Mydei consumes way too much HP, and Hyacine's healing actually cannot keep up with him. It is suggested to use another Healer with Mydei unless Hyacine has high investments.
+- Hyacine must spam her skill to maintain [After Rain] state. If the team does not need the max HP buff and her personal damage, Hyacine can spam Basic instead.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Hyacine is especially potent as a sustainer, so pulling her is a great choice if you don't have limited sustains.
+
+- Her healing and Max HP boost is great for HP-scaling characters, which can further improve their damage and performance.
+
+- Ica's personal damage can also be very potent if she has S1, so if you want your healer to funnel some damage, get her.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Her healing and max HP increase makes her an insanely strong sustain, and Hyacine can provide value for pretty much every team! Special bonus for HP-scaling chars
+Having her S1 also makes her a great sustain for debuff centric teams!
+
+=== VERTICAL INVESTMENT ORDER ===
+S1>E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 Increases SPD, whenever the wearer take action, they consume allies' HP and their memosprite deals Additional damage based on the consumed HP. Furthermore, whenever Memosprite uses their skill, apply Vulnerability to all enemies
+
+E1 increases allies' max HP by an additional 50% and restore Hyacine HP whenever she attacks. This can be great for HP scalers.
+
+E2 increases allies' SPD by 30% if their HP reduces.
+
+S1 is generally recommended as it has good stats and damage amplification. Furthermore, the HP drain can greatly benefits units such as Blade or Jingliu.
+
+=== EXAMPLE TEAMS ===
+Premium Castorice team: Castorice / Evernight / Cyrene / Hyacine
+Premium Blade/Jingliu team (note : S1 Hyacine is wanted): Blade / RMC / Tribbie / Hyacine
+Evernight Hypercarry Premium: Evernight / RMC / Cyrene / Hyacine
+Premium Acheron team: Acheron / Jiaoqiu / Cipher / Hyacine
+Works on every team: Anyone / Anyone / Anyone / Hyacine

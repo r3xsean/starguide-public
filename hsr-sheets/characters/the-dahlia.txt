@@ -1,0 +1,59 @@
+NAME: THE DAHLIA
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: Sub-DPS/Support
+TYPE: DEF reduction, Weakness Implant
+BUFF TYPE: Super Break enabler, Break Effect% SPD%, Energy
+TEAM ARCHETYPES: Break, Super Break
+SP USAGE: Negative
+SKILL ROTATION: EEE, A if SP is tight
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Premium Super Break Specialist
+Dahlia's Skill deploys a Zone that lasts for 3 turns. In this Zone, allies' Weakness Break Efficiency is increased by 50% and are able to deal Super Break DMG to enemies who are not weakness broken.
+
+Upon entering combat, Dahlia selects the ally who started combat or has the highest BE% to be Dance Partner with her. When attacking weakness broken enemies, Dance Partner deals Super Break DMG and trigger Dahlia's FUA bounce attack. This can be triggered once per turn, and Dahlia recovers 1 SP for every 2 FUA attack she does.
+
+When using Ultimate, Dahlia inflicts Wilt to enemies, which reduces their DEF, implants Fire and the [Dance Partner]'s type weaknesses. This lasts for 4 enemy turns.
+
+Whenever allies implant weaknesses to enemies, their SPD increases. If a Fire character implants weakness, they deal additional Toughness DMG and gain 10% max energy. Only 50% max energy can be generated in this manner. When Dahlia receives healing or shield, she grants BE% to the team.
+Synergies:
+- Super Break or Break DPS/Teams, especially Fire Super Break/Break DPS who can implant weakness.
+Notes:
+- Due to how Wilt works, Dahlia's performance can fall short for wave content such as PF.
+- While Dahlia is also considered Dance Partner, she cannot trigger her own FUA.
+- Even though most Break teams prefer to run sustainless, Dahlia allows you to run sustainers without too much impact on the team's performance.
+Tips:
+- Since Wilt duration is based on the enemies' turns, smart timing of her Ultimate is recommended for better Wilt uptime.
+
+=== WORTH PULLING FOR ===
+- If you like a character, get them!
+
+- Dahlia is a very powerful addition to Break or Super Break teams. It is recommended to get her if you play or plan to play these team archetypes.
+
+- Dahlia does not have much utility outside of Break or Super Break teams
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Dahlia is best with Break or Super Break teams.
+While most Break/Super Break teams do not need a sustainer, it is perfectly fine to use sustainers if you need better survivability
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 >= E1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 increases the wearer's BE% and recovers 1 SP once when they apply a weakness, resetting upon using ultimate. The wearer and the ally that initiated combat or has the highest BE% gain a large amount of Break DMG, a rare, solid buff for Break DPS.
+
+E1 allows all allies to deal Super Break DMG, increases the Super Break DMG of the Dance Partner, and they deal extra Toughness DMG equal to 25% of enemies' max Toughness, once per enemy. A great Super Break DMG and toughness DMG increase.
+
+E2 decreases enemies' All-Type RES by 20% and inflicts Wilt to any enemies who enters battle. This lets Dahlia function smoother for multiple waves, like in PF.
+
+=== EXAMPLE TEAMS ===
+Firefly Premium Team: Firefly / Dahlia / Fugue / HMC
+Boothill Premium: Boothill / Dahlia / Fugue / Sunday
+Rappa Premium: Rappa / Dahlia / Fugue / Lingsha
+Himeko is so back: Himeko / Dahlia / Fugue / Tribbie
+Lingsha DPS - E1 Lingsha is recommended: Lingsha / Dahlia / Fugue / Sunday
+Break DPS generator: Anyone / Dahlia / Fugue / Ruan Mei

@@ -1,0 +1,58 @@
+NAME: FIREFLY
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Break, Super Break
+TEAM ARCHETYPES: Break
+Super Break
+SP USAGE: SP negative
+SKILL ROTATION: EEE (extra SP hungry)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Strong Break-Focused Blast DPS
+Firefly is a Super Break DPS excelling in ST and Blast fights. Her ultimate applies the [Complete Combustion State]: advances Firefly by 100%, boosts Weakness Break Efficiency and Speed, and converts the skill to Blast type, allowing it to implant Fire weakness, letting Firefly breaks enemies quickly and deal strong Super Break damage.
+
+Additionally, Firefly's technique implants Fire weakness to all enemies per wave, giving her a strong head start.
+
+Synergies:
+✦ Supports unit that can help her performance, through buffs/debuffs such as Super Break enabler, BE%, Weakness Break Efficiency, Speed, Vulnerability, Defense Shred, etc.
+✦ Teammates who are SP+ for Firefly's consumption.
+
+Notes:
+✦ Firefly consumes a lot of SP due to her increased Speed after using Ultimate.
+✦ Firefly requires Super Break Enablers in most situations, limiting team flexibility.
+✦ Firefly struggles against enemies immune to Toughness Reduction.
+
+Tips:
+✦ Allies should act before Firefly acts to apply buffs/debuffs and deal Toughness Reduction first.
+✦ Firefly prefers SPD over ATK boots as rolling lost SPD subs reduces potential Break Effect.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Firefly is a strong DPS with a high performance floor, able to take on a variety of content; excelling at fights with break mechanics
+
+✦ However, while she is great at striking bulky targets down, clearing multiple waves of many weak enemies isn't her strong suit, and would require the help of other units for said cases.
+
+=== E0S0 VIABILITY ===
+Yes.
+Fugue and Dahlia are required if you want the best performance.
+Firefly can also work with various supports but the difference between her best team and the alternatives is noticable.
+
+=== VERTICAL INVESTMENT ORDER ===
+Dahlia, Fugue > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+✦ Fugue and Dahlia provides a huge amount of utilities, DMG increase for Firefly. It is recommended to have them both
+✦ E2 allows Firefly to take an extra action in [Combustion State] if she break or kill an enemy, trigger every 2 turns. This significantly increase her DMG output.
+✦ S1 increases BE%, and whenever the wearer deals Break DMG, inflict the hit enemies with Break Vulnerability and lower their SPD. This LC is ok but Firefly already has good atlernatives
+
+✦ The recommended baseline is E2S0 Firefly, Dahlia and Fugue with investments
+
+=== EXAMPLE TEAMS ===
+Scorched Earth Operation - Firefly Premium: Firefly / Dahlia / Fugue / HMC
+HMC is busy?: Firefly / Dahlia / Fugue / Ruan Mei
+Burn to ASHES: Firefly / Dahlia / Fugue / Lingsha
+Budget team: Firefly / HMC / Ruan Mei / Gallagher
+Himeko Pure Fiction enabler - Struggle with SPs: Firefly / Dahlia / Fugue / Himeko

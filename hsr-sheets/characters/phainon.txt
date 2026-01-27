@@ -1,0 +1,63 @@
+NAME: PHAINON
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: SP negative
+SKILL ROTATION: EEE
+Basic if you need to save skill points
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Crit DPS who transform into a boss
+Phainon's mechanics are based around obtaining Coreflames. Methods of getting Coreflames: Being targeted by allies' or enemies' abilities or enter battles (+1) / Getting energy restored by allies' ability (+1) / Using Skill (+2) / Leaving Territory (+3).
+
+Phainon can hold up to 15 Coreflames, and requires 12 to cast his Ultimate. After casting Ultimate, he gains 8 extra turns and enters a special Territory where all teammates become Departed (removed temporarily from the team).
+
+In Phainon's Ultimate, he uses a resource named Scourge which replaces the function of Skill Points. He has 3 abilities in his Ultimate form :
+- [Basic Attack]: Blast attack, restores 2 Scourge,
+- [Skill 1]: Makes all enemies move instantly to attack him, gains Scourge equal to the number of enemies on field, and then Counter with an AoE + Bounce attack. The counter's damage increases the more Phainon is hit.
+- [Skill 2]: Consumes 1-4 Scourge to deal AoE + Bounce damage, with a big bonus multiplier when consuming 4.
+On his 8th extra turn, Phainon will cast a last AoE attack and exits his Territory, returning his teammates to the field.
+
+Synergies:
+✦ Harmony units who can generate Coreflame, provide action advance, energy, and good damage amplification.
+Notes:
+✦ Since all allies Depart in Territory, Phainon lacks flexibility in terms of gameplay and has to rely more on his stats/investments.
+✦ Phainon's team in general is very Skill Point hungry without investments such as S1 Sunday, etc.
+✦ It is generally not recommended to use Phainon with a Sustainer due to how his Territory works.
+Tips:
+✦ If Phainon's Coreflame generation is ensured, strong damage amplification options such as Tribbie or Robin can be used.
+
+=== WORTH PULLING FOR ===
+✦ If you like a character, get them!
+
+✦ Phainon is a great hypercarry DPS who can clear most content at ease with good investments and does not require too much skill to pilot correctly.
+
+✦ Phainon relies on his stats and investments more than most characters in the game. As he lacks gameplay flexibility to compensate for a lack of investment or bad relic quality.
+
+=== E0S0 VIABILITY ===
+Yes
+Phainon prefers Sustainless teams with supports who can effectively generate Coreflame stacks or provide extra actions for Phainon.
+Phainon's team may struggle with Skill Points without proper management.
+
+=== VERTICAL INVESTMENT ORDER ===
+Sunday and Cerydra > E2 > S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Sunday and Cerydra are very important since they can generate Coreflame stacks, provide great buffs, and action advance for Phainon.
+
+E2 increases Physical RES PEN, and when Phainon uses [Skill 2] with 4 Scourge, he gains an extra turn. This effectively extends his transformation and damage.
+
+E1 increases CDMG%, and defeating enemies during transformation will increase his SPD in Territory.
+
+S1 increases base SPD and allows attacks to ignore DEF. When the wearer uses their Ultimate they get a damage buff that is removed at the start of their turn.
+
+=== EXAMPLE TEAMS ===
+Phainon Premium - Struggle with SPs: Phainon / Sunday / Cerydra / Robin
+Not as Premium but still works: Phainon / Tingyun / Cerydra / RMC
+Extended Battle - If Phainon cannot finish enemies quickly: Phainon / Sunday / Cerydra / Dan PT
+Extended battle - Elysia version: Phainon / Sunday / Cerydra / Cyrene
+Phainon Budget: Phainon / RMC / Tingyun / Dan PT
+The Premium - Require investments to deal with SPs: Phainon / Sunday / Cerydra / Bronya

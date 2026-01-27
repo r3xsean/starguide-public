@@ -1,0 +1,59 @@
+NAME: BRONYA
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support
+BUFF TYPE: DMG%, Crit DMG%
+ATK%, Action Advances
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: SP negative
+SKILL ROTATION: EEE or AEE
+EAEA if not enough SP
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Hypercarry support unit with potent Action Advances.
+Bronya's Skill lets 1 target immediately take action, increases their DMG% and dispels 1 debuff with her Skill, the buff lasting for 1 turn. Her ultimate grants Crit DMG% and ATK for the entire team.
+While on the field, Bronya also buffs her team's DMG%.
+
+Her Basic Attack also advances her action forward, making it useful for certain rotations.
+
+Synergies:
+✦ Bronya is great for units who highly value action advance and deals majority of their damage on turn.
+
+Notes:
+✦ Bronya's kit only buffs her target for low amounts of turns, making her mostly a Hypercarry support. She is not the most suitable for multiple DPS teams.
+✦ Bronya without E1 and/or S1/Sunday S1 can be very SP intensive, requires good SP management in order to maximize her potential.
+✦ Due to her short buff duration, Bronya should be used with DPS who deals damage on-turn.
+
+Tips:
+✦ Bronya can also advance Harmony units, unlike Sunday, so using her to advance Sunday -> your main DPS is a very viable team comp.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Bronya can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get her.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Work for most Crit DPS and DPS that can use her full Action Advance,
+be aware of her SP consumption even with her E1 and S1 however
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 = S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 has a 50% chance to regain a SP upon Skill, reset after 1 turn.
+
+E2 provide 30% SPD to the selected target by her Skill for 1 turn.
+
+Bronya S1 provide ERR%, SP when using Ultimate and small damage buff.
+
+Due to how SP hungry Bronya is, E1 and/or S1 are very high value if you use Bronya often, her subsequent eidolons are fine, which can unlock some extra synergy with certain DPS but usually not needed.
+
+=== EXAMPLE TEAMS ===
+A WILL PRESERVED IN ICE WILL NEVER FALTER: Serval / Bronya / Pela / Gepard
+Wildfire & Overworld with Xianzhou assistance: Seele / Bronya / Tingyun / Huohuo
+Boothill likes that Action Advance: Boothill / Bronya / Fugue / Gallagher
+Jingliu likes that Action Advance: Jingliu / Bronya / Ruan Mei / Sustain
+Bronya advances Sunday advances DPS (better with Remembrance DPS): DPS / Sunday / Bronya / Sustain

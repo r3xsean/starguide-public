@@ -1,0 +1,61 @@
+NAME: TRIBBIE
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support + Sub-DPS
+BUFF + DEBUFF TYPE: Res-Pen, Vulnerability
+DAMAGE TYPE: Additional Damage, FUA
+TEAM ARCHETYPES: Hypercarry, Dual DPS, FUA
+SP USAGE: SP positive
+SKILL ROTATION: EAA
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Generalist Team-Wide Support with Rare buffs and DPS abilities.
+Tribbie's Skill grant RES PEN, when other allies attack, regenerate energy for Tribbie, when they use Ultimate, Tribbie deal an AoE FUA, with a limit that can be reset after using Ultimate.
+
+Tribbie gain energy whenever an ally hit enemies, the more enemies are hit, the more energy they gain.
+
+Tribbie's Ultimate has the following effect: Launches an AoE attack, creates a [Zone] which inflict Vulnerability to all enemies, after an ally attacks, for every 1 target hit, deals 1 instance of Additional DMG to the target that has the highest HP among the hit targets.
+
+Synergies:
+✦  Allies that can frequently attack multiple targets to charge Tribbie's energy and deal more DMG.
+✦  Allies that enjoy a support unit who can also attack multiple targets often.
+✦  Teams that prefer having Res-Pen and Vulnerability for DMG amplification.
+Notes:
+✦  Since Tribbie's energy depend on how often and how many targets their allies attack, Tribbie's [Zone] can run into uptime issue in unfavorable situations.
+Tips:
+✦ Tribbie's potential for Ultimate spam makes them a good holder of Dance!Dance!Dance! Light cone if you can utilize it.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Tribbie are another universal Team-wide support unit that offer good and easy to manage buff, making them a good flex slot in most, if not all teams.
+
+✦ Their main niche is for Blast/AoE teams, increasing the ST DMG output in multiple targets scenarios, when in a ST centric team or a low enemies count fight, Tribbie might not seem outstanding,
+
+✦ If you aren't interested in this niche and already have many flex support units, Tribbie can be on lower priority.
+
+=== E0S0 VIABILITY ===
+Yes, though E1 is nice
+
+Work in all teams so far as a flex slot.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > E2 =  S1 - Stop at E1 generally
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1: If the [Zone] is active, when allies attack enemies, they additionally deal 24% True DMG of the total DMG to the target with highest HP, a great increase to ST DMG output of the whole team.
+
+E2: [Zone] deal 1 more instance of DMG per trigger and Increase the multiplier of Additional DMG by 120%.
+
+S1 increase wearer's Crit DMG% by 36%, when wearer deals a FUA, regenerates 12 energy and buff team's Crit DMG by 48%, good for DPS Tribbie.
+
+E1S0 Tribbie is great for vertical invest.
+
+=== EXAMPLE TEAMS ===
+New Best Big Herta Team: The Herta / Anaxa / Tribbie / Lingsha
+AoE + Ultimate Spam? Tribbie like that: Argenti / Tingyun / Tribbie / Huohuo
+Constant Hit? Tribbie like that: Aglaea / Sunday / Tribbie / Huohuo
+Unique buff for madam Jingliu: Jingliu / Bronya / Tribbie / Luocha
+Fu Xuan will buff Tribbie DMG! (by a small amount): Serval / Sunday / Tribbie / Fu Xuan
+Newest Mono Quantum: Seele / Silver Wolf / Tribbie / Fu Xuan

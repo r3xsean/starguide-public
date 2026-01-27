@@ -1,0 +1,59 @@
+NAME: ANAXA
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS or sub-DPS
+TYPE: Crit
+TEAM ARCHETYPES: Dual DPS, Hypercarry
+SP USAGE: SP Negative, SP Neutral
+SKILL ROTATION: E spam when there's enough SP
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Weakness Implanting Erudition (Sub) DPS but prefer low targets fight
+Each hit from Anaxa's attacks inflicts one weakness on enemy, based on the amount of weakness, he will ignore part of DEF, when enemies have at least 5 weaknesses, they are inflicted with [Qualitative Disclosure] and Anaxa deal increased DMG to them, attacking enemy with BA or Skill in this state will unleash an additional usage of skill and does not consume Skill Point.
+
+Anaxa's skill will deal 5 instances of bouncing attack. The subsequent bounce will prioritize hitting enemies who haven't been hit by his skill. Anaxa's ultimate deals AoE damage, implants all weaknesses prevent them from taking action.
+
+If Anaxa is the sole Erudition unit in the team, he gains a huge amount of CRIT DMG, otherwise, he buffs the whole team's DMG%
+
+Synergies:
+✦ Units able to take advantage of his Weaknesses implant
+✦ Hypercarry or Dual DPS support units depending on the team.
+
+Notes:
+✦ Weakness implant does not mean the target's Type RES is removed.
+
+Tips:
+✦ If the enemy is already inflicted with [Qualitative Disclosure], Anaxa can use BA to save Skill point.
+✦ In teams where attack frequency matters more, Anaxa can use ERR% rope.
+
+=== WORTH PULLING FOR ===
+✦ If you like a character, get them!
+
+✦ Anaxagoras is a very versatile DPS, as long as you have decent investment in his teams, he can tackle all kinds of content.
+
+✦ While Anaxa is an Erudition unit, his performance is Pure Fiction or AoE content is not outstanding, but he can works fine. He is best in situations where there are fewer enemies such as Memories of Chaos or especially Apocalyptic Shadow, where his weakness implant can be extremely impactful
+
+=== E0S0 VIABILITY ===
+Yes
+
+Can work with various Harmony and Nihility
+Function well with other Erudition or Hunt characters.
+Can be used in any hypercarry setups
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 ≥ E1 > E2 - Stop at S1 for low invest
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 provides 10 energy per turn, guaranteeing 3-turn Ultimate without ERR% rope, 60% increase DMG to enemies who has a weakness implanted by the wearer and 12% DEF shred to attacked enemies
+
+E1 recovers 1 Skill point after using skill for the first time and using skill will decrease hit enemies' DEF by 16%
+
+E2 decrease enemies' All-Type Res by 20%, making Anaxa an effective support unit, when enemies enter the battlefield, automatically triggers 1 instance of the Talent's Weakness Implant effect.
+
+=== EXAMPLE TEAMS ===
+The Herta Premium team: Anaxa / The Herta / Tribbie / Lingsha
+Anaxa Premium: Anaxa / Cyrene / Cerydra / Dan PT
+F2P Anaxa team: Anaxa / RMC / Tingyun / Sustain
+Dual DPS Single-target version: Anaxa / Feixiao / Tribbie / Sustain
+Break Anaxa : Anaxa / Fugue / Ruan Mei / Lingsha

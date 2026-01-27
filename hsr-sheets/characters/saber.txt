@@ -1,0 +1,54 @@
+NAME: SABER
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: SP Negative
+SKILL ROTATION: EEE (ideally)
+EAEA (if SP is an issue)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: High Energy Crit DPS
+Saber's kit revolves around her [Core Resonance]. 1 [Core Resonance] is considered 8 fixed energy. Saber obtains [Core Resonance] through her Skill (+3) / Enhanced Basic Attack (+2) / Ally Ultimate (+3) / Entering battle with Technique (+3). Saber has  can hold 120 excess Energy.
+
+Upon using Saber's Ultimate, she deals 1 instance of AoE damage, then 10 additional bounce damage which also enhances her Basic Attack.
+
+Saber's Enhanced Basic Attack deals AoE damage, Saber will deals more damage if there are less than 2 enemies. Additionally, this ability will grant Mana Burst upon use. Under Mana Burst effect, when Saber's Ultimate can fully be charged with [Core Resonance] and Skill, Saber consumes Mana Burst to immediately take action and gain 1 SP.
+
+Saber has tremendous amount of DMG%, CDMG% and CR% self-buff.
+
+Synergies:
+✦ Supports with good damage amplification and action advance.
+✦ Supports that can generate Saber's Energy.
+
+Tips:
+✦ Conserve ally Ultimates to properly time Mana Burst consumption, especially characters who can generate energy with it.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Saber is a strong all-rounded DPS, while being slightly more difficult to pilot with the various buffs she needs to keep track of and how they affect parts of her kit.
+
+✦ Saber has tons of in battle self buffs making her much easier to build around, and make her work with various supports.
+
+=== E0S0 VIABILITY ===
+Yes
+Saber prefers hypercarry setups with supports who can provide her energy and/or extra turns to stack and burn Core Resonance
+
+=== VERTICAL INVESTMENT ORDER ===
+Sunday > S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+✦Sunday can provide Saber a lot of energy, SPs, buffs and action advance. This makes him Saber's most important priority.
+✦E1 increases Ultimate DMG. Her Basic Attack, Skill now grant 1 extra [Core Resonance].
+✦S1 provides huge amount of CDMG% and ATK%. Additionally, the wearer generate 10% max energy after Ultimate if their max energy is at least 300. This is a solid statstick and provide even more energy for Saber.
+✦Stop at E0S1 for low investment.
+
+=== EXAMPLE TEAMS ===
+Premium Excalibur: Saber / Sunday / Tribbie / Huohuo
+Need more Premium options?: Saber / Sunday / Robin / Sustain
+Where Workday?: Saber / Tingyun / Tribbie / Luocha
+Half-Premium: Saber / Sunday / RMC / Sustain
+Budget: Saber / Tingyun / RMC / Gallagher

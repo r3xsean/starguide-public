@@ -1,0 +1,53 @@
+NAME: BLADE
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+Dual DPS
+SP USAGE: SP Negative
+Less frequent SP usage than average DPS
+SKILL ROTATION: E spam until the game tell you to use A
+
+=== GENERAL ANALYSIS (POST 3.4 BUFF) ===
+Kit Overview: HP scaling DPS who spam abilities.
+When Blade uses his skill, he consumes his HP and enters [Hellscape] state. In this state, he deals more damage; increase the chance of getting hit; and enhances his Basic Attack, which will consume his HP when used and deals Blast damage. His Enhanced Basic Attack will not generate SP and he will exit [Hellscape] state after 3 turns.
+
+When Blade's HP reduces or he takes damage, he gains 1 Charge, when he obtain 5 Charge, Blade unleashes an AoE FUA attack, gains 15 energy and heals himself.
+
+When Blade uses his Ultimate, he sets his HP to 50% of his max HP and deals Blast damage based on his max HP and the tallied HP that he lost during the battle.
+
+Synergies:
+✦ Blade works well with most Nihility/Harmony units as long as they give good damage amplification, action advance, etc.
+✦ Prefers supports who can drain his HP for more charge and can synergize with units who can drain allies HP (Usually not recommended).
+
+Notes:
+✦ Blade can go slow or fast, depending on what supports you're using.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Blade is a very consistent and good crit DPS, he can works for most content.
+
+✦ However, Blade also shares the same supports/teams with quite a few units which can cause characters overlap.
+
+=== E0S0 VIABILITY ===
+Yes.
+His damage scales on his HP now, instead of being mixed like pre-buff. All generalist supports still work.
+Put Blade in the middle spot in case you get lucky from getting hit with Blast attacks
+
+=== VERTICAL INVESTMENT ORDER ===
+E1>S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 allows Blade's Enhanced Basic Attack and Ultimate to deal additional damage based on 150% of his lost tallied HP.
+
+S1 is a good stat stick with decent effects for Blade, however he has great alternative options.
+
+=== EXAMPLE TEAMS ===
+Premium Blade team: Tribbie / Sunday / Blade / Hyacine
+Stellaron Hunters: RMC / Silver Wolf / Blade / Sustain
+Good Dual DPS setup: Tribbie / Jade / Blade / Lynx
+Action Hypercharge for that HP drains: Sparkle / Sunday / Blade / Hyacine
+Budget: RMC / Pela / Blade / Sustain

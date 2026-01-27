@@ -1,0 +1,53 @@
+NAME: CIPHER
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: Debuffer Support
+TYPE: Vulnerability, True damage
+TEAM ARCHETYPES: Generalist, FUA, Debuff
+SP USAGE: SP positive
+SKILL ROTATION: AAA, E when needed
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Consistent debuffer and flexible Sub-DPS
+When Cipher is present, applies 40% Vulnerability to all enemies and Patron to the enemy with highest HP, when any ally hit this enemy, she launches a FUA attack. Cipher's Skill weakens enemies, when Cipher uses her Ultimate or Skill, she can re-apply Patron on other enemies.
+
+Cipher's Ultimate explanation, notes and tips:
+Cipher records the DMG dealt by all allies, excluding True DMG, indicated as coins (1 coin = 1k DMG). Unleash this DMG by using Ultimate and consume all coins, if the attack only has 1 target, all DMG will be directed toward it rather than being distributed unless there are 2 or 3 enemies. If facing elite and boss targets, try to eliminate all mobs target before using her Ultimate. If the boss is AoE or in Pure Fiction, you can spam her Ultimate.
+
+When reaching a certain amount of SPD, she gains CR% and increases the portion of tallied damage. Up to a maximum of 24% on Patron enemy and 16% on other enemies.
+
+Synergies:
+- Units who appreciate Cipher's frequent attacks, debuffs application and DMG amplification.
+Notes:
+- Cipher's multipliers are very low and the majority of her damage is from tallied damage. This allows you to completely neglect her offensive stats.
+Tips:
+- Cipher's skill is not high priority, use it when there is excess SP.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Cipher is an extremely consistent and strong debuffer, which makes her a great generalist support to have for any team.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+She works for any team
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 provide SPD, whenever the wearer attacks, they reduces all enemies' DEF. If the wearer have 170 SPD, they reduce additional DEF.
+
+E1 allows Cipher to record 36% non True Damage on Patron enemies and 24% on other enemies. When she unleashes her FUA, she gains 80% ATK.
+
+Since Cipher's damage is already low, she prefers S1 over E1 as it provide ease of building and allows her to amplify her team damage even more.
+
+=== EXAMPLE TEAMS ===
+Acheron Hypercarry: Acheron / Jiaoqiu / Cipher / Aventurine
+Feixiao Premium: Feixiao / Robin / Cipher / Aventurine
+Archer Premium: Archer / Sparkle / Cipher / Sustain
+Castorice Premium: Castorice / Cyrene / Cipher / Hyacine
+Dr. Ratio and his pet cat - Dr. Ratio Premium Team: Dr. Ratio / Sunday / Cipher / Aventurine
+She is a universal support, she fits anywhere: Anyone / Anyone / Cipher / Sustain

@@ -1,0 +1,55 @@
+NAME: KAFKA
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: DPS/Support
+DAMAGE TYPE: DoT
+TEAM ARCHETYPES: DoT, Debuff
+SP USAGE: SP negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS (POST 3.4 BUFF) ===
+Kit Overview: Damage over Time detonator/driver
+Kafka can inflict Shocked, by using her Ultimate or from her Talent: Whenever an allies attack enemies, she consumes 1 Charge and launch a FUA attack. Whenever Kafka take turns or uses her Ultimate, gain 1 Charge, she can hold 2 Charge max.
+
+When Kafka uses her Skill, Ultimate, or Talent, she will detonate the DoT on the attacked enemies.
+
+If any allies has at least 75% EHR, Kafka grants 100% ATK to that ally. This also includes herself
+
+Synergies:
+- Kafka works well as a DoT detonator for any DoT DPS
+- Kafka appreciate any Nihility or Harmony support that can benefit both Kafka and the other DoT DPS
+
+Notes:
+- Kafka's role is more similar to a support/enabler rather than a DPS herself, this allows you to build Kafka as fast as possible while not having to pay much attention to her personal damage.
+
+=== WORTH PULLING FOR ===
+- If you like the character, pull them!
+
+- Kafka is necessary if you want to play DoT and she ideally want to be paired with good DoT DPS such as Black Swan or Hysilens in order to maximize the performance of this archetype.
+
+- Kafka does not have much utilities outside of DoT teams
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Works in any DoT teams, or Acheron teams with either one of the limited DoT units
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Kafka's S1 gives her 14.4% SPD and extra DoT scaling, which is very strong but requires SPD tuning to make good use of. Kafka also has another great options.
+
+E1 allows any of her attack apply 30% DoT vulnerability on the attacked enemies.
+
+E2 is a 33% DoT DMG increase for the team.
+
+E1 is recommended instead of S1 because it allows her to amplify her personal and also her ally damage
+
+=== EXAMPLE TEAMS ===
+DoT Premium: Kafka / Hysilens / Black Swan / Huohuo
+Everyone gets ATK%! - alt 75% EHR build on non-DOT allies: Kafka / Hysilens / Robin / Dan PT
+Dotcheron - Somewhat meme team: Kafka / Acheron / Hysilens / Gallagher
+Fish n Cat: Kafka / Hysilens / Cipher / Sustain
+Budget - Not recommended: Kafka / Sampo / Guinaifen / Sustain

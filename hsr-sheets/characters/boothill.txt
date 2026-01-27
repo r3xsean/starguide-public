@@ -1,0 +1,63 @@
+NAME: BOOTHILL
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: DPS
+TYPE: Break
+TEAM ARCHETYPES: Break, Super Break (Requires enabler)
+SP USAGE:  SP negative
+SKILL ROTATION: EEE (E when available)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Single-Target Break DPS
+Boothill is a strong ST Break DPS. With his skill, he forces an enemy and himself into Standoff State, increasing Boothill's DMG dealt and received, as well as enhancing his Basic Attack. By breaking or defeating the enemy while in Standoff, Boothill gains one [Pocket Trickshot], stacking up to a maximum of three. Each stack increases the Toughness Reduction and Break Damage dealt with his EBA.
+
+His Ultimate applies Physical Weakness while dealing damage and delaying the enemy. Additionally, by using his technique, Boothill's first skill usage can also implant Physical Weakness.
+
+Team Synergies:
+✦ Break Damage amplifier: DEF Shred, Weakness-Break Efficiency, Break Effect% buff, etc.
+✦ Action Advance or Speed buffer characters to let him take more turns.
+
+Notes:
+✦ Boothill's damage is miniscule against Immune to Toughness Reduction & Unbroken Enemies.
+✦ Standoff State taunts the enemy, forcing them to attack Boothill and increasing their damage against him. This can make a strong sustain more necessary.
+
+Tips:
+✦ At the beginning of the battle, gain stacks faster by targeting weaker enemies first.
+✦ Action advance support should be slightly slower than Boothill in battle.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Boothill makes for a great DPS against
+content with few enemies, dealing High ST
+Break DMG.
+
+✦ He also has great and inexpensive
+4-Star / Standard banner support
+options,  making him easy enough to use on
+less invested accounts as well.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Boothill can use any of the SuperBreak or Break supports, and he can also make great use of Action Advancers.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > Fugue, Dahlia
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Fugue provides Exo-Toughness, and Dahlia provides a lot of great utilities and DMG to Break teams in general.
+
+S1 provides BE%, DEF shred and SPD for the wearer. This is a decent LC for Boothill, but he also has a very strong alternative option.
+
+E1 Boothill gives him 1 [Pocket Trickshot] when entering battle and 16% DEF shred. This is great for ramping up his [Pocket Trickshot] quickly.
+
+E1S0 is a good stop, investments on supports are better aftwards.
+
+=== EXAMPLE TEAMS ===
+Premium Boothill team: Boothill / Dahlia / Fugue / Sunday
+Half premium Boothill team: Boothill / Ruan Mei / Fugue / Gallagher
+More Superbreak = More Damage: Boothill / Dahlia / Fugue / HMC
+Budget team: Boothill / HMC / Pela / Sustain
+Sustained Boothill: Boothill / Dahlia / Fugue / Lingsha

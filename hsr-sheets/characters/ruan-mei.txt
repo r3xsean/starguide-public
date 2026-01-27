@@ -1,0 +1,61 @@
+NAME: RUAN MEI
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support
+BUFF TYPE: Speed%, RES Pen%,
+DMG%, Break Effect%,
+Break efficiency, Delay
+DAMAGE TYPE: Break DMG
+TEAM ARCHETYPES: Hypercarry, Dual DPS, Break, Super Break
+SP USAGE: SP Positive
+SKILL ROTATION: EAA
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Strong team damage amplifier.
+When Ruan Mei is on field, she grants the whole team Break Effect and SPD. Whenever an enemy is weakness broken, Ruan Mei deals an additional damage based on her Break damage.
+
+Her Skill grants Weakness Break Efficiency and Damage bonus to the whole team.With her Ultimate, she deploys a field. In this field, allies will gain All-type RES PEN and attacked enemies will be inflicted with Thanatoplum Rebloom. This debuff delays enemies action further when they try to recover from weakness broken state.
+
+Synergies:
+✦ Best teammate for Break teams.
+✦ Works well with any teams that appreciate her teamwide buff.
+
+Notes:
+✦ The DMG% buff from her A6 Trace does not need to be maximised in Break teams, as it does not amplify Break damage.
+✦ Ruan Mei is typically built to be fast, however she can opt for slower builds for low cycle/low AV clears.
+
+Tips:
+✦ Ruan Mei's technique is powerful in SU/DU for giving you a head start by reducing enemies toughness and dealing significant damage based on the amount of blessings that you have.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Ruan Mei is a core member of Break and Superbreak teams, making her a high priority pull for this archetype.
+
+✦ Her long list of synergies and unique buffs makes her almost always a strong option, though other amplifiers such as Robin, Sparkle, and Jiaoqiu can still be higher priority depending on what teams are used most.
+
+✦ Ruan Mei is one of the best Support for Apocalyptic Shadow.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Works anywhere as a team damage amplifier.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 ≥ S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 provides a strong 20% Def Ignore to her team when her Ult is up, which benefits all damage types.
+
+E2 is not recommended to aim for
+
+S1 provide SP when using Ultimate and give the team DMG% (not Break DMG%) but locks her out of consistent 3 turn Ult rotation, which makes you rely on getting hit, it's a strong option when utilized well, but S5 Memories of The Past is comparable.
+
+=== EXAMPLE TEAMS ===
+Firefly Superbreak: Firefly / HMC / Ruan Mei / Gallagher
+Premium Rappa team: Rappa / Fugue / Ruan Mei / Lingsha
+DoT: Kafka / Hysilens / Ruan Mei / Sustain
+Jingliu Hypercarry: Jingliu / Sunday / Ruan Mei / Sustain
+Dual DPS: Himeko / Herta / Ruan Mei / Huohuo
+She works for any team, she's a Support: Anyone / Anyone / Ruan Mei / Sustain

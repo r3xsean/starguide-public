@@ -1,0 +1,63 @@
+NAME: EVERNIGHT
+RARITY: 5
+PATH: Remembrance
+
+MAIN ROLE: DPS/Sub DPS/Support
+DAMAGE TYPE: Crit
+BUFF/DEBUFF TYPE: Crit Damage/Vulnerability
+TEAM ARCHETYPES: Castorice, Rememberance, Hypercarry
+SP USAGE: SP Positive
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: HP Manipulating Rememberance Support/DPS
+After entering combat or using Skill / Ultimate, Evernight will summon her memosprite, Evey.
+Evernight has large self CD, CR, and DMG% buffs, restores extra energy when she or allied Memosprites use abilities, and both she and Evey consume HP when using abilities.
+
+Evernight's skill consumes her HP to increase the CD of ally memosprities in the team by 24% of her own CD
+
+Evernight generates Memoria upon her and memosprite actions, or when losing health.
+
+Evey has two skills:
+When Memoria is less than 16:
+Evey deals single target damage based on the number of Memoria stacks
+When Memoria reaches 16:
+Evey action advances itself. Its next attack deals AoE damage based on the amount of Memoria possesed. Afterwards, all Memoria is consumed and Evey self-destructs, restoring one SP and increasing Evernight's speed, scaling on Memoria consumed, until her next turn.
+
+Evernight's ultimate deals AoE damage and grants Evernight two charges of [Darkest Riddle]. While Evernight has charges of [Darkest Riddle], enemies receive increased damage, Evernight and Evey deal more damage, and Evernight gains more Memoria after using her skill. Evey consumes a charge of [Darkest Riddle] after exploding.
+
+Team synergies:
+- Characters who consume allies' HP and/or gain benefit from Evernight and Evey's self HP drains.
+- Remembrance Characters.
+- Support characters to amplify team's DMG.
+
+=== WORTH PULLING FOR ===
+- If you like a character, get them!
+
+- Evernight is a solid addition to Castorice's team.
+
+- Evernight also performs well as a hypercarry DPS. However, her teambuilding is very restrictive thanks to her wanting rememberance characters, especially Hyacine, on her team. Therefore, her hypercarry team ends up having a large overlap with other premium teams.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Evernight greatly benefits from having several rememberance characters on her team
+
+=== VERTICAL INVESTMENT ORDER ===
+E2 > E1 > S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1: increases memosprite damage based on the number of enemies on field. Strong damage increase to memosprite focused teams.
+
+S1: Ally memosprites ignore 20% of enemy DEF, the wearer and their Memosprite's damage increases by 30%, and the wearer gains 8 energy after their Memosprite dies. Solid damage and buff, while allowing quicker Ult rotations for Evernight.
+
+E2: Increases CD, increase Memoria gained by 2 and using Ultimate will provide 2 extra [Darkest Riddle] charges. This massively increases her personal damage output.
+
+S1 is prioritized if there is no good alternative options for her.
+
+=== EXAMPLE TEAMS ===
+Castorice Premium: Evernight / Castorice / Cyrene / Hyacine
+Evernight Hypercarry: Evernight / RMC / Cyrene / Hyacine
+Evernight Budget: Evernight / RMC / Pela / Gallagher
+Castorice Budget: Evernight / Castorice / RMC / Gallagher
+Potential future Remembrance DPS team (Or wheelchair): Evernight / DPS / Tribbie / Hyacine

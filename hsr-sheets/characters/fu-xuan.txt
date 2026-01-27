@@ -1,0 +1,56 @@
+NAME: FU XUAN
+RARITY: 5
+PATH: preservation
+
+MAIN ROLE: Sustain
+SUSTAIN TYPE: Damage Absorption and Reduction
+BUFF TYPE: Crit Rate%, HP buff
+TEAM ARCHETYPES: Generalist
+SP USAGE: SP positive
+SKILL ROTATION: EAA
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Damage-Absorption Tank
+Fu Xuan's skill activates her [Matrix of Prescience] zone, increasing the whole team's Max HP and Crit Rate. Most of the damage taken by allies will be transferred to Fu Xuan instead while this Zone is active. Additionally, Fu Xuan will grant one chance to resist to Crowd Control debuff to all allies once per skill usage.
+
+Her Talent passively decreases damage taken by everybody, and if she ever falls below half health, Fu Xuan consume 1 Charge, and recover most of the lost HP.
+
+Her Ultimate deals AoE Damage, restores the team's health slightly, and give 1 Charge. She can hold 2 Charge max.
+
+Team Synergies:
+✦ Fu Xuan, while good at keeping her team alive, also gives minor CR buffs, making her a good sustain option in crit-scaling teams.
+Notes:
+✦ Characters that rely on the AMOUNT of hp they have lost (ie. Castorice, Mydei) has negative synergy with Fu Xuan.
+✦ Because she tanks damage for everybody in the team, AoE attacks tend to do critical damage to her. This problem is worse if you have more than 4 allies on field.
+Tips:
+✦ If there is enough Skill Points, Fu Xuan can spam her Skill more often to sustain more comfortably.
+
+=== WORTH PULLING FOR ===
+✦ If you love a character, pull them!
+
+✦ Fu Xuan is a great sustain choice for any type of team, especially if they can make use of her teamwide crit rate buff.
+
+✦ She particularly excels in situations where enemies mostly have ST attacks/nukes. Fu xuan is a bad matchup against DoT or AoE-focused enemies.
+
+✦ She provides great insurance in situations where teammates would be in danger of instantly dying or from being focused down because her HP-absorption is automatic and practically doesn't have any downtime.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Fits anywhere, best in Crit DMG team
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Generally, Fu Xuan's E1 and S1 are not very high value in terms of cost vs return. However, if you do want more passive buff for your Crit-based team, her E1 providing 30% crit damage is a decent choice.
+
+For her S1, note that the HP heal passive only triggers on wave not any time a new enemy joins the field or a boss's phase changes. Generally, Fu Xuan does not need the bonus stats from her S1's passives, however S1 does allow Fu Xuan to let go of ERR% rope and run an HP rope instead.
+
+=== EXAMPLE TEAMS ===
+Mono-Quantum (Short Girls' Rights): Seele / Silver Wolf / Sparkle / Fu Xuan
+Surely Fu Xuan's HP buff is significant (it's not): Blade / Sparkle / Tribbie / Fu Xuan
+Are you critting, doctor?: Dr. Ratio / Pela / Sunday / Fu Xuan
+Universal Trend of Market LC: Acheron / Jiaoqiu / Pela / Fu Xuan
+Fu Xuan for General: Jing Yuan / Tingyun / Sunday / Fu Xuan
+She is a sustain, put her anywhere: Anyone / Anyone / Anyone / Fu Xuan

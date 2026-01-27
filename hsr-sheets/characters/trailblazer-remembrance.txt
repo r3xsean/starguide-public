@@ -1,0 +1,54 @@
+NAME: TRAILBLAZER
+RARITY: 5
+PATH: Remembrance
+
+MAIN ROLE: Support
+BUFF TYPE: True DMG, CD, CR
+TEAM ARCHETYPES: Generalist, Hypercarry, Summon
+SP USAGE: Positive
+SKILL ROTATION: AAA/EAA, E if needed to charge Mem and if SP allows
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Generalist True DMG buffer
+Trailblazer summons Mem on the field with Skill or Ultimate, Mem will appear in Action Order. If Mem is already summoned, it will heal Mem instead.
+
+Mem has a special Charge bar, which is gained whenever allies gain energy, at a 10 energy/1% Charge ratio. Mem also passively provides Crit DMG to the whole team based on own Crit DMG.
+
+Their Ultimate orders Mem to deal AoE damage and generate 40% Charge,
+
+Mem has 2 skills:
+- When Mem's Charge is not full, deals AoE+Bounce on enemy while also generate Charge when taking action.
+
+- When Mem's Charge is at 100%, Mem immediately take action, advancing a designated character by 100%, whilst providing them and their memosprite with Crit Rate and allow their attack to deal an extra instance of True Damage. The more Max Energy a character has, the stronger the True Damage buff they receive.
+
+Synergies:
+- Characters who are already oversaturated on self buffs or highly appreciate RMC's True Damage buff
+- Character with high max Energy will benefit most from the True Damage buff
+Tips:
+- Try to manage Mem's charge to fully maximize the Action Advance from Mem's Skill. Try not to advance your DPS when they are already at 0 AV
+
+=== WORTH BUILDING FOR + VERTICAL INVEST EXPLANATION ===
+- RMC is a great generalist support for most teams. It is recommended to build them if you need a flexible support option.
+
+- RMC E6 is completely free so try to get them if you want to use them often.
+
+- RMC has a few notable upgrades in terms of LC:
+ 1) Hyacine S1: Provide good SPD and provide Vulnerability debuff, which enhances RMC's support capabilities even more. The HP drain from this LC also unlocks more synergy with units who highly value HP drain such as Blade, Jingliu.
+
+RMC is a generalist support that can benefit in every team. They especially synergize with allies that have high energy requirement as it charges Mem faster.
+
+=== E0S0 VIABILITY ===
+NOT FOUND
+
+=== VERTICAL INVESTMENT ORDER ===
+NOT FOUND
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+See WORTH BUILDING FOR section above.
+
+=== EXAMPLE TEAMS ===
+Aglaea semi-premium team: Aglaea / Cyrene / RMC / Dan PT
+Castorice Semi-Premium: Castorice / Tribbie / RMC / Hyacine
+Jingliu Premium (req. Hyacine S1 on both RMC and Hyacine): Jingliu / Tribbie / RMC / Hyacine
+Generalist Support, fits all.: Anyone / Anyone / RMC / Anyone
+Absolute RMCinema - RMC DPS (Meme team): RMC / Cyrene / Sunday / Dan PT

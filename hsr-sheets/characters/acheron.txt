@@ -1,0 +1,58 @@
+NAME: ACHERON
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: DPS
+DAMAGE TYPE: CRIT
+TEAM ARCHETYPES: Hypercarry, Debuff
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Debuff focused AoE DPS
+Whenever Acheron uses Skill or ally inflict a debuff, Acheron gains 1 Slashed Dream and inflict 1 Crimson Knot to the attacked enemy. Acheron can hold 12 Slashed Dream stacks. Crimson Knot increase damage taken from Acheron's Ultimate.
+
+Acheron can activate her Ultimate with 9 Slashed Dream stacks. Upon activation, Acheron reduces enemies' RES, then unleashes 3 ST attack before unleashing the final AoE hit. This attack depletes toughness regardless of weakness. If her ST attack hit enemies with Crimson Knot, deals an instance of AoE damage. All attacks during her Ult is considered Ult DMG.
+
+If there are 1-2 more Nihility characters other than Acheron in the team, Acheron gains massive DMG bonus depending on the amount.
+
+When using her Technique, she can instantly kill any enemies, with the exception of bosses/elites in which case she will deal AoE damage and gain 6 Slashed Dream.
+Synergies:
+- Nihility units with fast debuff applications and damage amplification.
+- Supports with action advance, strong buffs, debuffs, etc. Acheron S1 and/or E2 is required if you want to use 1 Harmony/1 Nihility.
+Notes:
+- Acheron has worse performance against ST.
+Tips:
+- Make sure to use Acheron's Ultimate after all debuffs and buffs are applied for most damage.
+- You can redirect Acheron's ST hit during her Ult to control damage and generate more Slashed Dream for next waves.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Acheron is a very good DPS for almost all content, as long as she has the core investment.
+
+- Acheron's technique can instant kill any normal mobs, including those in DU/SU which makes her very potent for quick DU/SU runs.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Prefers two Nihility teammates at E0S0, debuffer sustain appreciated.
+
+At S1/E2, Harmony unit able to Action Advance can be used with Nihility support and have similar/better performance compare to 2 Nihility setup
+
+=== VERTICAL INVESTMENT ORDER ===
+Jiaoqiu/Cipher/Silver Wolf > S1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Jiaoqiu/Cipher/Silver Wolf is a great battery for Acheron while bringing strong damage amplification. It's recommended to have at least one or ideally 2 of them.
+
+S1 increases CDMG, when the wearer attack, they inflict a debuff which increases DMG dealt to enemies and the wearer's Ultimate damage. This not only give a boost to her damage but also generate more stacks.
+
+It's recommended to stop at E0S1 with at least one of the mentioned supports for lower investments.
+
+=== EXAMPLE TEAMS ===
+Premium Acheron Team: Acheron / Jiaoqiu / Cipher / Aventurine
+Who needs 3 Nihilities?: Acheron / Jiaoqiu / Sunday / Sustain
+Sustainless Acheron team - Featuring Silver Wolf E2: Acheron / Jiaoqiu / Silver Wolf / Tribbie
+She got lost in Amphoreus (PF team): Acheron / Hysilens / Tribbie / Hyacine
+Budget team: Acheron / Guinaifen / Pela / Gallagher

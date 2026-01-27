@@ -1,0 +1,48 @@
+NAME: GEPARD
+RARITY: 5
+PATH: preservation
+
+MAIN ROLE: Sustain
+SUSTAIN TYPE: Shielder
+TEAM ARCHETYPES: Generalist
+SP USAGE: SP Positive
+SKILL ROTATION: AAA
+Skill if extra SP
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Shield-based Tank with Aggro Increase.
+Gepard's skill has a chance to Freeze the enemy for 1 turn, leaving them incapable of taking action in that turn.
+
+His Ultimate grants a fairly high amount of Shield to the whole team for 3 turns.
+When Gepard is downed, his Talent will activate, reviving him and restoring all of his Energy once per battle. Gepard has a higher chance to be attacked.
+
+Team Synergies:
+✦ Gepard does not have any specialties that outperform any other sustain characters. However, his Shield provides fairly great survivability, and can be good if you need a solid sustainer.
+
+Notes:
+✦ His Shield does not stack upon itself, and can only be given by his Ultimate and Technique, so DPSes that take lots of actions are not recommended to go with him.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Gepard can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get him.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Works in basically any team. Avoid using with DPS that rely on drawing aggro and using taunt to get hit.
+
+=== VERTICAL INVESTMENT ORDER ===
+S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Gerpard's S1 increases DEF, EHR% and increases the chance of getting hit. This helps greatly with Gepard sustainability and this LC can be used on other Preservation units.
+
+Gepard's eidolons are not great, it often does not provide much benefits. Therefore it's recommended to stop at E0S1 at most.
+
+=== EXAMPLE TEAMS ===
+A WILL PRESERVED IN ICE WILL NEVER FALTER: Serval / Bronya / Pela / Gepard
+Simulated Universe Preservation Path Cheese: March 7th / Aventurine / FMC / Gepard
+Protect the Yanking: Yanqing / Sparkle / Ruan Mei / Gepard
+Universal Trend of Market LC: Acheron / Silver Wolf / Pela / Gepard
+He is a sustain, he fits anywhere: Anyone / Anyone / Anyone / Gepard

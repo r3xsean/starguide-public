@@ -1,0 +1,61 @@
+NAME: THE HERTA
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, Dual DPS
+SP USAGE: (extra) SP negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: AoE Nuke DPS with Ultimate and Enhanced Skill
+When The Herta joins the battle, enemies hit by allies get inflicted with 1 stack of [Interpretation], up to 42 stacks. For each enemy attacked, generates 3 fixed energy for The Herta. Each stack of [Interpretation], along with the effects she provides pairing with another Erudition ally, give her numerous self buffs to tackle a variety of battles.
+
+Her Ultimate rearranges stacks of [Interpretation] and unleashes an attack, Advances Forward her by 100%, and enhances her next Skill. Her Enhanced Skill deals devastating damage and resets [Interpretation] stacks of the main target to 1.
+
+Synergies:
+✦ Erudition ally is a must to activate her team buff Trace and help stack [Interpretation], along with units that have frequent AoE damage instances.
+✦ Supports that buff The Herta and her team's damage and energy, or provide Speed buffs/Action Advance to improve action frequency.
+Notes:
+✦ Since [Interpretation] stacks & The Herta's energy gained is based on the amount of enemies and how often they get attacked, her damage output is lowered in 1-3 targets fights.
+✦ The Herta's teams can be Skill Point intensive, prioritize giving her SP to use skill.
+Tips:
+✦ Erudition allies can use equipments such as ERR% rope, 5% ERR% planar ornaments and the Passkey Light Cone to attack more often and recharge her energy.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ The Herta can deal a great amount of damage in all kind of situations, provided she can consistently build up [Interpretation] stacks. (5-target linked boss, boss with summons, Pure Fiction, etc.)
+
+✦ The Herta has worse performance in pure ST fights.
+
+✦ If wanting a reliable AoE DPS, The Herta would be a great pickup.
+
+✦ Finally, her Technique provides great Quality-of-Life by clearing waves of enemies in Simulated Universe and detecting chests. It's useful for traversing both in SU and the overworld.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Allies that can attack multiple enemies often should be priority.
+Erudition ally changes based on the enemies.
+Both Team-wide and Hypercarry support can be used.
+
+=== VERTICAL INVESTMENT ORDER ===
+E2 > E1 >= S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 increases Enhanced Skill DMG and reduces the time needed to stack up [Interpretation].
+
+E2 makes Enhanced Skill Advance Forward The Herta by 35% and allows for a second Enhanced Skill per Ult, greatly improving the frequency of her explosive damage output.
+
+S1 provides QoL for SP economy and a good DMG buff but there are many alternatives for Erudition LC.
+
+The Herta E0S0 is solid, E2S0/S1 is great for spenders.
+
+=== EXAMPLE TEAMS ===
+Premium The Herta Team: The Herta / Anaxa / Tribbie / Lingsha
+Herta Duo: The Herta / Herta / RMC / Aventurine
+Serval (E4+ recommended) Over Charge: The Herta / Serval / Sunday / Gallagher
+Spin to Win: The Herta / Argenti / Ruan Mei / Huohuo
+Lazy to farm RMC: The Herta / Herta / Pela / Sustain

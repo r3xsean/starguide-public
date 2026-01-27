@@ -1,0 +1,54 @@
+NAME: BLACK SWAN
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: DPS/Support
+DAMAGE TYPE: DoT
+DEBUFF TYPE: DEF Shred, Vulnerability, DoT
+TEAM ARCHETYPES: DoT, Debuff
+SP USAGE: Depends on SP amount
+SKILL ROTATION: E spam or EAEA or EAA
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Damage over Time DPS
+Black Swan inflicts [Arcana] on enemies through her Basic Attack, Skill, or whenever an enemy received DoT damage. [Arcana] is considered Wind Shear , and it deals more damage with more stacks. [Arcana] also has unique effects depending on the amount of stacks. After enemy turn [Arcana] damage on their turn, [Arcana] reset to 1
+
+Black Swan's Ultimate deals AoE damage and inflict Epiphany, which has these following effects: Increase damage taken, prevent [Arcana] reset once.
+
+Synergies:
+- Units that can frequently applies and detonate DoT, such as Kafka or Sampo.
+- Harmony characters, especially one that can provide team buffs or AoE debuffers
+
+Tips:
+- Black Swan's vulnerability from her ult only works during enemies turn. Play around it to maximize your team's damage.
+- Black Swan can also function as a support outside of DoT team, thanks to her minor DEF shreds on Skill and Vulnerability on Ultimate, although this pale in comparison with dedicated 5* support.
+
+=== WORTH PULLING FOR ===
+- If you like the character, pull them!
+
+- Black Swan & Kafka is a strong duo that can tackles most end game fights. They are worth pulling together if you enjoy the DoT playstyle.
+
+- Although Black Swan has viability as a support, it is not worth to pull her just for that.
+
+=== E0S0 VIABILITY ===
+Yes, but with Kafka
+
+Kafka is mandatory for Black Swan to function well
+
+=== VERTICAL INVESTMENT ORDER ===
+Kafka > E1 > S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+While Black Swan has good DoT damage, she has no methods to detonate them. Therefore, Kafka is a must for Black Swan to function well, as she's the only available DoT detonator.
+
+E1 allows Black Swan to inflict Type RES shred of the DoT type on the enemies
+
+S1 increases EHR% and whenever the wearer deals damage to enemy, they gain ATK and their DoT will ignore DEF. The more DoT type the enemy has, the stronger the effect.
+
+=== EXAMPLE TEAMS ===
+The Premium DoT team: Black Swan / Kafka / Hysilens / Dan PT
+Double Threat: Black Swan / Kafka / Robin / Dan PT
+Dotcheron - Somewhat meme team: Black Swan / Kafka / Acheron / Aventurine
+More DoT variant: Black Swan / Kafka / Jiaoqiu / Sustain
+Budget: Black Swan / Kafka / Sampo / Sustain
+DoT Boothill - Meme team: Black Swan / Sunday / Boothill / Sustain

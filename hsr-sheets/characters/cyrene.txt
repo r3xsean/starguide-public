@@ -1,0 +1,60 @@
+NAME: CYRENE
+RARITY: 5
+PATH: Remembrance
+
+MAIN ROLE: Support
+SUPPORT TYPE: True DMG, DMG, Energy
+TEAM ARCHETYPES: Remembrance, Chrysos Heirs
+SP USAGE: Negative, Neutral after First Ultimate
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: ELYSIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- Cyrene's Ultimate will summon Demiurge, activate all ally ultimates, enhance her Basic Attack, increase her and Demiurge's CRIT Rate, deploy the zone gained from her skill, and enter a special state with no cooldown. Her First Ultimate requires 24 Recollection points to activate, this Ultimate can only be activated once. Demiurge is an Out of Bounds memosprite, it will not appear on the action bar, and can't be targeted by allies or enemies.
+
+- Recollection is gained from ally actions with Future(+1) Cyrene's Basic attack(+1), Enhanced Basic Attack(+3) and Skill(+3). Cyrene gains additional Recollection points depending on the amount of Chrysos Heirs or Remembrance characters in the party. Cyrene can hold up to 27 Recollection points.
+
+- Demiurge will immediately take action upon using Cyrene's Ultimate. Using its memosprite skill on an ally will provide a Special Effect to Chrysos Heirs or a DMG increase to anyone else, requiring 12 Recollection points to use. The Special Effect is personalized to each Chrysos Heir and will be listed here along with reccomended team setups.
+
+- When combat starts or after Cyrene takes action or when Cyrene uses Ultimate, all allies will gain Future. After an ally uses an ability, they will consume Future and Cyrene gains a Recollection. Memosprites do not consume Future after using an ability.
+
+- When Cyrene's speed exceeds 180, increase the team DMG and for every additional point of speed her Ice RES PEN is increased, capped at 60 speed.
+
+- Cyrene's Skill deploys a zone that will deal True DMG equal to 24% of each instance of DMG dealt by allies for 2 turns.
+Synergies:
+- Chrysos Heirs
+Notes:
+- Cyrene's Recollection gain is quite slow without vertical investment or a full memosprite/Chrysos Heir team.
+
+- Cyrene wants be paired with other Chrysos Heirs. Otherwise, her support potential is extremely lacking.
+
+- Ironically enough, most Chrysos Heirs prefer other options without vertical investment on Cyrene. She can perform decently, with specific setups and teams at E0.
+Tips:
+- To quicken Recollection generation, you can hold your team's Ultimates and use it after Cyrene's turn.
+
+- You can also weave in Cyrene's Ultimate smartly between allies' actions for maximized Recollection gain. Since Cyrene's Ultimate grants Future to allies.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Cyrene is a good support specifically for the Chrysos Heirs DPS. Her buffs are unique to each of them and can compliment them well enough.
+
+- Due to how her Ultimate works, her generation of Recollection is incredibly slow without Remembrance temamates or E2, significantly decreasing her use cases in most teams.
+
+- Cyrene is also locked to Chrysos Heir teams, and should not be used anywhere else.
+
+=== E0S0 VIABILITY ===
+Yes
+
+=== VERTICAL INVESTMENT ORDER ===
+E2 > S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E2 gives Cyrene 12 Recollection upon entering battle and increases the True DMG given by her Skill's zone proportional to the amount of Chrysos Heirs that receive her buffs. This eidelon significantly speed up Ultimate recovery, which helps her function more smoothly.
+
+S1 increases the wearer's SPD, and when a memosprite uses their skill on allies, increases enemies DMG taken. When the wearer's memosprite use their skill on enemies, increases all allies CDMG. After activating both effects, their potency increases by a decent amount.
+
+E1 gives Cyrene 6 Recollection when Demiurge uses its attack skill, and increases the amount of bounces the attack does by 6.
+
+=== EXAMPLE TEAMS ===
+IMPORTANT: Please read this for team examples with each Chrysos Heir paired with Cyrene, as well as the Special Effect for each of them: LINK TO CYRENE'S EXAMPLE TEAMS

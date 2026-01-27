@@ -1,0 +1,58 @@
+NAME: LUOCHA
+RARITY: 5
+PATH: abundance
+
+MAIN ROLE: Sustain
+TYPE: Healer / Cleanser
+TEAM ARCHETYPES: Generalist
+SP USAGE: SP positive
+SKILL ROTATION: AAA
+E when needed
+
+=== GENERAL ANALYSIS ===
+Kit overview: Constant team-wide healer
+When Luocha uses his Skill or emergency heal activation when an ally's HP drop below 50% or uses his Ultimate, he gains 1 stack of [Abyssal Flower]. When he obtains 2 stacks, he consumes all stacks and unleashes a field which lasts for 2 turns, anyone who attack enemies in this field will heal themselves and the entire party.
+
+Luocha's skill and emergency heal are the same thing, which is a single-target heal and remove 1 debuff on the selected ally.
+
+Luocha's ultimate dispel 1 buff on enemies.
+
+Team Synergies:
+✦ Any units who can attack frequently and can constantly heal the team
+✦ Units who highly appreciate the amount of SP that Luocha generates
+✦ Characters who consumes a large portion of their own HP or other allies' HP
+
+Notes:
+✦ Luocha does not need to consume any SP to sustain, so he's always SP positive
+✦ In order to maintain a 100% field time, some good timing when using Ultimate is recommended
+✦ Due to his absurdly high raw healing capabilities, going for HP/DEF mainstat is also a good choice as Luocha is very squishy because of his ATK scaling heals
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Luocha is an extremely capable and friendly
+to play sustainer and can be very worthwhile
+for anyone who seek comfort in gameplay.
+
+✦ However Luocha lacks utilities and other
+Quality-of-Lifes unlike other limited Abundance
+such as limited debuff removal orabscene of
+offensive utilities.
+
+=== E0S0 VIABILITY ===
+Yes.
+Fits anywhere as an extra SP positive and comfy sustain unit.
+
+=== VERTICAL INVESTMENT ORDER ===
+Not needed.
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Neither of his S1 or E1 is very good so focusing on other things is recommended. But if you still insist on getting at least one, his S1 can be quite handy if you have Lingsha
+
+=== EXAMPLE TEAMS ===
+Mydei Premium - 3 fathers and their 3 daughters: Mydei / Sunday / Tribbie / Luocha
+Yukong and her Imaginary Men Harem - Dan IL hypercarry: Dan IL / Sunday / Yukong / Luocha
+Luocha's Zone and his self-harm team: Blade / Jade / Tribbie / Luocha
+Infinite Healing Works: Yunli / Robin / Tingyun / Luocha
+Luocha's Zone and his masochist team: Castorice / Mydei / Tribbie / Luocha
+He is a sustain, he fits anywhere: Anyone / Anyone / Anyone / Luocha

@@ -1,0 +1,61 @@
+NAME: RAPPA
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS
+TYPE: Break, Super Break
+TEAM ARCHETYPES: Break, Super Break
+SP USAGE: SP Negative, Less frequent SP usage than average DPS
+SKILL ROTATION: E spam until the game tell you to use A
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Constant AoE Super Break DPS
+Rappa's main focus is her Ultimate: enters [Sealform] state, enhances Basic Attack to deal Universal Toughness Reduction to all enemies (though attacking non Imaginary-weak only deals half the Toughness Reduction), and allows her to deal Super Break DMG once enemies are broken.
+
+When allies Weakness Break an enemy, her talent gains a charge (store up to 10), which enables her to deal huge Break DMG, even in ST scenarios.
+
+Synergies:
+✦ Units that has Break-Damage related buff: Super Break enabler, WBE buff, DEF shred, etc.
+✦ Supports and DPS units that helps with breaking enemies.
+
+Notes:
+✦ Rappa struggles against enemies immune to Toughness Reduction.
+✦ Since Rappa does not implant Weakness, she would have a slower clear time if enemies' weakness don't match with Rappa or other teammates.
+
+Tips:
+✦ The first 2 hits of EBA is Blast, manage it well to distribute your Toughness Reduction more evenly.
+✦ Imaginary Break DMG has a low multiplier, so allies of other types can handle breaking instead.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Rappa is bound to perform with low investment as long as she or her team can Weakness Break enemies, mainly in AOE fights.
+
+✦ Prime example being Pure Fiction, where enemies abundant and have reduced Toughness value, or when bosses summon more enemies on the fields.
+
+✦ In unfavorable situations, Rappa would require more vertical investment to clear comfortably.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Fugue / Dahlia is nearly fixed for more Super Break DMG proc.
+Allies that can contribute to breaking are also beneficial for the battle.
+
+=== VERTICAL INVESTMENT ORDER ===
+Fugue > Dahlia > S1 > E1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Fugue's Exo-Toughness is highly appreciated by Rappa. Dahlia also provides huge amount of DMG increase, as well as weakness implant.
+
+S1 grants energy to use Ultimate right away, gives AA% per 2 EBA, which boost her turn frequency greatly, making S1 is a strong priority.
+
+E1 gives DEF ignore and lets you keep Ultimate uptime more comfortably, E2 increases your ST Toughness damage.
+
+E0S1 Rappa is a good stop, afterwards, you should focus on her supports.
+
+=== EXAMPLE TEAMS ===
+Premium Rappa team: Rappa / Fugue / Dahlia / Ruan Mei
+Half-Premium Rappa: Rappa / Fugue / Ruan Mei / Lingsha
+Budget team: Rappa / HMC / Ruan Mei / Gallagher
+Sustained Rappa: Rappa / Fugue / Dahlia / Lingsha
+Girls breaking things - Meme team: Rappa / Fugue / Dahlia / Himeko

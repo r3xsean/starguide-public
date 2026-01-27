@@ -1,0 +1,56 @@
+NAME: YANQING
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, FUA
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: ST DPS who can't take DMG
+When using Yanqing's Skill, he deals ST damage and activates Soulsteel Sync, which last for one turn or disappear when Yanqing takes damage.
+
+Under Soulsteel Sync effect, Yanqing gains CR% and CDMG%, his attacks also has a fixed chance to unleash a FUA to the attacked enemy and a chance freeze them. Frozen enemy take additional damage on their turn. Yanqing also deals additional DMG to enemy with Ice weakness.
+
+Upon using Yanqing's Ultimate, he gains massive amount of CR%; if Soulsteel Sync is activated, he also gains CDMG%, and unleash a ST attack.
+
+Synergies:
+✦ Supports that prevent Yanqing from taking DMG such as shielders.
+✦ Supports that give damage amplification, action advance, energy, and so on are appreciated. However they also want to be SP positive.
+
+Notes:
+✦ In order to maintaing Soulsteel Sync all the time, Yanqing must not take damage and always spam Skill, which causes a heavy SP burden to the team.
+
+Tips:
+✦ Make sure Soulsteel Sync is active when Yanqing uses his Ultimate.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Yanqing can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get him.
+
+✦ Yanqing is not considered a very strong DPS due to strict conditions and playstyle, and his scalings are rather low which is why he is not recommended to build and use. However if you like Yanqing, with good teams and supports, he can still perform well like any other DPS.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Yanqing requires a shielder to prevent his buffs from disappearing among the sea of butterflies
+
+=== VERTICAL INVESTMENT ORDER ===
+Aventurine>E4>E6
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Aventurine's chunky stackable shields have the highest chance of preventing Yanqing from getting hit.
+
+E4 gives Yanqing a Ice RES PEN boost when his HP is above 80%.
+
+E6 extends the buffs granted by Soulsteel Sync and his ultimate by a turn when an enemy is defeated with them.
+
+=== EXAMPLE TEAMS ===
+Premium: Yanqing / Sunday / Robin / Dan PT
+Icy Circus: Yanqing / Sparkle / Cipher / Dan PT
+Debuffs Galore: Yanqing / Silver Wolf / Cipher / Aventurine
+Ice to Meet You: Yanqing / Ruan Mei / RMC / Gepard
+Budget: Yanqing / Tingyun / RMC / Gepard

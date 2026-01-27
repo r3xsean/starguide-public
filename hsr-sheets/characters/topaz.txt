@@ -1,0 +1,49 @@
+NAME: TOPAZ & NUMBY
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: Sub-DPS
+TYPE: Crit
+TEAM ARCHETYPES: Dual DPS, (Possible) Hypercarry, FUA
+SP USAGE: Depends on SP amount
+SKILL ROTATION: E when SP allows
+
+=== GENERAL ANALYSIS ===
+Kit overview: Single-target FUA Sub-DPS
+Topaz randomly inflicts [Proof of Debt] debuff on 1 target which increases Follow-Up Attack DMG taken, using Skill can reapply this debuff and let Numby attacks once.
+
+Numby appears on the action order and attack the target with said debuff, it gets advanced by 50% if its target is attacked by a FUA attack. All Topaz's attacks are considered FUA.
+
+Topaz's Ultimate buffs Numby and it can be advanced by any attacks of other teammates for 2 turns.
+
+Synergies:
+✦ Topaz works well with any FUA DPS.
+✦ Support units that can amplify team DMG, as Topaz damage contribution to the team is significant.
+✦ Units that has frequent FUA attacks.
+
+Notes:
+✦ Topaz can be a SP neutral or SP positive sub-DPS as spamming skill is unnecessary.
+✦ She can even be played as a hypercarry role but require good investment and supports to have decent results. Otherwise, using her in a sub-DPS role is recommended.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Topaz is a good ally option for most FUA DPS, but since she doesn't offer other specialized effects and her debuff is single target, she isn't high priority pull for most FUA DPS.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Works in any team that has FUA DPS
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 ≥ E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 provides good stat buff, can work for all FUA Hunt unit and make the wearer able to inflict a debuff: making the target take increased 24% Crit DMG.
+
+=== EXAMPLE TEAMS ===
+FART team: Feixiao / Aventurine / Robin / Topaz
+Topaz and smaller Topaz?: Topaz / Clara / Robin / Luocha
+FUAs go brrrr: Topaz / Hunt March 7th / Moze / Sustain
+Dr. Ratio budget dual DPS: Topaz / Dr. Ratio / Pela / Sustain
+Main DPS Topaz yay: Topaz / Sunday / Robin / Sustain

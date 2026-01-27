@@ -1,0 +1,59 @@
+NAME: CASTORICE
+RARITY: 5
+PATH: Remembrance
+
+MAIN ROLE: DPS
+DAMAGE TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, (Potential) Dual DPS, Summon
+SP USAGE: SP neutral
+SKILL ROTATION: Skill Spam, Try to not overkill with Netherwing's attacks
+
+=== GENERAL ANALYSIS ===
+Kit overview: Super HP-draining AoE focused DPS
+When allies lose or gain HP, Castorice will gain a special energy charge called Newbud, after she reaches 100% Newbud and uses her Ultimate, she summons Netherwing and creates a Territory that decrease enemies' RES. Netherwing has 3 attacks:
+[Skill 1]: consumes own HP to deal continuous AoE damage; [Skill 2]: deals 1 instance of AoE damage; [Skill 3]: when Netherwing disappear, it deals bounce damage to enemies.
+
+Netherwing cannot be targeted by enemies, and when Castorice gains Newbud, it will restore the Netherwing's HP instead. When your characters take fatal damage, Netherwing will take damage instead to keep them alive.
+Castorice and Netherwing has various DMG% buff. Her skill consume a big portion of your party's HP and deals blast damage. When Netherwing is present, enhances the skill to consume a bigger portion of party's HP; deal greater damage and become an AoE Joint ATK
+
+Once obtained Castorice, if 1 character take fatal damage, enter Mooncocoon state and take action normally, if not healed or shielded in the next turn, they will be downed. Triggers once per battle.
+
+Synergies:
+- Supports who can buff all target, including memosprites or AoE debuffers.
+- Healer is a must, preferably one with high raw healing capabilities and can heal frequently.
+
+Note:
+- Though Netherwing can sustain fatal DMG for the team, playing Castorice can be stressful, her abilities are also complex and require some learning for the best result.
+- Sunday can potentially ruin Castorice's performance if you do not know how to utilize him well. It's recommended to use simpler options.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Castorice is undoubtedly a powerful DPS, with many self buff and abilities letting her perform relatively well even at lower investments
+
+- She is tricky to use and play, requiring a certain extent of game knowledge to be able to perform optimally which may not suit all players.
+
+- Her abilities are mostly AoE with only 1 Bounce attack, which lower her performance in low targets battles.
+
+=== E0S0 VIABILITY ===
+Yes
+
+The core of her team usually consist a good healer, most notably Hyacine, with the combination of supports such as Tribbie, Evernight, RMC, etc.
+Her high HP-consumption can also be suitable for units who can make use of the HP drain.
+
+=== VERTICAL INVESTMENT ORDER ===
+Hyacine E0S0 > S1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+- Hyacine provide max HP buff, and is the best Newbud generator for Castorice for all scenarios. She's the most important priority, Hyacine S1 also helps a lot.
+- S1 increases max HP, when the wearer or their memosprite lose HP, their attack ignore DEF, when memosprite disappear, Action Advance the wearer by 12%.
+Recommended pick due to the lack of options as well as great performance increase.
+- E2: When using Ultimate, Action Advance Castorice by 100%, her Enhanced Skill restore 30% Max Newbud, [Skill 1] can be launched 2 more times. - Very powerful Eidolon, ramps up the DMG and summoning frequency.
+
+=== EXAMPLE TEAMS ===
+Premium Castorice team: Castorice / Evernight / Cyrene / Hyacine
+Half Premium team: Castorice / RMC / Tribbie / Hyacine
+You need more options?: Castorice / Cipher / Tribbie / Hyacine
+F2P team - Not recommended: Castorice / RMC / Pela / Gallagher
+No Luocha or Hyacine, Gallagher is busy - Not recommended: Castorice / Pela / Ruan Mei / Lingsha
+Jingliu/Blade 2.0 - Meme team that actually work: Castorice / Mydei / Tribbie / Hyacine

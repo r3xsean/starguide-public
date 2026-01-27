@@ -1,0 +1,63 @@
+NAME: AGLAEA
+RARITY: 5
+PATH: Remembrance
+
+MAIN ROLE: DPS
+DAMAGE TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, (Potential) Dual DPS, Summon
+SP USAGE: Neutral ~ Positive
+SKILL ROTATION: Only use E to summon Garmentmaker
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Lightning-Speed Blast DPS
+Aglaea summons Garmentmaker on the field with skill, when she attacks, inflicts [Seam Stitch] on the primary enemy, when attacked by Aglaea and Garmentmaker, this enemy will receive Additional DMG.
+
+After taking an action, Garmentmaker gains stacks of Speed buff.
+
+When Aglaea uses her Ultimate, she enters Supreme Stance she also gains said Speed buff, immediately takes action, increases her ATK based on both units' speed, enhances her Basic Attack to make it a Joint ATK together with her Memosprite and constantly deal Blast damage to enemies. This enhanced state has a countdown.
+
+Synergies:
+- Character that can benefits from the high attacks frequency.
+- Buffers, preferably who can also buff Garmentmaker at the same time.
+- Units that can provide energy via energy recharge or allowing Aglaea & Garmentmaker to take more action.
+Note:
+- Aglaea does not have high Toughness-Reduction at base even when considering her amount of attacks.
+Tips:
+- Lets Garmentmaker take its turn if its Action Value is not far away to build up Speed buff stacks
+- You are allowed to keep casting Ultimate even if Aglaea is already in the enhanced state to take more action and reset the countdown.
+
+=== WORTH PULLING FOR + VERTICAL INVEST EXPLANATION ===
+- If you like the character, get them!
+
+- Aglaea is an excellent well-rounded DPS who can work for almost every content if you have the right team and setup for her.
+
+- Aglaea has an energy cost of 350, to make her easy to manage at E0S0, you will want allies that can provide energy for her.. If you do not have E1 and/or premium supports for her, Aglaea will struggle to clear content.
+
+Using a combination of Sunday, Robin, Tribbie or Remembrance Trailblazer will give good result.
+
+Joint Attack combined with her high Speed can potentially make her an option for Dual DPS team
+
+- Priority: E1 >>> S1 > E2
+- If you already have Cyrene as well as a full Chrysos Heir team for Aglaea, the energy from E1 is not necessary to maintain her Supreme Stance. However, it is still recommended to get her E1 as it can potentially gives extra turns.
+
+S1 provides 12 Base Speed, and provides CDMG% and Basic ATK when the wearer and their Memosprite attack. This LC can allow Aglaea to have even more setups and teamcomps, on top of solid buffs.
+
+E2 gives up to 42% DEF Ignore when Aglaea and Garmentmaker repeatedly attack, but removed if other allies take action.
+
+E1S0 or E1S1 is a good stop.
+
+=== E0S0 VIABILITY ===
+NOT FOUND
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 >>> S1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+See WORTH PULLING FOR section above.
+
+=== EXAMPLE TEAMS ===
+Easy-to-Play Premium Team: Aglaea / Sunday / Robin / Huohuo
+The Other Premium team: Aglaea / Sunday / Tribbie / Robin
+No Sunday? No Problem: Aglaea / RMC / Cyrene / Dan PT
+Budget: Aglaea / RMC / Tingyun / Gallagher
+Wheelchaired: Aglaea / Tribbie / Cyrene / Hyacine

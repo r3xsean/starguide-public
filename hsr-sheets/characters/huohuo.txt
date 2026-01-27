@@ -1,0 +1,58 @@
+NAME: HUOHUO
+RARITY: 5
+PATH: abundance
+
+MAIN ROLE: Sustain
+TYPE: Healer / Cleanser
+BUFF TYPE: ATK%, Energy Recharge
+TEAM ARCHETYPES: Generalist
+Dual DPS
+Hypercarry
+SP USAGE: SP positive
+SKILL ROTATION: EAA
+EAEA if needed
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Constant cleanse and team buffer sustain
+Huohuo's skill heal 3 target, with more heal and cleanse for the main target. After using skill, she gains [Divine Provision], lasting for 2 turns. Under this effect, when an ally take their turn or use their Ultimate, dispels 1 debuff, heals them and any other allies whose HP is below 50% by a small amount as well as regenerates 1 energy for Huohuo.
+
+Her Ultimate regenerates 20% Max Energy and buff ATK% for all teammate except herself, handy for most characters.
+
+Team Synergies:
+✦ Any units that appreciate her healing, ATK% buff or energy generation.
+✦ Units that can activate Ultimate often to benefit the team and give Huohuo more energy.
+
+Notes:
+✦ Each refresh of [Divine Provision] can only cleanse 6 times, but this is hardly an issue in real battle.
+✦ While Huohuo can be SP positive with EAA rotation for 4-turn Ultimate, there will be downtime on healing at E0, so it's recommended to build Huohuo with high speed and keep note of your team's HP to use her Skill when necessary.
+Tips:
+✦ Put Huohuo at the edge of your team so she can heal 3 other allies with her skill, while keeping her own HP high through her talent's healing and defensive stat.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Huohuo's great amount of healing and cleansing make her a great pick if you are seeking comfort in gameplay.
+
+✦ As mentioned, her buffs are helpful for lots of characters, for those that want to cycle through their rotations quickly, or ones with high energy cost, a good pseudo Harmony-Abundance unit
+
+=== E0S0 VIABILITY ===
+Yes.
+Fits anywhere with good buff, put her at the edge of the setup.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1, you only need E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1: extends the duration of [Divine Provision] by 1 turn and increases the team's SPD by 12% when it's active, allow you to comfortably make her SP positive along with a nice speed buff.
+
+E2 revives knocked down target ally 2 times, which is not worth the cost.
+
+S1 gives 12% ERR%, heals ally with the lowest HP percentage when any ally uses an Ultimate and increase the ATK of healed ally by 2.4%, up to 5 stacks, which is nice but not outstanding, considering options like Quid Pro Quo and Post-OP Conversation exist.
+
+=== EXAMPLE TEAMS ===
+Infinite Argenti Ult work: Argenti / Sunday / Tingyun / Huohuo
+DoT: Kafka / Black Swan / Robin / Huohuo
+More Energy is always good!: Jingliu / Bronya / Ruan Mei / Huohuo
+So you guys like gaining energy?: Aglaea / Sunday / RMC / Huohuo
+So you guys like gaining energy? Part 2: Serval / Tingyun / Robin / Huohuo
+She is a sustain, she fits anywhere: Anyone / Anyone / Anyone / Huohuo

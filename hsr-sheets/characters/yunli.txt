@@ -1,0 +1,58 @@
+NAME: YUNLI
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+(Possible) Dual DPS
+FUA
+SP USAGE: SP negative
+SKILL ROTATION: EEE (ideally)
+EAEA (if SP is an issue)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Self-sufficient Counter based DPS
+When Yunli gets attacked, she additionally gains 15 energy, buff self ATK% by a decent amount and launches a Blast type Counter attack back, her skill is an attack that also heals herself up. Her max Energy cost is 240, but only require 120 to use, which helps with Energy overflow,
+
+When activating Ultimate, Yunli taunts all enemies, reduces DMG taken, resists Crowd Control Debuff and enhances the next counter, becoming [Intuit: Cull] which has great damage, then deals 6 DMG instances to random enemies, if the counter fail, automatically launches a weaker Enhanced Counter: [Intuit: Slash], this DMG count as Ultimate DMG.
+
+Synergies:
+✦ Crit DPS supporter and abilities that give Yunli energy with energy regen, Action Advance, etc.
+✦ Enemies that attack often, allies that don't compete with her aggro and/or buff her aggro.
+
+Notes:
+✦ Yunli runs into risk of getting taken down if she suffers too much DMG, so helping her gain turn or pairing her with a good sustain is needed.
+✦ Yunli can activate her own Counter attack but her DMG output is still dependant on getting hit often, leading to lowered DMG output if not attacked much. Enemy delay effect is bad for her.
+
+Tips:
+✦ After doing [Intuit: Slash], the next [Intuit: Slash] will be made to be [Intuit: Cull], helpful in situations where you don't get hit often or having specific plans.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Being a Counter DPS, as long as she get attacked enough, Yunli will thrives and provide great DMG output without needing specific allies, her DMG instances will let her do well into both low target and multi targets fights.
+
+✦ In bad conditions, you can help Yunli overcome the circumstance by giving her more turns and energy regeneration so she can use her Ultimate and launch Counter attacks on her own, which luckily, you have Tingyun as a non-limited option.
+
+=== E0S0 VIABILITY ===
+Yes
+Makes use of most Crit DPS support, avoid unit with delay ability, energy regen support is on high priority.
+Put Yunli in the middle spot in case you get lucky from getting hit with Blast attacks
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 > E1 > E2 - Stop at E0S1 or E1S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 greatly increases the wearer aggro, allowing the wearer to get hit more often, increase Crit DMG by 36%, when the wearer use Ultimate, increase FUA DMG by 36%, stacking up to 2, a high priority for vertical invest.
+
+E1: enhanced Counter attack deals 20% more DMG, increases [Intuit: Cull] DMG instances by 3, a strong DMG boost.
+
+E2: Counter DMG ignore 20% DEF, decent buff that only get significant if there's other DEF ignore sources.
+
+=== EXAMPLE TEAMS ===
+Premium Yunli Team: Sunday / Yunli / Robin / Huohuo
+Premium Yunli Team 2: Sparkle / Yunli / Tribbie / Lynx
+Dual DPS Team: Topaz / Yunli / Robin / Huohuo
+Budget Team: RMC / Yunli / Tingyun / Sustain
+You hit us, you die - Meme team - good for Hoolay & SimUniverse modes: Tribbie / Yunli / Aventurine / Clara

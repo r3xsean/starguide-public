@@ -1,0 +1,51 @@
+NAME: DR. RATIO
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Dual DPS, Hypercarry, FUA
+SP USAGE: SP Negative
+SKILL ROTATION: EEE, AEAE (Bronya)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Single-Target FuA Specialist
+When Dr. Ratio uses his Skill to deal damage and apply a debuff, there is a chance of launching a FUA attack afterward. The more debuffs the enemy has, the higher the chance to launch a FUA attack and the higher damage they will take from Dr. Ratio. If the enemy die before the FUA attack, he will attack a random enemy instead.
+
+Dr. Ratio's Ultimate deal Single-target damage to an enemy and apply Wiseman's Folly. If this enemy is attacked by ally, Dr. Ratio will launch a FUA attack, this trigger up to 2 times.
+
+Synergies:
+✦ Debuffers with constant uptime are essential for consistently triggering FUA attacks.
+✦ Supports with strong damage amplification, action advance, energy are highly appreciated.
+
+Notes:
+✦ Light Cones that provide debuffs can be valuable on supports and sub-DPSes.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Dr. Ratio is a very strong option if help is needed with low-target content like MoC and AS.
+
+✦ He also has several flexible, inexpensive team options that include 4-star supports, making him simple to use even for an account with few 5-stars.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Works in standard Dual DPS and Hypercarry setups, but wants at least 3 consistent debuffs active.
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+His signature Light Cone is strong, though its value can be diminished in teams with no Def Shred. He also has easy access to a budget option from Herta's Store.
+
+His E1 provides decent damage, but is simply a statstick.
+
+Topaz's signature Light Cone may be considered higher priority for his team if it lacks a third debuff.
+
+=== EXAMPLE TEAMS ===
+Premium (Standard): Dr. Ratio / Cipher / Robin / Aventurine
+Half Premium: Dr. Ratio / Sparkle / Pela / Sustain
+Budget Dual DPS: Dr. Ratio / Moze / Tingyun / Sustain
+RRAT (Requires Vertical Investment): Dr. Ratio / Topaz / Robin / Aventurine
+Vertical investment is required to ensure 3+ debuffs. Without at least 2 of: Topaz E1; Topaz  S1; Aventurine E2; and Aventurine S1, Topaz or Robin must be replaced with a debuffer.

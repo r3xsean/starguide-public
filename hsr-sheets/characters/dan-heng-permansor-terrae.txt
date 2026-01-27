@@ -1,0 +1,59 @@
+NAME: DAN HENG Permansor Terrae
+RARITY: 5
+PATH: preservation
+
+MAIN ROLE: Sustain
+SUSTAIN TYPE: Shields
+TEAM ARCHETYPES: Summon
+Hypercarry
+SP USAGE: Positive
+SKILL ROTATION: EAA
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Chunky shields via Summon
+✦ Dan Heng Permansor Terrae (DHPT) uses Skill to select one ally to become Bondmate, grant shield to the team and summon Souldragon. Bondmate will gain ATK buff based on DHPT's ATK, and when they attack, advances Souldragon's action and generate energy for DHPT. When Souldragon takes its turn, it provides teamwide shield and cleanse.
+
+✦ Souldragon is considered as Bondmate's summon.
+
+✦ Upon using DHPT Ultimate, grants shield to the entire team, enhances Souldragon for 2 actions. When enhanced Souldragon take action, they grant teamwide shield, cleansing while also dealing FUA damage based on Bondmate's stats.
+
+✦ DHPT's shields scale on his ATK, and are stackable.
+
+Team synergies:
+✦ Supports who buff teammates with summons.
+✦ Teammates who have states where other allies can't act.
+✦ Teammates who can grant ATK buffs or benefit from his ATK buff.
+
+Notes:
+✦ Since Souldragon is the Bondmate's summon, All of Sundays summon buffs will apply to the Bondmate.
+✦ If allies act too often, their shields will run out faster.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ DHPT will be free until Version 4.0
+
+✦ DHPT is a very strong sustain, and enables teams to reap the full benefits of summon related buffs like Sunday's and BananAmusement. His shields are strong, and his actions along with Souldragon allow plentiful opportunities for refreshing.
+
+=== E0S0 VIABILITY ===
+Yes
+
+DHPT can be used largely anywhere with few caveats
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > E2 > S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 restores 1 SP and increases Bondmate's RES PEN upon using Ultimate.
+
+S1 provides massive amount of ATK, heals the entire team upon using Ultimate, and give teamwide DMG boost. DHPT's S1 will be a big increase to his shields. However for most content, the alternative options are usually enough
+
+E2 gives Souldragon 2 additional enhanced actions, better shield, damage and advances Souldragon by 100% upon using ultimate.
+
+=== EXAMPLE TEAMS ===
+Sustained Phainon: Dan PT / Phainon / Cerydra / Sunday
+Premium Anaxa: Dan PT / Anaxa / Cerydra / Sunday
+Smarties convention (+1): Dan PT / The Herta / Herta / Tribbie
+Dragonborn DOT: Dan PT / Kafka / Hysilens / Black Swan
+Sunday Preset: Dan PT / Sunday / DPS / Anyone
+Classic sustain: Dan PT / Anyone / Anyone / Anyone

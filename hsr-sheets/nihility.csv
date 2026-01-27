@@ -1,0 +1,494 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DA Was here,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,Sub-DPS/Support,,,,,,,,"Kit Overview: Premium Super Break Specialist
+Dahlia's Skill deploys a Zone that lasts for 3 turns. In this Zone, allies' Weakness Break Efficiency is increased by 50% and are able to deal Super Break DMG to enemies who are not weakness broken.
+
+Upon entering combat, Dahlia selects the ally who started combat or has the highest BE% to be Dance Partner with her. When attacking weakness broken enemies, Dance Partner deals Super Break DMG and trigger Dahlia's FUA bounce attack. This can be triggered once per turn, and Dahlia recovers 1 SP for every 2 FUA attack she does.
+
+When using Ultimate, Dahlia inflicts Wilt to enemies, which reduces their DEF, implants Fire and the [Dance Partner]'s type weaknesses. This lasts for 4 enemy turns.
+
+Whenever allies implant weaknesses to enemies, their SPD increases. If a Fire character implants weakness, they deal additional Toughness DMG and gain 10% max energy. Only 50% max energy can be generated in this manner. When Dahlia receives healing or shield, she grants BE% to the team.
+Synergies:
+✦ Super Break or Break DPS/Teams, especially Fire Super Break/Break DPS who can implant weakness.
+Notes:
+✦ Due to how Wilt works, Dahlia's performance can fall short for wave content such as PF.
+✦ While Dahlia is also considered Dance Partner, she cannot trigger her own FUA.
+✦ Even though most Break teams prefer to run sustainless, Dahlia allows you to run sustainers without too much impact on the team's performance.
+Tips:
+✦ Since Wilt duration is based on the enemies' turns, smart timing of her Ultimate is recommended for better Wilt uptime.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like a character, get them!
+
+✦ Dahlia is a very powerful addition to Break or Super Break teams. It is recommended to get her if you play or plan to play these team archetypes.
+
+✦ Dahlia does not have much utility outside of Break or Super Break teams",,,,,,,,,,,,,,Yes.,,,,,,,,,,,,"Dahlia is best with Break or Super Break teams.
+While most Break/Super Break teams do not need a sustainer, it is perfectly fine to use sustainers if you need better survivability",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Debuff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,DEF reduction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, S1 >= E1 > E2,,,,,,,,,,,,Firefly Premium Team,,,,,,,,,,,,,,,
+,,,,,,,,Weakness Implant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,Firefly,,,,,Dahlia,,,,,Fugue,,,,,HMC
+,,,,,,,,Buff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"S1 increases the wearer's BE% and recovers 1 SP once when they apply a weakness, resetting upon using ultimate. The wearer and the ally that initiated combat or has the highest BE% gain a large amount of Break DMG, a rare, solid buff for Break DPS.
+
+E1 allows all allies to deal Super Break DMG, increases the Super Break DMG of the Dance Partner, and they deal extra Toughness DMG equal to 25% of enemies' max Toughness, once per enemy. A great Super Break DMG and toughness DMG increase.
+
+E2 decreases enemies' All-Type RES by 20% and inflicts Wilt to any enemies who enters battle. This lets Dahlia function smoother for multiple waves, like in PF.",,,,,,,,,,,,Boothill Premium,,,,,,,,,,,,,,,
+,,,,,,,,Super Break enabler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Break Effect%  SPD%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Boothill,,,,,Dahlia,,,,,Fugue,,,,,Sunday
+,,,,,,,,Energy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rappa Premium,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rappa,,,,,Dahlia,,,,,Fugue,,,,,Lingsha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Himeko is so back,,,,,,,,,,,,,,,
+,THE DAHLIA,,,,,,,Break,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,Super Break,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Himeko,,,,,Dahlia,,,,,Fugue,,,,,Tribbie
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lingsha DPS - E1 Lingsha is recommended,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Negative,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lingsha,,,,,Dahlia,,,,,Fugue,,,,,Sunday
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Break DPS generator,,,,,,,,,,,,,,,
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,EEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anyone,,,,,Dahlia,,,,,Fugue,,,,,Ruan Mei
+,,,,,,,,A if SP is tight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,DPS/Support,,,,,,,,"Kit Overview: Damage over Time DPS
+Whenever any ally attacks, Hysilens can inflict a DoT type to the enemy, up to 4 types of DoT.
+
+Hysilens' Skill inflict Vulnerability to all enemy.
+
+When unleashing Ultimate, Hysilens grants 1 SP, deploys a zone and detonates all the DoT on the enemies. In this zone, enemies' ATK and DEF are reduced; when enemy takes damage from a DoT type, Hysilens deals extra Bleed DoT to them and she can only deal 8 extra Bleed DoT max in this way, This zone last for 3 turns.
+
+Synergies:
+✦ DoT detonators and other DoT DPS that benefits from her multiple DoT types.
+✦ Teamwide buffer, AoE debuffers, etc.
+
+Notes:
+✦ Make sure to manage SP effectively, as DoT teams are very SP hungry in general
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like a character, get them!
+
+✦ Hysilens is a very important teammate for DoT archetype, it is recommended to get her if you plan to play DoT.
+
+✦ Hysilens has decent general debuffing capabilities that can be used in niche situations. However it is still recommended that she be primarily pulled for her main role as a DoT DPS instead of a debuffing support.",,,,,,,,,,,,,,"Yes, but with Kafka",,,,,,,,,,,,"Kafka is nearly mandatory for Hysilens to function well, as for the other member slot, another DoT DPS or damage amplifier of any sorts are highly appreciated.",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERITCAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kafka > E1 > S1 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, The Premium DoT team,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Even though Hysilens can occasionally detonate DoT via Ultimate, Kafka is still a requirement for DoT teams as she's the only consistent DoT detonator available.
+
+E1 increases team's DoT damage, and allows Hysilens to inflict an additional DoT whenever ally attacks, up to 8 types of DoT on enemies.
+
+S1 increases the wearer EHR% and grants SPD to allies whenever they attack enemies. When the wearer inflict debuffs, they can inflict DoT Vulnerability. 
+
+",,,,,,,,,,,,Black Swan,,,,,Hysilens,,,,,Kafka,,,,,Dan PT
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No Swan?,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cipher,,,,,Hysilens,,,,,Kafka,,,,,Dan PT
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No Cat or Swan?,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Robin,,,,,Hysilens,,,,,Kafka,,,,,Sustain
+,HYSILENS,,,,,,,SP positive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No furry Nihility?,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ruan Mei,,,,,Hysilens,,,,,Kafka,,,,,Sustain
+,,,,,,,,EAA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No Kafka? - Requires E1 Hysilens,,,,,,,,,,,,,,,
+,,,,,,,,EAE if needed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cerydra,,,,,Hysilens,,,,,Cyrene,,,,,Hyacine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,Debuffer Support,,,,,,,,"Kit Overview: Consistent debuffer and flexible Sub-DPS
+When Cipher is present, applies 40% Vulnerability to all enemies and Patron to the enemy with highest HP, when any ally hit this enemy, she launches a FUA attack. Cipher's Skill weakens enemies, when Cipher uses her Ultimate or Skill, she can re-apply Patron on other enemies.
+
+Cipher's Ultimate explanation, notes and tips:
+Cipher records the DMG dealt by all allies, excluding True DMG, indicated as coins (1 coin = 1k DMG). Unleash this DMG by using Ultimate and consume all coins, if the attack only has 1 target, all DMG will be directed toward it rather than being distributed unless there are 2 or 3 enemies. If facing elite and boss targets, try to eliminate all mobs target before using her Ultimate. If the boss is AoE or in Pure Fiction, you can spam her Ultimate.
+
+When reaching a certain amount of SPD, she gains CR% and increases the portion of tallied damage. Up to a maximum of 24% on Patron enemy and 16% on other enemies.
+
+Synergies:
+✦ Units who appreciate Cipher's frequent attacks, debuffs application and DMG amplification.
+Notes:
+✦ Cipher's multipliers are very low and the majority of her damage is from tallied damage. This allows you to completely neglect her offensive stats.
+Tips:
+✦ Cipher's skill is not high priority, use it when there is excess SP.
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, get them!
+
+✦ Cipher is an extremely consistent and strong debuffer, which makes her a great generalist support to have for any team.",,,,,,,,,,,,,,Yes.,,,,,,,,,,,,She works for any team,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron Hypercarry,,,,,,,,,,,,,,,
+,,,,,,,,Debuff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Vulnerability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S1 > E1,,,,,,,,,,,,Acheron,,,,,Jiaoqiu,,,,,Cipher,,,,,Aventurine
+,,,,,,,,True damage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feixiao Premium ,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"S1 provide SPD, whenever the wearer attacks, they reduces all enemies' DEF. If the wearer have 170 SPD, they reduce additional DEF.
+
+E1 allows Cipher to record 36% non True Damage on Patron enemies and 24% on other enemies. When she unleashes her FUA, she gains 80% ATK.
+
+Since Cipher's damage is already low, she prefers S1 over E1 as it provide ease of building and allows her to amplify her team damage even more.",,,,,,,,,,,,Feixiao,,,,,Robin,,,,,Cipher,,,,,Aventurine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Archer Premium,,,,,,,,,,,,,,,
+,,,,,,,,Generalist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,FUA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Archer,,,,,Sparkle,,,,,Cipher,,,,,Sustain
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Castorice Premium,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Castorice,,,,,Cyrene,,,,,Cipher,,,,,Hyacine
+,CIPHER,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dr. Ratio and his pet cat - Dr. Ratio Premium Team,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,SP positive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dr. Ratio,,,,,Sunday,,,,,Cipher,,,,,Aventurine
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"She is a universal support, she fits anywhere",,,,,,,,,,,,,,,
+,,,,,,,,AAA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,E when needed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anyone,,,,,Anyone,,,,,Cipher,,,,,Sustain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"Break-Super Break +
+ Debuffer Support",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,"Kit overview: Premium Super Break Support
+Just by existing in the battle, Fugue allows all allies to deal Super Break DMG against weakness broken enemies and inflicts all enemies with [Cloudflame Luster], which is an additional Toughness you can break, triggering corresponding Break DMG and Weakness Break effect once broken.
+
+Fugue's skill grants 1 ally [Foxian's Prayer] effect: Increases Break Effect%, attacks from this ally can deal universal Toughness Reduction with 50% reduced value and are able to inflict Defense shred. Lastly, enhances Basic Attack, making it Blast type to contribute more Toughness Reduction.
+
+Enemy target will get delayed by 15% each time its Toughness is broken, allowing more chances to deal Super Break DMG
+
+Synergies:
+✦ Super Break or Break DPS and units with high Toughness Reduction in general.
+✦ Units that benefit from breaking enemies' Toughness and/or debuffs.
+
+Notes:
+✦ Fugue's ultimate is an attack that can ignore Weakness Type, with no further effect.
+✦ Her universal Toughness Reduction effect can not stack with other sources (ie: Rappa's EBA)
+
+Tips:
+✦ Use Fugue's skill on ally capable of high Toughness Reduction (ie: Lingsha, Harmony TB) to help with Toughness damage then swap back to the main DPS unit once targets are (close to) broken.",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, get them!
+
+✦ Getting Fugue would let you have a good to great upgrade to Harmony Trailblazer, or a replacement in case you use Remembrance Trailblazer elsewhere
+
+✦ If you have or intend to have multiple Break-based teams, pulling for Fugue is also recommended.",,,,,,,,,,,,,,Yes,,,,,,,,,,,,"Best with Break teams, with some niche situation to fit in",,,,,,,,,,,,,,,
+,,,,,,,,Buff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Break Effect%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,Rappa's beloved Exo-Toughness (Premium Rappa team),,,,,,,,,,,,,,,
+,,,,,,,,Super Break enabler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E1 > S1 > E2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rappa,,,,,Dahlia,,,,,Fugue,,,,,Lingsha
+,,,,,,,,Debuff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,Talent's stack for Cowboy,,,,,,,,,,,,,,,
+,,,,,,,,"Delay, DEF Shred,
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E1 lets ally with [Foxian Prayer] increases their Weakness Break Efficiency by 50%, crucial for breaking and Super Break DMG.
+
+S1 increases BE%, helps with maxing out Fugue's team BE% buff and offers Break DMG vulnerability.
+
+E2 gives energy when breaking an enemy, Fugue's Ultimate now Advances Forward the whole team by 24%, which can be hard to utilize for more casual players.
+
+E1S0 is a fine stop.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Exo-Toughness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Boothill,,,,,Dahlia,,,,,Fugue,,,,,Sunday
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Himeko Break,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Himeko,,,,,Dahlia,,,,,Fugue,,,,,Tribbie
+,,,,,,,,Break,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lingsha Carry?!,,,,,,,,,,,,,,,
+,,,,,,,,Super Break,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,FUGUE,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HMC,,,,,Dahlia,,,,,Fugue,,,,,Lingsha
+,✦✦✦✦✦,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Firefly Premium,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SP Positive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Firefly,,,,,Dahlia,,,,,Fugue,,,,,HMC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anyone can be a Break-DPS! (High Toughness Reduce unit meme team),,,,,,,,,,,,,,,
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,EAA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anyone,,,,,Dahlia,,,,,Fugue,,,,,Sustain
+,,,,,,,,or E to switch target,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,At,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,Debuffer Support,,,,,,,,"Kit Overview: Strong autostacking field-based Debuffer
+✦ Whenever Jiaoqiu attacks, inflicts stacks of his [Ashen Roast] debuff. This acts as Burn DoT, and at max stacks (5) applies 35% Vulnerability.
+
+✦ His Ultimate creates a field, which will cause enemies to take 15% more Ultimate DMG. It also inflicts stacks of [Ashen Roast] at the start of their turns, up to 6 times per Ultimate use.
+
+Synergies:
+✦ Units that want Debuffs, whether it is due to kit requirements or already having strong self-buffs.
+✦ Ultimate-Damage focused DPS benefit highly from his bonus Ultimate Vulnerability.
+✦ Vulnerability amplifies all damage types, including Break; as such, he can be used in all teams. 
+
+Tips:
+✦ Against waves of weak mobs, such as in Pure Fiction, Solitary Healing can be his preferred Light Cone for Ultimate spamming. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, pull them!
+
+✦ Jiaoqiu is an extremely high priority investment for Acheron teams, where he is consistently Best-in-Slot and a massive upgrade over budget options. 
+
+✦ He has no downtime on his debuffs. As such, he is a strong, consistent AoE debuffer.
+
+✦ He can fit into all teams, making him a useful backup option for in-demand supports even when not BiS.
+
+",,,,,,,,,,,,,,Yes.,,,,,,,,,,,,"He fits anywhere, preferably debuff-based and Ultimate-DMG Teams",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Premium Acheron team,,,,,,,,,,,,,,,
+,,,,,,,,Debuff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Ultimate Vulnerability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S1 >  E1 > E2,,,,,,,,,,,,Acheron,,,,,Cipher,,,,,Jiaoqiu,,,,,Aventurine
+,,,,,,,,"Vulnerability, DoT",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Triple DoT,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"S1 provides a significant 60% EHR buff and a bonus 24% vulnerability, making him easier to build and a stronger debuffer. It can also be used on other Nihility support units.
+
+E1 provides a 40% damage boost to the team, though its faster stacking effect is mostly irrelevant. 
+
+E2 is a strong option for DoT teams as his DoT scaling is now comparable to Black Swan's.
+
+Prioritize E2 if wanting to focus on DoT",,,,,,,,,,,,Kafka,,,,,Hysilens,,,,,Jiaoqiu,,,,,Dan PT
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ratio Hypercarry,,,,,,,,,,,,,,,
+,,,,,,,,Generalist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dr. Ratio,,,,,Sunday,,,,,Jiaoqiu,,,,,Aventurine
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ultimate DMG team ,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Argenti,,,,,Sunday,,,,,Jiaoqiu,,,,,Huohuo
+,JIAOQIU,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Xianzhou Yaoqing Squad,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,SP Positive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feixiao,,,,,Moze,,,,,Jiaoqiu,,,,,Lingsha
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Break Jiaoqiu!? - Meme team that take advantage of his Toughness DMG,,,,,,,,,,,,,,,
+,,,,,,,,EAA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,EAE (If Needed),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ruan Mei,,,,,Fugue,,,,,Jiaoqiu,,,,,Lingsha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,DPS,,,,,,,,"Kit Overview: Debuff focused AoE DPS
+Whenever Acheron uses Skill or ally inflict a debuff, Acheron gains 1 Slashed Dream and inflict 1 Crimson Knot to the attacked enemy. Acheron can hold 12 Slashed Dream stacks. Crimson Knot increase damage taken from Acheron's Ultimate.
+
+Acheron can activate her Ultimate with 9 Slashed Dream stacks. Upon activation, Acheron reduces enemies' RES, then unleashes 3 ST attack before unleashing the final AoE hit. This attack depletes toughness regardless of weakness. If her ST attack hit enemies with Crimson Knot, deals an instance of AoE damage. All attacks during her Ult is considered Ult DMG.
+
+If there are 1-2 more Nihility characters other than Acheron in the team, Acheron gains massive DMG bonus depending on the amount.
+
+When using her Technique, she can instantly kill any enemies, with the exception of bosses/elites in which case she will deal AoE damage and gain 6 Slashed Dream.
+Synergies:
+✦ Nihility units with fast debuff applications and damage amplification.
+✦ Supports with action advance, strong buffs, debuffs, etc. Acheron S1 and/or E2 is required if you want to use 1 Harmony/1 Nihility.
+Notes:
+✦ Acheron has worse performance against ST.
+Tips:
+✦ Make sure to use Acheron's Ultimate after all debuffs and buffs are applied for most damage.
+✦ You can redirect Acheron's ST hit during her Ult to control damage and generate more Slashed Dream for next waves.",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, get them!
+
+✦ Acheron is a very good DPS for almost all 
+content, as long as she has the core investment.
+
+✦ Acheron's technique can instant kill any 
+normal mobs, including those in DU/SU 
+which makes her very potent for quick DU/SU 
+runs.",,,,,,,,,,,,,,Yes.,,,,,,,,,,,,"Prefers two Nihility teammates at E0S0, debuffer sustain appreciated.
+
+At S1/E2, Harmony unit able to Action Advance can be used with Nihility support and have similar/better performance compare to 2 Nihility setup",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Damage Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,CRIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jiaoqiu/Cipher/Silver Wolf > S1 > E2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Premium Acheron Team,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Jiaoqiu/Cipher/Silver Wolf is a great battery for Acheron while bringing strong damage amplification. It's recommended to have at least one or ideally 2 of them.
+
+S1 increases CDMG, when the wearer attack, they inflict a debuff which increases DMG dealt to enemies and the wearer's Ultimate damage. This not only give a boost to her damage but also generate more stacks.
+
+It's recommended to stop at E0S1 with at least one of the mentioned supports for lower investments.",,,,,,,,,,,,Acheron,,,,,Jiaoqiu,,,,,Cipher,,,,,Aventurine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Who needs 3 Nihilities?,,,,,,,,,,,,,,,
+,,,,,,,,Hypercarry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron,,,,,Jiaoqiu,,,,,Sunday,,,,,Sustain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sustainless Acheron team - Featuring Silver Wolf E2,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron,,,,,Jiaoqiu,,,,,Silver Wolf,,,,,Tribbie
+,ACHERON,,,,,,,SP Negative,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,She got lost in Amphoreus (PF team),,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron,,,,,Hysilens,,,,,Tribbie,,,,,Hyacine
+,,,,,,,,EEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Budget team,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron,,,,,Guinaifen,,,,,Pela,,,,,Gallagher
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,DPS/ Support,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,"Kit Overview: Damage over Time DPS
+Black Swan inflicts [Arcana] on enemies through her Basic Attack, Skill, or whenever an enemy received DoT damage. [Arcana] is considered Wind Shear , and it deals more damage with more stacks. [Arcana] also has unique effects depending on the amount of stacks. After enemy turn [Arcana] damage on their turn, [Arcana] reset to 1
+
+Black Swan's Ultimate deals AoE damage and inflict Epiphany, which has these following effects: Increase damage taken, prevent [Arcana] reset once.
+
+Synergies:
+✦ Units that can frequently applies and detonate DoT, such as Kafka or Sampo.
+✦ Harmony characters, especially one that can provide team buffs or AoE debuffers
+
+Tips:
+✦ Black Swan's vulnerability from her ult only works during enemies turn. Play around it to maximize your team's damage.
+✦ Black Swan can also function as a support outside of DoT team, thanks to her minor DEF shreds on Skill and Vulnerability on Ultimate, although this pale in comparison with dedicated 5* support.",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, pull them!
+
+✦ Black Swan & Kafka is a strong duo that can tackles most end game fights. They are worth pulling together if you enjoy the DoT playstyle. 
+
+✦ Although Black Swan has viability as a support, it is not worth to pull her just for that.
+
+",,,,,,,,,,,,,,"Yes, but with Kafka",,,,,,,,,,,,Kafka is mandatory for Black Swan to function well,,,,,,,,,,,,,,,
+,,,,,,,,Damage Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Premium DoT team,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kafka > E1 > S1,,,,,,,,,,,,Black Swan,,,,,Kafka,,,,,Hysilens,,,,,Dan PT
+,,,,,,,,Debuff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Double Threat,,,,,,,,,,,,,,,
+,,,,,,,,"DEF Shred, Vulnerability,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"While Black Swan has good DoT damage, she has no methods to detonate them. Therefore, Kafka is a must for Black Swan to function well, as she's the only available DoT detonator.
+
+E1 allows Black Swan to inflict Type RES shred of the DoT type on the enemies
+
+S1 increases EHR% and whenever the wearer deals damage to enemy, they gain ATK and their DoT will ignore DEF. The more DoT type the enemy has, the stronger the effect.",,,,,,,,,,,,Black Swan,,,,,Kafka,,,,,Robin,,,,,Dan PT
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dotcheron - Somewhat meme team,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Swan,,,,,Kafka,,,,,Acheron,,,,,Aventurine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,More DoT variant,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Swan,,,,,Kafka,,,,,Jiaoqiu,,,,,Sustain
+,BLACK SWAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Budget,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Swan,,,,,Kafka,,,,,Sampo,,,,,Sustain
+,,,,,,,,Depends on SP amount,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DoT Boothill - Meme team,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black Swan,,,,,Sunday,,,,,Boothill,,,,,Sustain
+,,,,,,,,E spam or EAEA or EAA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS (POST 3.4 BUFF),,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,DPS/Support,,,,,,,,"Kit Overview: Damage over Time detonator/driver
+Kafka can inflict Shocked, by using her Ultimate or from her Talent: Whenever an allies attack enemies, she consumes 1 Charge and launch a FUA attack. Whenever Kafka take turns or uses her Ultimate, gain 1 Charge, she can hold 2 Charge max.
+
+When Kafka uses her Skill, Ultimate, or Talent, she will detonate the DoT on the attacked enemies.
+
+If any allies has at least 75% EHR, Kafka grants 100% ATK to that ally. This also includes herself
+
+Synergies:
+✦ Kafka works well as a DoT detonator for any DoT DPS
+✦ Kafka appreciate any Nihility or Harmony support that can benefit both Kafka and the other DoT DPS
+
+Notes:
+✦ Kafka's role is more similar to a support/enabler rather than a DPS herself, this allows you to build Kafka as fast as possible while not having to pay much attention to her personal damage.",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, pull them!
+
+✦ Kafka is necessary if you want to play DoT and she ideally want to be paired with good DoT DPS such as Black Swan or Hysilens in order to maximize the performance of this archetype.
+
+✦ Kafka does not have much utilities outside of DoT teams
+
+",,,,,,,,,,,,,,Yes.,,,,,,,,,,,,"Works in any DoT teams, or Acheron teams with either one of the limited DoT units",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Damage Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E1 > S1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DoT Premium,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kafka's S1 gives her 14.4% SPD and extra DoT scaling, which is very strong but requires SPD tuning to make good use of. Kafka also has another great options.
+
+E1 allows any of her attack apply 30% DoT vulnerability on the attacked enemies.
+
+E2 is a 33% DoT DMG increase for the team.
+
+E1 is recommended instead of S1 because it allows her to amplify her personal and also her ally damage",,,,,,,,,,,,Kafka,,,,,Hysilens,,,,,Black Swan,,,,,Huohuo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everyone gets ATK%! - alt 75% EHR build on non-DOT allies,,,,,,,,,,,,,,,
+,,,,,,,,DoT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kafka,,,,,Hysilens,,,,,Robin,,,,,Dan PT
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dotcheron - Somewhat meme team,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kafka,,,,,Acheron,,,,,Hysilens,,,,,Gallagher
+,KAFKA,,,,,,,SP negative,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fish n Cat,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kafka,,,,,Hysilens,,,,,Cipher,,,,,Sustain
+,,,,,,,,EEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Budget - Not recommended,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kafka,,,,,Sampo,,,,,Guinaifen,,,,,Sustain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DA Was here,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS (POST 3.4 BUFF),,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,Debuffer Support,,,,,,,,"Kit Overview: Strong, multiple effects Debuffer
+Whenever Silver Wolf attacks, randomly inflicts [Bug] effect that can either: reduce ATK, reduce DEF or reduce SPD.
+
+Silver Wolf's Skill adds one Weakness based on the first character on lineup to an enemy, reducing their all type RES. If the enemy doesn't already have that weakness, further reduce their RES to that element. Only 1 weakness can be implanted on an enemy. If the debuffed enemy is killed, the weakness will move to the enemy with highest HP.
+
+Silver Wolf's Ultimate reduces DEF of all enemies heavily.
+
+Synergies:
+✦ DPS that enjoy or rely on (multiple) debuffs.
+✦ Units that want to break enemies (whom do not have their own Weakness Implant).
+
+Note:
+✦ Due to high multiplier on her Ultimate and low EHR% requirement, Silver Wolf can go for a crit Sub-DPS build
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, get them!
+
+✦ Silver Wolf's abundant debuffs and consistency makes her a very great generalist support to have on all team.
+
+✦ Silver Wolf works best for Single-target situation but also can do well in AoE. However she may struggle in content such as Pure Fiction, where there are multiple waves of enemies which lowers the uptime on her debuffs.
+
+",,,,,,,,,,,,,,Yes.,,,,,,,,,,,,Flex in just about any team.,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron Hypercarry,,,,,,,,,,,,,,,
+,,,,,,,,Debuff Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"DEF Shred, RES Shred",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E2 > E1/S1,,,,,,,,,,,,Acheron,,,,,Jiaoqiu,,,,,Silver Wolf,,,,,Fu Xuan
+,,,,,,,,"ATK reduct, SPD reduct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ratio Hypercarry,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E1 lets Silver Wolf charge her ult faster. Which can significantly improve her uptime or allow her to generate more SP to the team.
+
+E2 applies 20% Vulnerability to all enemy, and whenever any ally attack, Silver Wolf inflict a random [Bug] on that enemy.
+
+S1 is a rather weak LC both for Support and Crit DPS Nihility units, and is not recommended to aim for.
+
+E1S0 is a good stop.",,,,,,,,,,,,Dr. Ratio,,,,,Robin,,,,,Silver Wolf,,,,,Aventurine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mono Type team,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Generalist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seele,,,,,Sparkle,,,,,Silver Wolf,,,,,Fu Xuan
+,,,,,,,,Debuff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Castorice Team,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Castorice,,,,,RMC,,,,,Silver Wolf,,,,,Hyacine
+,SILVER WOLF,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The true Acheron Premium team - Requires E2 Silver Wolf,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,SP positive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acheron,,,,,Tribbie,,,,,Silver Wolf,,,,,Sustain
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"She is a universal support, she fits anywhere",,,,,,,,,,,,,,,
+,,,,,,,,EAA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,E when changing target,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anyone,,,,,Anyone,,,,,Silver Wolf,,,,,Sustain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DA Was here,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Main Role,,,,,,,,✦ GENERAL ANALYSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ WORTH PULLING FOR:,,,,,,,,,,,,,,✦ DO THEY FUNCTION AT E0S0?,,,,,,,,,,,,✦ EXAMPLE TEAMS,,,,,,,,,,,,,,,
+,,,,,,,,DPS,,,,,,,,"Kit Overview: DPS likes to take it slow
+Welt's Skill deals 3 bounce damage and inflict Slow to the hit enemy. Slowed enemies have reduced SPD. Welt will deal additional damage to Slowed enemies, he also deals more damage to Weakness broken enemies.
+
+Upon using Ultimate, Welt deals AoE damage to all enemies, inflict Slow, Vulnerability and Imprisonment, which delay enemies' action.
+
+Synergies:
+✦ Supports with good damage amplification, action advance, energy generation, etc.
+
+Tips:
+✦Try to get Welt's ultimate as quickly as possible, to keep high uptime on Slow and Imprisonment.
+
+
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,"✦ If you like the character, get them!
+
+✦ Welt can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get him.
+
+✦ In general, Welt is not considered a strong support or great DPS, he has very few utilities and his damage is not that great. It is recommended to not use him at all
+
+✦ However if you love this character, you can totally get good supports and make him shine like any other DPS. It is ill-advised to use him as a support or sustainer.
+",,,,,,,,,,,,,,Needs E2 at least to be decent,,,,,,,,,,,,"Welt prefers allies who can give him energy, or extra turns for the additional DMG",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Damage Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVESTMENT ORDER,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Crit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sunday > E2 > E6,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Premium,,,,,,,,,,,,,,,
+,,,,,,,,Contributes to these team archetypes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✦ VERTICAL INVEST EXPLANATION,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sunday provides Welt energy and action advance, letting him take more turns, deal more DMG, and gain more energy
+
+E2 gives Welt energy every time his talent is activated, significantly speeding up his ult recovery
+
+E6 lets skill hit 4 times instead of 3, allowing for more DMG and more energy gain",,,,,,,,,,,,Welt,,,,,Sunday,,,,,Tribbie,,,,,Huohuo
+,,,,,,,,Hypercarry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Who Needs Buffs? - E2 Welt recommended,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Welt,,,,,Silver Wolf,,,,,Jiaoqiu,,,,,Aventurine
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Need more Premium options?,,,,,,,,,,,,,,,
+,,,,,,,,SP Usage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SP Negative,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Welt,,,,,Sunday,,,,,Cipher,,,,,Luocha
+,WELT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Forbidden Technique - Meme Team,,,,,,,,,,,,,,,
+,✦✦✦✦✦,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Welt,,,,,Acheron,,,,,Jiaoqiu,,,,,Tribbie
+,,,,,,,,Skill Rotation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Budget,,,,,,,,,,,,,,,
+,,,,,,,,EEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Welt,,,,,Tingyun,,,,,Pela,,,,,Sustain

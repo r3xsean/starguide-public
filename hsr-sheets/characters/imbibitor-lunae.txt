@@ -1,0 +1,51 @@
+NAME: DAN HENG
+Imbibitor Lunae
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit Damage
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: Very SP negative
+SKILL ROTATION: Spend 3 Skill Points for
+EBA at much as possible
+
+=== GENERAL ANALYSIS ===
+Kit Overview:  Enhanced Basic Attack Crit DPS
+Dan Heng – Imbibitor Lunae (DHIL) is a crit DPS that excels at Blast as well as ST fights. DHIL's skill allows him to enhance his Basic Attack, the more SP you use (up to 3), the more damage it deals. The attack starts at ST type, then after the enhancing it twice, it becomes a blast attack, dealing massive damage and toughness reduction.
+
+His Ultimate, beside dealing Damage, will give him 2 scales called [Squama Sacrosancta], acting like SP for enhancing DHIL's Basic Attack, easing SP consumption.
+
+Synergies:
+✦ Due to his SP intensive kit playing him with SP+ characters is a must.
+✦ As DHIL isn't built fast generally, it's recommended to have an action advancer or speed buffer on the team as well. He also benefits a lot from teammates that help with his energy regeneration.
+
+Notes + Tips:
+✦ When playing DHIL you should always keep an eye on your SP consumption to bring the most out of his damage
+✦ Since DHIL's Basic attack has multiple enhancement stages, regulating those according to the situation can save you SP
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ DHIL is a strong Imaginary DPS to have on hand. If you have good teams for him and decent investments, he can clear content well.
+
+=== E0S0 VIABILITY ===
+Yes
+Typical hyper carry setup, prioritize teammate that can provide lots of SP
+
+=== VERTICAL INVESTMENT ORDER ===
+Support units investment >E2 > S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+DHIL's E2 is one of the best Eidolons in the game with a big increase in overall damage when compared to E0. It advances him forward by 100% after using his ult. Going for E1 is not recommended unless it's a stepping stone to E2.
+
+S1 enables a 3-turn Ult rotation, is however not a massive increase to his damage overall. (~6-7%)
+
+Getting his premium teammates like Sparkle or Sunday E0S1 would likely be more efficient than going for DHIL's own vertical investment.
+
+=== EXAMPLE TEAMS ===
+Premium team - Sparkle for your SP needs: Dan IL / Sparkle / Ruan Mei / Huohuo
+Another Premium team ( S1 Sunday and Gallagher for extra SP comfort): Dan IL / Robin / Sunday / Gallagher
+SP mukbang (Require S1 Sunday and careful SP planning): Dan IL / Sparkle / Sunday / Gallagher
+Budget team: Dan IL / Tingyun / Hanya / Sustain
+The Astral Express Trio - Meme team: Dan IL / Hunt March 7th / RMC / Sustain

@@ -1,0 +1,50 @@
+NAME: ARGENTI
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, Dual DPS
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: AoE specialized DPS
+Argenti's Talent grant him energy whenever he attacks, the more enemies he hits, the more energy he gains. Each enemies hit will also grant him [Apotheosis] stacks, which increases his Crit Rate and Crit Damage.
+
+Argenti has 180 max Energy. Argenti's Skill and Ultimate deals AoE damage to enemies. However his ultimate has 2 forms:
+- [For In This Garden Supreme Beauty Bestows]: Consumes 90 energy to unleash an AoE attack
+- [Merit Bestowed in "My" Garden]: Consumes 180 energy to unleash an even a stronger AoE attack. He will also deals 6 additional instances of bounce damage afterwards.
+
+Synergies:
+✦ Supports that provide action advance, energy or good damage amplification
+✦ Work as enabler for other erudition unit, such as with Jade, Mini Herta or The Herta.
+Notes:
+✦ Argenti's scaling on his fully charged Ultimate is pretty low, it's recommended to spam his 90 cost Ultimate for finishing off minions or small mobs.
+✦ ERR% rope can be used on Pure Fiction build
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, pull them!
+
+✦ Argenti has always been a great DPS option in Pure Fiction, he is a great pull if you lack good DPS for this specific content. However his performance in other content may not be as great due to mediocre scalings.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Basically any hypercarry setup works for him, prioritize energy regen buff
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 ≥ E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 offer dmg% on Ult and CDMG and E1 offer CDMG
+
+His early Eidolon isn't that good and his premium support offer much more compared to his Eidolon, thus investing more to get his premium support is recommended
+
+=== EXAMPLE TEAMS ===
+Infinite Ult Work: Argenti / Sunday / Tingyun / Huohuo
+Premium Team: Argenti / Sunday / Tribbie / Huohuo
+Half Premium team: Argenti / RMC / Tribbie / Sustain
+Kuru-kuru kaboom: Argenti / Herta / robin / Gallagher
+Freemium: Argenti / Tingyun / RMC / Sustain
+Beauty in Erudition: Argenti / The Herta / Tribbie / Sustain

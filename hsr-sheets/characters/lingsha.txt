@@ -1,0 +1,63 @@
+NAME: LINGSHA
+RARITY: 5
+PATH: abundance
+
+MAIN ROLE: Sustain
+TYPE: Healer / Cleanser
+DEBUFF TYPE: Break Damage Vulnerability
+TEAM ARCHETYPES: Generalist
+FUA
+Break & Super Break
+Debuff
+SP USAGE: SP Positive
+SKILL ROTATION: EAA to recharge Fuyuan
+E spam for more damage & heal if SP allows
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Constant team-wide Healer and Area of Effect Attacker
+Lingsha summons [Fuyuan] on the Action Order with her skill and technique.
+
+Lingsha's Skill deals AoE damage, heal allies, advance [Fuyuan] action, and grant 3 action count, up to 5 maximum. If an ally gets below 60% HP, [Fuyuan] launches an attack. The effect triggers per 2 turns
+
+When [Fuyuan] take action, it will consume 1 action count to deal AoE damage (This is considered FUA), cleanse one debuff and heal all allies.
+
+Finally, her Ultimate inflicts Break Damage Vulnerability and Advance Forward [Fuyuan] by 100%.
+Team Synergies:
+✦ Characters that benefit from the many attacks of Lingsha: (AoE attack, Fire Toughness DMG, FUA).
+✦ Break and Super Break teams and units.
+Note:
+✦ In some rare cases, [Fuyuan] might arrive sooner or later than when you need it.
+Tips:
+✦ You can use Basic Attack for the first 3 of Lingsha's turns after using her technique.
+✦ Purposely lowering your units' HP/DEF, making them more squishy to trigger [Fuyuan]'s emergency heal early for more AoE attacks is an option.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Being a Limited 5-star sustain, Lingsha is a worthwhile pick up for anyone seeking comfort while playing.
+
+✦ Her abundant streams of FUA, AoE attacks and Break Damage Vulnerability can be helpful for various team setups.
+
+=== E0S0 VIABILITY ===
+Yes
+Fits anywhere, better in AoE-focused situations and Break Effect teams.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 = S1 = Luocha S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Lingsha's AoE attacks synergize well with Luocha's Sig, giving her more energy to spam Ultimate for even more AOE attacks.
+
+E1 boosts self Weakness-break efficiency. Reduces 20% DEF of weakness-broken enemies.
+
+S1 buffs BE% and wearer's Ult attack inflicts 10% Vulnerability, 18% if wearer has 150+ BE%. Can be used by other units, increases Lingsha's DMG overall.
+
+There are multiple choices to vertically invest, so it's up to one's preference.
+
+=== EXAMPLE TEAMS ===
+The Erudition Package: Jade / Tribbie / The Herta / Lingsha
+AoE Super Break Main DPS Lingsha: HMC / Fugue / Dahlia / Lingsha
+Jade 2 supports enabler - Sunday's skill on Lingsha: Jade / Sunday / Robin / Lingsha
+AoE Toughness Reduction for Rappa - Rappa Premium team: Rappa / Fugue / Dahlia / Lingsha
+Full on FUA: Feixiao / Moze / Hunt March 7th / Lingsha
+So you need a sustainer for your Break team?: DPS / Fugue / Dahlia / Lingsha

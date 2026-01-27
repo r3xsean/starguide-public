@@ -1,0 +1,53 @@
+NAME: HYSILENS
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: DPS/Support
+TYPE: DoT
+TEAM ARCHETYPES: DoT, Debuff
+SP USAGE: SP positive
+SKILL ROTATION: EAA, EAE if needed
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Damage over Time DPS
+Whenever any ally attacks, Hysilens can inflict a DoT type to the enemy, up to 4 types of DoT.
+
+Hysilens' Skill inflict Vulnerability to all enemy.
+
+When unleashing Ultimate, Hysilens grants 1 SP, deploys a zone and detonates all the DoT on the enemies. In this zone, enemies' ATK and DEF are reduced; when enemy takes damage from a DoT type, Hysilens deals extra Bleed DoT to them and she can only deal 8 extra Bleed DoT max in this way, This zone last for 3 turns.
+
+Synergies:
+- DoT detonators and other DoT DPS that benefits from her multiple DoT types.
+- Teamwide buffer, AoE debuffers, etc.
+
+Notes:
+- Make sure to manage SP effectively, as DoT teams are very SP hungry in general
+
+=== WORTH PULLING FOR ===
+- If you like a character, get them!
+
+- Hysilens is a very important teammate for DoT archetype, it is recommended to get her if you plan to play DoT.
+
+- Hysilens has decent general debuffing capabilities that can be used in niche situations. However it is still recommended that she be primarily pulled for her main role as a DoT DPS instead of a debuffing support.
+
+=== E0S0 VIABILITY ===
+Yes, but with Kafka
+
+Kafka is nearly mandatory for Hysilens to function well, as for the other member slot, another DoT DPS or damage amplifier of any sorts are highly appreciated.
+
+=== VERTICAL INVESTMENT ORDER ===
+Kafka > E1 > S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Even though Hysilens can occasionally detonate DoT via Ultimate, Kafka is still a requirement for DoT teams as she's the only consistent DoT detonator available.
+
+E1 increases team's DoT damage, and allows Hysilens to inflict an additional DoT whenever ally attacks, up to 8 types of DoT on enemies.
+
+S1 increases the wearer EHR% and grants SPD to allies whenever they attack enemies. When the wearer inflict debuffs, they can inflict DoT Vulnerability.
+
+=== EXAMPLE TEAMS ===
+The Premium DoT team: Black Swan / Hysilens / Kafka / Dan PT
+No Swan?: Cipher / Hysilens / Kafka / Dan PT
+No Cat or Swan?: Robin / Hysilens / Kafka / Sustain
+No furry Nihility?: Ruan Mei / Hysilens / Kafka / Sustain
+No Kafka? - Requires E1 Hysilens: Cerydra / Hysilens / Cyrene / Hyacine

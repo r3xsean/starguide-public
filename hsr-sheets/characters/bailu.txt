@@ -1,0 +1,51 @@
+NAME: BAILU
+RARITY: 5
+PATH: abundance
+
+MAIN ROLE: Sustain
+TYPE: Healer
+TEAM ARCHETYPES: Generalist
+SP USAGE: SP Positive
+SKILL ROTATION: AAA
+Ideally never has to skill
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Generic universal sustain
+Upon using Ultimate, Bailu heals all ally and grant them Invigoration. Invigorated allies will heal whenever they take damage and gain DMG reduction, this effect last for 2 turns.
+
+Bailu's Skill heals 2 randoms allies after healing the targeted ally once. Subsequent heals are less effective after each instances.
+
+When an ally take fatal damage, Bailu can revive them. This can occur only once per battle.
+
+Team Synergies:
+✦ Solid sustainer for any teams that need one.
+
+Notes:
+✦ Bailu's majority of healings are from her Ultimate and Invigoration, so she rarely has to use Skill. Only use her Skill when necessary.
+✦ Bailu does not have any way to counter debuffs and Crowd Control, which makes her a lot less effective when you need a way to deal with Crowd Control.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Bailu can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get her.
+
+✦ Bailu is a perfectly serviceable sustain who can do her job well in most scenarios, only struggling in debuff heavy battles due to her lack of Cleanse.
+
+=== E0S0 VIABILITY ===
+Yes.
+Bailu works with everyone if you don't have better options
+
+=== VERTICAL INVESTMENT ORDER ===
+E4>E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E4 allows Bailu to buff allies DMG through her skill
+
+E2 increases healing done when using ultimate
+
+=== EXAMPLE TEAMS ===
+No one better? Use bailu: Bailu / Seele / Sparkle / Tribbie
+Dying a lot? Use bailu: Bailu / Blade / Tribbie / Sunday
+Double Revive: Bailu / Castorice / RMC / Tribbie
+Broke? Use Bailu: Bailu / Serval / Tingyun / Pela
+You get the point: Bailu / Anyone / Anyone / Anyone

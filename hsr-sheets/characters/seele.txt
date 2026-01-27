@@ -1,0 +1,55 @@
+NAME: SEELE
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: SP negative
+SKILL ROTATION: EEE, Use A for AA or SP
+
+=== GENERAL ANALYSIS ===
+Kit Overview: The Hunt unit that prefer small targets situations
+Seele's Basic Attack deals minor ST damage, and action forward herself. Seele's Skill deals ST Damage, and increases her speed.
+
+Her Ultimate deals greater ST Damage, and activates her buffed state.
+
+Whenever any of Seele kills an enemy, she will trigger [Resurgence], entering her buffed state which increases her DMG% and Quantum RES PEN for 1 turn, then gives her an extra turn. During this extra turn, if Seele kills an enemy, she cannot trigger [Resurgence].
+
+Team Synergies:
+✦ Seele's kit is fairly basic, making most supports work well with her.
+✦ As Seele only has a singular hit in her Ultimate, it is advised that her supports can give her the Crit Rate needed to reach 100% (ie. Sunday, Sparkle(S1), Fu Xuan)
+
+Notes:
+✦ Allies off-turn DMG like Robin, Tribbie can steal kill and make Seele fail to trigger [Resurgence]
+
+Tips:
+✦ If Ultimate is ready to use, or it will be full after the use of BA/Skill, during the attack animation, activate Ultimate which let you use BA/Skill -> Ult -> 2 extra turns which let you gain more energy.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Seele's multiple actions can make her surprisingly viable in modes that aren't meant for ST DPSes, such as Pure Fiction, as she can kill small enemies quite quickly.
+
+✦ Seele is very dependant on her match-up, wanting her target to have mobs on the side to activate the extra turns. Optimal performance require you to make use of her BA's Action Advance, being able to keep buff uptime and consistently gain Resurgence, which means her performance varies but can still clear well.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Basically any hypercarry setup works for her
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 ≥ Support unit's Eidolons
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Seele's notable eidolons are E2 and E4, her peak investment stops at her Signature Light Cone.
+
+It's better to invest into supports as they tend to bring bigger boost to Seele's gameplay
+
+=== EXAMPLE TEAMS ===
+Premium Seele Team: Seele / Tribbie / Sunday / Fu Xuan
+OG Mono Quantum: Seele / Silver Wolf / Sparkle / Fu Xuan
+The other Premium Seele Team: Seele / Robin / Sunday / Huohuo
+Budget: Seele / Tingyun / Hanya / Sustain
+Half Budget: Seele / TIngyun / Sunday / Sustain
+Belebog Arise!: Seele / Bronya / Pela / Sustain

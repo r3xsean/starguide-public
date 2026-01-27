@@ -1,0 +1,56 @@
+NAME: CLARA
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+Dual DPS
+SP USAGE: SP Neutral/Negative
+Consumption depends on team and eidolons
+SKILL ROTATION: EEE
+AEAE (lacking SP/non E1)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Counter based DPS
+✦ When Clara gets hit, Svarog will immediately launch a ST Counter Attack to the enemy that hit her, once per hit. This attack is considered a FUA. The enemy that is hit by her counter will gain Mark of Counter, and enemies with the Mark will take extra damage from her Skill. The mark will be removed after Skill is used
+
+✦ Upon using her Ultimate, Clara will take less damage, increase her aggro, and 2 of Svarog's counters will be enhanced. Enhanced counters deal much greater damage and hit adjacent enemies. Enhanced counters can be launched when any ally gets hit.
+
+Synergies:
+✦ Supports that can provide her energy or extra turns for ready access to her ultimate
+✦ Supports that can assist in her getting hit to launch counters
+
+Notes + Tips:
+✦ Svarog's Enhanced Counters last for 2 turns only. Time your ultimates to enemy turns to avoid wasting Enhanced Counters.
+✦ When using Clara, she prefers to be as slow as possible to capitalize on enemy hits and actions.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Clara can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get her.
+
+✦ Clara is a solid DPS, who can handle both ST and AoE situations, although her performance can heavily varies due to her very passive playstyle. Use her against enemies that are aggressive and can take lots of turns, like Hoolay.
+
+=== E0S0 VIABILITY ===
+Yes.
+Getting quick access to her enhanced counters is imperative to her damage. Using supports that can help with Ult uptime (Direct energy or giving extra turns) is preferred
+
+=== VERTICAL INVESTMENT ORDER ===
+Robin/Tribbie>Yunli S1>E6>E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Robin and Tribbie are extremely helpful for to Clara, as they both provide very strong buffs that she can take full advantage of.
+
+Yunli's S1 gives Clara a massive FUA buff, aggro increase, and free CRIT DMG
+
+E6 gives Clara an additional enhanced counter and has a 50% chance for her regular counters to launch on ally hits
+
+E1 prevents Mark of Counter from being removed
+
+=== EXAMPLE TEAMS ===
+Premium: Robin / Sunday / Clara / Huohuo
+Short Team: Tribbie / Sparkle / Clara / Sustain
+Dual DPS: Robin / Topaz / Clara / Huohuo
+We dare you - Meme team: Robin / Yunli / Clara / Huohuo
+Budget: RMC / Tingyun / Clara / Lynx

@@ -1,0 +1,48 @@
+NAME: HIMEKO
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, Dual DPS, FUA
+SP USAGE: Sp Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: FUA-orientated AoE DPS
+Himeko's Skill does Blast damage, and deals more damage if the enemy is afflicted with Burn. Every attack of hers has a chance to inflict Burn.
+Her Ultimate deals AoE damage to all enemies, and more energy is refunded to this Ult if any enemy is defeated.
+
+The main premise of Himeko is her Talent. This Talent tallies up to 3 Charges, gains 1 when the battle starts, 1 when a common enemy has its Weakness Broken, and 3 if an Elite or Boss gets Weakness Broken.
+Upon obtaining 3 Charges, Himeko launches a FUA that deals AoE damage, and then clears all Charges.
+
+Synergies:
+✦ Most of Himeko's damage comes from her Talent, allies that can assist with breaking faster/obtain more breaks is invaluable.
+✦ Her AoE-damage FUA attack makes Himeko a good driver for other characters such as Herta, Jade, etc.
+Notes:
+✦ Try to manage Himeko's Charge to avoid wasting Charges since she can only hold 3 Charges. In battle, try to break Elite/Boss first.
+✦ Himeko's damage against a single target is pitiful, she's mostly good for AoE situations such as Pure Fiction.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Himeko can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get her.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Typical Hypercarry or Dual DPS team, ensures she can trigger FUA often
+
+=== VERTICAL INVESTMENT ORDER ===
+Fugue.
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Double the amount of breaks for Himeko simply means double the amounts of Talent activation.
+
+=== EXAMPLE TEAMS ===
+Hunter & Express - Firefly enables Himeko: Himeko / Firefly / Dahlia / Fugue
+Fire and Ice Fiction combo: Himeko / Herta / Dahlia / Fugue
+Himeko Break Premium - For PF: Himeko / Tribbie / Dahlia / Fugue
+Want some coffee, Sunday?: Himeko / Sunday / RMC / March 7th
+"Superbreak" Himeko: Himeko / Fugue / Dahlia / Lingsha
+Budget: Himeko / Tingyun / Asta / Sustain

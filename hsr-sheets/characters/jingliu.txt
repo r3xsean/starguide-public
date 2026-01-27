@@ -1,0 +1,61 @@
+NAME: JINGLIU
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+Dual DPS
+SP USAGE: SP Neutral~Negative
+SP Neu requires S1 Hyacine
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS (POST 3.4 BUFF) ===
+Kit Overview: Blast-focused HP Scaling Skill Crit DPS
+When Jingliu uses her Skill (ST) or Ultimate (Blast), she gains 1 stack of Syzygy. When she has 2 Syzygy stacks, Jingliu enters [Spectral Transmigration] state, advance herself, gain an extra Syzygy stack and increase its cap to 4 . In this state, Jingliu gains Crit Rate and can only use Enhanced Skill.
+
+When Jingliu uses Enhanced Skill, consumes allies' HP and a stack of Syzygy to launch a Blast attack.
+
+Whenever allies' HP reduce, she gains Moonlight stacks, which increases Crit Damage. Additionally when allies' HP are reduced 20 times, gains 1 Syzygy stack.
+
+Synergies:
+✦ Units that can drain allies' HP to help generate Syzygy stacks.
+✦ Works well with most Harmony/Nihility that provide damage amplification, action advance, energy, etc.
+Notes:
+✦ Due to the sheer amount of CDMG% and CR% self-buff, Jingliu prefers supports that provide a different damage amplification such as RES PEN or debuffs. Jingliu prefers HP and potentially SPD more due to this reason
+✦ In order to maintain full uptime of Spectral Transmigration state, S1 Hyacine is required.
+Tips:
+✦ Jingliu should use her Ultimate during [Spectral Transmigration] state to fully benefit from her self-buff. Unless energy is extremely overcapped.
+✦ Since Jingliu does not consume Skill Points during [Spectral Transmigration], this allows other allies to spam their skill more often.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Jingliu is a very solid crit DPS, who can perform relatively well for most content. She especially excels in 3-enemy situations or even Single Target with E1.
+
+✦ However, Jingliu also shares the same supports/teams with quite a few units which can cause characters overlap.
+
+=== E0S0 VIABILITY ===
+Yes.
+Jingliu prefers typical hypercarry setup, prioritize teammates that gives action advance and non-saturated buffs or debuffs.
+
+Jingliu also prefers healers over shielders or tankers like Fu xuan.
+
+=== VERTICAL INVESTMENT ORDER ===
+Hyacine E0S1 > Mydei S1 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Hyacine E0S1 is especially important for Jingliu as it allows her to maintain a full uptime on her [Spectral Transmigration] state on top of a solid HP buff.
+
+Mydei S1 gives better damage increase than her own S1 and also contribute to generating Syzygy stacks
+
+E1 increase her CDMG% and Jingliu will deal additional damage to the primary target, This makes Jingliu more potent for pure ST battles.
+
+Hyacine E0S1 should be prioritized before anything else.
+
+=== EXAMPLE TEAMS ===
+Premium Team - Featuring Hyacine E0S1: Jingliu / Sunday / Tribbie / Hyacine
+Half Premium Team: Jingliu / Bronya / RMC / Hyacine
+Mono Ice?! - S1 Hyacine is recommended on RMC: Jingliu / RMC / Ruan Mei / Sustain
+Budget Jingliu: Jingliu / RMC / Pela / Gallagher
+Double action advance: Jingliu / Sunday / Bronya / Sustain

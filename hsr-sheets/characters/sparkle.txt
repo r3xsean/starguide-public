@@ -1,0 +1,60 @@
+NAME: SPARKLE
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support
+BUFF TYPE: Crit DMG%, DMG%,
+ATK%, Action Advances,
+Skill Point regeneration
+TEAM ARCHETYPES: Hypercarry, Dual DPS
+SP USAGE: SP positive
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Burst SP regeneration and High Crit DMG buffing support
+Sparkle's skill advances 1 ally's action forward by 50% and buff their Crit DMG% by a significant amount.
+
+Her talent increase the max number of Skill Points (SP) by 2, buff ATK% (extra ATK% for Quantum units), and provides DMG% buff when allies spend SP with a cap.
+Finally, Sparkle's Ultimate regenerates 4 SP and grant all allies [Cipher], further increasing the Talent's DMG% Buff.
+
+Synergies:
+✦ Team Setups or DPSs that appreciate the Burst SP generation (ie. DHIL, Qingque)
+✦ Any DPS that make use of the 50% Action Forward effectively along with her various buff, notably Crit DMG%
+Notes:
+✦ Sparkle's Crit DMG% buff only last until the start of the next turn. This means it can have bad uptime in teams with DPS that take turns often, including when they are paired with other Action Forward Supports.
+✦ Sparkle's Action Forward effect is only 50%, which makes her best used along with slow DPS, and can be worse compared to someone like Bronya to cut Action Value (ie -1 setup)
+Tips:
+✦ Sparkle can be used in Dual DPS setup as she has some team-wide buff.
+✦ With Energy Regeneration Rate% Rope equipped, Sparkle will always have a 3-turn Ultimate rotation, which can let you explore many other LC option, notably Dance!Dance!Dance!
+
+=== WORTH PULLING FOR ===
+✦ If you like a character, get them!
+
+✦ Sparkle is a easy to use supports unit, just let her use her skill to pull up a slow DPS then press Ultimate when it's ready, even if you don't make use of the Action Value skip well, her strong buffs will let you achieve good result.
+
+✦ Her buff up time can be an issue in certain team set up, but for general usage, Sparkle remains a great generalist choice.
+
+✦ If you use a SP hungry team, she is an super comfortable choice.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Fits anywhere that can use her buff well, usually Hypercarry w/ Crit DPS
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 = S1 Sunday = E1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 gives Crit Rate% & Crit DMG% for the whole battle. It's great for Dual DPS setups and DPS that deal DMG out of turns. Sunday's S1 lets her regen more SP, and excels with Hypercarries.
+
+E1 extends [Cipher] duration by 1 turn and gives 40% ATK% team-wide buff, a nice buff as Sparkle's initial ATK% buff is low. E2 provides up to 24% DEF ignore, decent alone and gets better with more DEF shred sources.
+
+Sparkle's early Eidolons don't particularly stand out, but are still respectable increases that make her a better team-wide buffing generalist.
+
+=== EXAMPLE TEAMS ===
+Archer Premium: Archer / Sparkle / Cipher / Hyacine
+I love not building Speed on my DPS: Clara / Sparkle / Robin / Huohuo
+Dual DPS with Sparkle: Blade / Sparkle / Jade / Fu Xuan
+Typical Hypercarry + Burst SP generation appreciation 1: Dan IL / Sparkle / Ruan Mei / Luocha
+Typical Hypercarry + Burst SP generation appreciation 2: Misha / Sparkle / Hanya / Huohuo
+Need a team for a Crit DPS?: DPS / Sparkle / Tribbie / Sustain

@@ -1,0 +1,56 @@
+NAME: SILVER WOLF
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: Debuffer Support
+DEBUFF TYPE: DEF Shred, RES Shred, ATK reduct, SPD reduct
+TEAM ARCHETYPES: Generalist, Debuff
+SP USAGE: SP positive
+SKILL ROTATION: EAA, E when changing target
+
+=== GENERAL ANALYSIS (POST 3.4 BUFF) ===
+Kit Overview: Strong, multiple effects Debuffer
+Whenever Silver Wolf attacks, randomly inflicts [Bug] effect that can either: reduce ATK, reduce DEF or reduce SPD.
+
+Silver Wolf's Skill adds one Weakness based on the first character on lineup to an enemy, reducing their all type RES. If the enemy doesn't already have that weakness, further reduce their RES to that element. Only 1 weakness can be implanted on an enemy. If the debuffed enemy is killed, the weakness will move to the enemy with highest HP.
+
+Silver Wolf's Ultimate reduces DEF of all enemies heavily.
+
+Synergies:
+- DPS that enjoy or rely on (multiple) debuffs.
+- Units that want to break enemies (whom do not have their own Weakness Implant).
+
+Note:
+- Due to high multiplier on her Ultimate and low EHR% requirement, Silver Wolf can go for a crit Sub-DPS build
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Silver Wolf's abundant debuffs and consistency makes her a very great generalist support to have on all team.
+
+- Silver Wolf works best for Single-target situation but also can do well in AoE. However she may struggle in content such as Pure Fiction, where there are multiple waves of enemies which lowers the uptime on her debuffs.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Flex in just about any team.
+
+=== VERTICAL INVESTMENT ORDER ===
+E2 > E1/S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 lets Silver Wolf charge her ult faster. Which can significantly improve her uptime or allow her to generate more SP to the team.
+
+E2 applies 20% Vulnerability to all enemy, and whenever any ally attack, Silver Wolf inflict a random [Bug] on that enemy.
+
+S1 is a rather weak LC both for Support and Crit DPS Nihility units, and is not recommended to aim for.
+
+E1S0 is a good stop.
+
+=== EXAMPLE TEAMS ===
+Acheron Hypercarry: Acheron / Jiaoqiu / Silver Wolf / Fu Xuan
+Ratio Hypercarry: Dr. Ratio / Robin / Silver Wolf / Aventurine
+Mono Type team: Seele / Sparkle / Silver Wolf / Fu Xuan
+Castorice Team: Castorice / RMC / Silver Wolf / Hyacine
+The true Acheron Premium team - Requires E2 Silver Wolf: Acheron / Tribbie / Silver Wolf / Sustain
+She is a universal support, she fits anywhere: Anyone / Anyone / Silver Wolf / Sustain

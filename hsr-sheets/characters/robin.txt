@@ -1,0 +1,65 @@
+NAME: ROBIN
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support + Sub-DPS
+BUFF TYPE: ATK, DMG%, Crit DMG%
+Action Advance
+DAMAGE TYPE: Additional Damage
+TEAM ARCHETYPES: Hypercarry, Dual DPS
+SP USAGE: Depends on the situation
+SKILL ROTATION: Use Skill if SP allows
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Team-wide buffer with Sub-DPS capacity
+Robin buffs DMG% with her skill and Crit-DMG% for everyone from her talent. Additionally, when an attack from allies is unleashed, regenerates 2 energy for Robin.
+
+When activating Ultimate, Robin enters [Concerto] state: lets all allies immediately take action, buffs their ATK by a great amount based on her own ATK, extra Crit DMG% buff for FUA, and deal Additional Damage with 100% Crit Rate when an ally attacks, until the [Concerto] state ends.
+
+Synergies:
+✦ Units that attack frequently to charge Robin's energy and deal damage during [Concerto].
+✦ Any unit that can take advantage of her buffs, notably the huge ATK increase.
+✦ Characters or Light Cones that grant energy in case her Ultimate's up-time is struggling.
+
+Notes:
+✦ When [Concerto] is active, Robin cannot take action, which means she will not take turns often to follow a specific rotation like most characters, lowering self-energy and SP production.
+✦ With her Ultimate costing 160 Energy, not every team will be able to utilize Robin comfortably. Getting hit and energy buffs from allies, Light Cones and turbulences may compensate for this.
+
+Tips:
+✦ Energy-granting abilities like Tingyun's or Sunday's Ultimate can be used on Robin to activate her Ultimate early; letting allies taking more set of turns may give good results when the timing is tight.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ As long as you have DPS units that utilize her buffs, especially the ATK buff, getting Robin will be a good choice. The additional damage Robin has also helps out with damage check.
+
+✦ Her team-wide full Action Advance is no joke, it can be a life-changing buff that cuts down your clear time greatly.
+
+✦ It's recommended to use Robin in teams that can constantly attack; namely teams with FUA units to have the most comfort in Ultimate uptime and performance. Characters/LC that help her through Energy Regeneration are also appreciated.
+
+✦ If you can't keep Robin's energy up, using her might be uncomfortable, and thus her performance will average out in a long fight.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Prioritize high attack frequency setup for the most comfort.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > S1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 provides team-wide 24% Res-Pen buff when [Concerto] is activated. This buff is not easily diluted and has great value for brute forcing type-resistance.
+
+S1 provides ERR%, ATK% and DMG%, but it can be low priority if you have Bronya's LC or other Energy sources.
+
+E2: ally's attacks now regenerate 3 energy for Robin and gain 16% Speed buff during [Concerto], bringing more speed stat and gameplay comfort.
+
+E1S0 is enough for vertical investment.
+
+=== EXAMPLE TEAMS ===
+Single-Target Follow Up Attack Dual DPS with Robin : Feixiao / Topaz / Robin / Aventurine
+AoE FUA Dual DPS with Robin: Jade / Herta / Robin / Lingsha
+Huohuo's energy for Miss Robin - Sunday Robin Huohuo for any DPS: Yunli / Sunday / Robin / Huohuo
+DoT with Robin: Kafka / Hysilens / Robin / Gallagher
+Main DPS Robin? (Requires high vertical investment): Bronya / Hunt March 7th / Robin / Lingsha
+She is a support, she fits anywhere (that can use her buffs and/or AA): Anyone / Anyone / Robin / Sustain

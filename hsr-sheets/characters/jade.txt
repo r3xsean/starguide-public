@@ -1,0 +1,58 @@
+NAME: JADE
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: FUA, Dual DPS, Hypercarry (uncommon)
+SP USAGE: SP Positive
+SKILL ROTATION: EAA
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Powerful Area of Effect specialist.
+Jade's Skill applies [Debt Collector] to an ally, granting 30 Speed and Additional Damage with no downtime at the cost of 2% of that ally's HP per their attack.
+
+AoE FUA is launched at 8 Charges, which are gained per enemy hit by her and her [Debt Collector]'s attacks. Jade's FUAs do not count towards these Charges. Her Talent grants massive self-buffs, making her less reliant on supports. Ultimate deals respectable damage and enhances her next 2 FUAs.
+
+Synergies:
+✦ Frequent multi-target attacker to be made as the [Debt Collector].
+✦ Support units who can buff the whole team, or ones who help generate Charges by Advancing her [Debt Collector].
+✦Characters that value the HP drains
+
+Note:
+✦ Jade's performance is rather subpar in 1 or 2 targets situation.
+
+Tips:
+✦ Hypercarry Jade's [Debt Collector] should still be a unit with frequent AoE attacks, as the amount of Charges Jade generates on her own turn is low.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ As long as Jade can consistently gain her Charge,  she will be able to perform excellently in multi-target scenarios.
+
+✦ More vertical investment might be needed for ST/low-target fights, but at that point, you might want to let other DPS do the job instead.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+A very flexible addition to AoE Dual DPS comps.
+E1 enables teams with a ST Debt Collector.
+
+=== VERTICAL INVESTMENT ORDER ===
+Lingsha >= E1 >=  S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 Increase FUA's Damage, targeted ally now generates 3 Charges per attack minimum.
+
+Since you normally don't bring Jade to a pure ST fight, Lingsha being a constant AOE sustain character will be a good [Debt Collector] for her, thus making E1 only worth if you want to explore Jade's viability with ST units or battles.
+
+S1 is a really strong stat boost.
+
+Efficiency wise, Lingsha with E0S1 or E0S0 Jade is a strong combo.
+
+=== EXAMPLE TEAMS ===
+Classic Pure Fiction Combo: Jade / Herta / Robin / Aventurine
+Jade - Blade Dual DPS: Jade / Blade / Sparkle / Luocha
+Jade with 2 supports (Sunday uses skill on Lingsha for stacks): Jade / Sunday / Robin / Lingsha
+The Herta other Premium team: Jade / The Herta / Tribbie / Lingsha
+Jade with ST Debt Collector - E1 Only: Jade / Topaz / Moze / Sustain

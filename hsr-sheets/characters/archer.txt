@@ -1,0 +1,51 @@
+NAME: ARCHER
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: Very SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: CRIT DPS who eats SP whole
+Archer's Skill makes him enter the Circuit Connection state and extends his turn. In this state, he consumes 2 SPs to launch a powerful ST attack. This attack is considered Skill damage, Archer will exit this state after 5 Uses / Manually Ending / Run out of SP. Using this ability repeatedly will also greatly increase Skill damage.
+
+In battle, Archer increases the SP cap by 2. Whenever allies attack enemies, Archer consumes 1 Charge to launch an FUA, and gains 1 SP. Archer's Ultimate deals massive ST to an enemy and grants 2 Charge. Additionally, entering battle or using his Technique will also grant 1 Charge.
+
+Synergies:
+✦ Supports that can generate Skill Points frequently or do not use much SPs themselves.
+✦ Supports with good damage amplification, action advance, etc.
+
+Tips:
+✦ Make sure Archer has as many Skill Points as possible before he enters the Circuit Connection state again.
+
+=== WORTH PULLING FOR ===
+✦ If you like a character, pull them! Archer will be given out for free during version 3.4, so you are likely to get him regardless.
+
+✦ Archer is a great DPS for low-target content, and he is a great pick if you lack DPS of this archetype. However he will struggle in AoE situations such as Pure Fiction due to the nature of the Hunt path.
+
+✦ Archer's teams are also very flexible, and can work with variety of supports. This makes him quite easy to play.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Archer prefers a hypercarry setup with characters who can generate SPs quickly or do not consume much SP.
+
+=== VERTICAL INVESTMENT ORDER ===
+Sparkle E0S0 >>>> E1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Sparkle increases the max amount of Skill Points while also generating a lot of SPs in a short burst, which makes her the most important support for Archer.
+
+E1 will refund 2 SPs for 3 Skill attacks, this occur once a turn. This potentially extends Circuit Connection state and increases Archer's damage output.
+
+E2 makes Archer's Ultimate reduce Quantum RES and apply Quantum weakness on the attacked enemy. This is a very solid damage increase.
+
+=== EXAMPLE TEAMS ===
+Premium : Archer / Sparkle / Cipher / Dan PT
+No cat? - Another Premium: Archer / Sparkle / Silver Wolf / Luocha
+No Spork? - S1 Sunday is really wanted: Archer / Sunday / Silver Wolf / Hyacine
+No Wolf or Cat?: Archer / Sparkle / Tribbie / Gallagher
+Budget: Archer / Tingyun / RMC / Gallagher

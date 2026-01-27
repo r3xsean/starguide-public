@@ -1,0 +1,52 @@
+NAME: WELT
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: DPS
+DAMAGE TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: DPS likes to take it slow
+Welt's Skill deals 3 bounce damage and inflict Slow to the hit enemy. Slowed enemies have reduced SPD. Welt will deal additional damage to Slowed enemies, he also deals more damage to Weakness broken enemies.
+
+Upon using Ultimate, Welt deals AoE damage to all enemies, inflict Slow, Vulnerability and Imprisonment, which delay enemies' action.
+
+Synergies:
+- Supports with good damage amplification, action advance, energy generation, etc.
+
+Tips:
+- Try to get Welt's ultimate as quickly as possible, to keep high uptime on Slow and Imprisonment.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Welt can be obtained from Standard banner or from losing 50/50 so you do not need to specifically aim to get him.
+
+- In general, Welt is not considered a strong support or great DPS, he has very few utilities and his damage is not that great. It is recommended to not use him at all
+
+- However if you love this character, you can totally get good supports and make him shine like any other DPS. It is ill-advised to use him as a support or sustainer.
+
+=== E0S0 VIABILITY ===
+Needs E2 at least to be decent
+
+Welt prefers allies who can give him energy, or extra turns for the additional DMG
+
+=== VERTICAL INVESTMENT ORDER ===
+Sunday > E2 > E6
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Sunday provides Welt energy and action advance, letting him take more turns, deal more DMG, and gain more energy
+
+E2 gives Welt energy every time his talent is activated, significantly speeding up his ult recovery
+
+E6 lets skill hit 4 times instead of 3, allowing for more DMG and more energy gain
+
+=== EXAMPLE TEAMS ===
+Premium: Welt / Sunday / Tribbie / Huohuo
+Who Needs Buffs? - E2 Welt recommended: Welt / Silver Wolf / Jiaoqiu / Aventurine
+Need more Premium options?: Welt / Sunday / Cipher / Luocha
+Forbidden Technique - Meme Team: Welt / Acheron / Jiaoqiu / Tribbie
+Budget: Welt / Tingyun / Pela / Sustain

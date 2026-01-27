@@ -1,0 +1,57 @@
+NAME: JIAOQIU
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: Debuffer Support
+DEBUFF TYPE: Ultimate Vulnerability, Vulnerability, DoT
+TEAM ARCHETYPES: Generalist, Dot, Debuff
+SP USAGE: SP Positive
+SKILL ROTATION: EAA, EAE (If Needed)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Strong autostacking field-based Debuffer
+- Whenever Jiaoqiu attacks, inflicts stacks of his [Ashen Roast] debuff. This acts as Burn DoT, and at max stacks (5) applies 35% Vulnerability.
+
+- His Ultimate creates a field, which will cause enemies to take 15% more Ultimate DMG. It also inflicts stacks of [Ashen Roast] at the start of their turns, up to 6 times per Ultimate use.
+
+Synergies:
+- Units that want Debuffs, whether it is due to kit requirements or already having strong self-buffs.
+- Ultimate-Damage focused DPS benefit highly from his bonus Ultimate Vulnerability.
+- Vulnerability amplifies all damage types, including Break; as such, he can be used in all teams.
+
+Tips:
+- Against waves of weak mobs, such as in Pure Fiction, Solitary Healing can be his preferred Light Cone for Ultimate spamming.
+
+=== WORTH PULLING FOR ===
+- If you like the character, pull them!
+
+- Jiaoqiu is an extremely high priority investment for Acheron teams, where he is consistently Best-in-Slot and a massive upgrade over budget options.
+
+- He has no downtime on his debuffs. As such, he is a strong, consistent AoE debuffer.
+
+- He can fit into all teams, making him a useful backup option for in-demand supports even when not BiS.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+He fits anywhere, preferably debuff-based and Ultimate-DMG Teams
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 > E1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 provides a significant 60% EHR buff and a bonus 24% vulnerability, making him easier to build and a stronger debuffer. It can also be used on other Nihility support units.
+
+E1 provides a 40% damage boost to the team, though its faster stacking effect is mostly irrelevant.
+
+E2 is a strong option for DoT teams as his DoT scaling is now comparable to Black Swan's.
+
+Prioritize E2 if wanting to focus on DoT
+
+=== EXAMPLE TEAMS ===
+Premium Acheron team: Acheron / Cipher / Jiaoqiu / Aventurine
+Triple DoT: Kafka / Hysilens / Jiaoqiu / Dan PT
+Ratio Hypercarry: Dr. Ratio / Sunday / Jiaoqiu / Aventurine
+Ultimate DMG team: Argenti / Sunday / Jiaoqiu / Huohuo
+Xianzhou Yaoqing Squad: Feixiao / Moze / Jiaoqiu / Lingsha
+Break Jiaoqiu!? - Meme team that take advantage of his Toughness DMG: Ruan Mei / Fugue / Jiaoqiu / Lingsha

@@ -1,0 +1,53 @@
+NAME: JING YUAN
+RARITY: 5
+PATH: Erudition
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry, FUA, Summon
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Versatile FuA DPS
+Jing Yuan's talent summons [Lightning Lord] (LL) in the action order bar, which is a 3-target bounce FUA that gain more speed and hit per action after using skill and ultimate attack. This allows him to be good or great in all kind of scenarios rather than just an AoE specialist.
+
+Synergies:
+✦ Advance Forward, Speed, and Energy buffer to help Jing Yuan gain more LL stack
+✦ Crit DPS supports in general.
+
+Notes:
+✦ [Lightning Lord] can not act when Jing Yuan is affected by crowd-control, so cleanse or CC-prevention is highly appreciated for him.
+✦ [Lightning Lord] being a Bounce type attack can make it harder to attempt a flawless run, though it's not a problem in general.
+
+Tips:
+✦ You can skip on using his technique to buy time for Jing Yuan to kill mobs using his ult and skill, so LL can focus on boss or elite (except when paired with Sunday).
+✦ Although it's great if you can get 10 stack on LL, getting 8 stack is a minimal dps loss.
+✦ Jing Yuan damage output is closely split between Skill + Ultimate and LL, so abilities that don't buff his full kit (Like non E6 Bronya's skill, Birth of Self Lighcone, etc) are discouraged.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Being a versatile DPS as mentioned, Jing Yuan is a good choice if you want to expand your DPS selection, he is bound to perform decently across all game mode as long as you give him a good team.
+
+=== E0S0 VIABILITY ===
+Yes
+
+He excels in Hyper Carry teams
+
+=== VERTICAL INVESTMENT ORDER ===
+Sunday > S1 > E1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Sunday being able to directly advance summons will buff Light Lord - the most notable part of Jing Yuan's kit - makes him a high priority.
+
+S1 offers stronger damage increase than Eidolons with added benefit of being useful for most Crit Erudition unit.
+
+Sunday with E0S1 Jing Yuan is a good stop for vertical invest.
+
+=== EXAMPLE TEAMS ===
+Jing Yuan Premium Team: Jing Yuan / Sunday / Tribbie / Huohuo
+Summoners arise! (Topaz enhances ST DMG): Jing Yuan / Sunday / Topaz / Lingsha
+Half Premium team: Jing Yuan / Sunday / Tingyun / Sustain
+More Hypercarry setup: Jing Yuan / Sparkle / Robin / Sustain
+Meme team - Xianzhou Luofu Prepares for battle: Jing Yuan / Yukong / Hanya / Huohuo

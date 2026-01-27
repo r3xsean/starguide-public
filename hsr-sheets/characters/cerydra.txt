@@ -1,0 +1,57 @@
+NAME: CERYDRA
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support
+TYPE: Skill CRIT DMG, Res Pen, ATK, SPD
+DAMAGE TYPE: Crit, Additional DMG
+TEAM ARCHETYPES: Hypercarry
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+A if SP is tight
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Double the skills
+✦ Cerydra selects one ally to receive Military Merit. The ally and Cerydra gain a flat SPD buff, and the ally also gets an ATK buff. When the ally deals damage, Cerydra will deal an instance of Additional DMG and gain 5 energy. This can activate up to 20 times, and the trigger count resets when using her Ultimate.
+
+Cerydra gains a point of [Charge] when the ally with Military Merit takes action (+1), and when Cerydra uses her Skill (+1) or Ultimate (+2).
+Once reaching 6 points of [Charge], Military Merit upgrades to Peerage, the ally additionally gaining a Skill CRIT DMG and RES PEN buff, consuming 6 points of [Charge] and copies the skill performed by the ally with Military Merit. When used, Peerage will revert back to Military Merit.
+
+Cerydra gives herself a 100% CRIT Rate and massive CRIT DMG buffs.
+
+Synergies:
+✦ DPS who primarily deal Skill DMG and can take action often.
+Notes:
+✦ The skill copied must deal damage to trigger.
+✦ If charge is not at max, the ally with Military Merit can grant a stack through their ultimate once per battle.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Cerydra is a fairly strong support, however currently she struggles to find use outside of a very select few due to her buffs and how they work. Majority of other DPS would prefer many other options before even considering Cerydra.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Cerydra can only be used with DPS who primarily deal Skill DMG
+
+We reccomend you only use her in the teams currently listed.
+
+=== VERTICAL INVESTMENT ORDER ===
+E1(For Phainon) > S1 > E1> E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 helps reach her high ATK goal for her personal DMG, and enhances her utility, restoring SP on ultimate and buffing DMG dealt by an ally's skill
+
+E1 provides an ally DEF Ignore, and restores their energy by 2 when Cerydra uses her skill
+
+E2 increases both her and an ally's DMG dealt
+
+Phainon specifically prefers her E1 because he'll be able to get 2 Coreflames per Cerydra skill, speeding up his ultimate recovery.
+
+=== EXAMPLE TEAMS ===
+Premium Phainon: Cerydra / Phainon / Sunday / Bronya
+Premium Anaxa: Cerydra / Anaxa / Cyrene / Hyacine
+Tribbie must be busy: Cerydra / Archer / Sparkle / Hyacine
+Works but not recommended: Cerydra / Jingliu / Sunday / Hyacine
+Works but require precise planning : Cerydra / Seele / Cipher / Sustain

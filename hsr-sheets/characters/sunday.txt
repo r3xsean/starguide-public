@@ -1,0 +1,55 @@
+NAME: SUNDAY
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support
+BUFF TYPE: Crit DMG%, Crit Rate%,
+DMG%, Energy,
+Action Advances
+TEAM ARCHETYPES: Hypercarry, Summon
+SP USAGE: SP Neutral assuming full Ultimate up-time
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Hypercarry support unit that get better with Summon Archetype.
+Sunday lets 1 target and their summon (if they have one) to immediately take action, increases DMG% (more DMG% if the target has summon), Crit Rate% and dispels 1 debuff with his skill, lasting for 2 turns. His Ultimate applies [The Beatified] state, granting Crit DMG% and energy for the target.
+
+His skill when used on ally with [The Beatified] state will no longer consume SP.
+
+Synergies:
+✦ As seen from how his abilities are introduced, it is clear that Sunday synergizes well with Summoner DPS-es, letting you skip the thought process of working with how fast or slow the summoned unit might be by simply advance it forward (e.g, Jing Yuan's Lightning Lord, Lingsha's Fuyuan).
+
+✦ Outside of the Summon archetype, Sunday still works well in many situations, namely for Crit DMG teams and has potential to be being BiS teammate in many of them.
+
+Notes:
+✦ Sunday's kit only buffs a single ally target, making him exclusively a Hypercarry support. He is not the most suitable for multiple DPS teams.
+✦ Sunday can not advance forward Harmony units with his skill, which limits certain setups.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Sunday is a very powerful and stable supports for DPS with summons or Remembrance DPS, Even without the summon aspect he is still one of the best supports for hypercarry teams, which makes him a very strong support to have in general
+
+=== E0S0 VIABILITY ===
+Yes, but S1 is quite good
+
+He fits mostly anywhere
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 > E1 > E2 - Stopping at E0S1 is fine
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 ensures 3 turn Ultimate, gives more DMG% and makes Sunday become SP positive, unlocking more team options.
+Sunday's S1 can also be used on other Harmony units.
+
+E1: target of Skill gain 16% DEF ignore, their summon gains 40% DEF ignore for 2 turns, a strong buff for summoner.
+
+E2: First usage of Ultimate regenerates 2 SP, [The Beatified] gets an additional 30% DMG%, the SP effect is mostly for challenge clears and you already gain a good amount of DMG% normally, so E2 and above is lower priority.
+
+=== EXAMPLE TEAMS ===
+Jing Yuan is so back - Jing Yuan Premium: Jing Yuan / Sunday / Tribbie / Huohuo
+Charmony Doves: DPS / Sunday / Robin / Sustain
+Aglaea Double Advancer: Aglaea / Sunday / Robin / Bronya
+Infinite Argenti/Yunli Ultimate: Argenti / Sunday / Tingyun / Huohuo
+Unlimited Blade Works: Blade / Sunday / Bronya / Sustain
+Sunday with Break!? - Boothill the GOAT: Boothill / Sunday / Fugue / Gallagher

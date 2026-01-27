@@ -1,0 +1,61 @@
+NAME: FUGUE
+RARITY: 5
+PATH: Nihility
+
+MAIN ROLE: Break-Super Break + Debuffer Support
+BUFF TYPE: Break Effect%, Super Break enabler
+DEBUFF TYPE: Delay, DEF Shred, Exo-Toughness
+TEAM ARCHETYPES: Break, Super Break, Debuff
+SP USAGE: SP Positive
+SKILL ROTATION: EAA, or E to switch target
+
+=== GENERAL ANALYSIS ===
+Kit overview: Premium Super Break Support
+Just by existing in the battle, Fugue allows all allies to deal Super Break DMG against weakness broken enemies and inflicts all enemies with [Cloudflame Luster], which is an additional Toughness you can break, triggering corresponding Break DMG and Weakness Break effect once broken.
+
+Fugue's skill grants 1 ally [Foxian's Prayer] effect: Increases Break Effect%, attacks from this ally can deal universal Toughness Reduction with 50% reduced value and are able to inflict Defense shred. Lastly, enhances Basic Attack, making it Blast type to contribute more Toughness Reduction.
+
+Enemy target will get delayed by 15% each time its Toughness is broken, allowing more chances to deal Super Break DMG
+
+Synergies:
+- Super Break or Break DPS and units with high Toughness Reduction in general.
+- Units that benefit from breaking enemies' Toughness and/or debuffs.
+
+Notes:
+- Fugue's ultimate is an attack that can ignore Weakness Type, with no further effect.
+- Her universal Toughness Reduction effect can not stack with other sources (ie: Rappa's EBA)
+
+Tips:
+- Use Fugue's skill on ally capable of high Toughness Reduction (ie: Lingsha, Harmony TB) to help with Toughness damage then swap back to the main DPS unit once targets are (close to) broken.
+
+=== WORTH PULLING FOR ===
+- If you like the character, get them!
+
+- Getting Fugue would let you have a good to great upgrade to Harmony Trailblazer, or a replacement in case you use Remembrance Trailblazer elsewhere
+
+- If you have or intend to have multiple Break-based teams, pulling for Fugue is also recommended.
+
+=== E0S0 VIABILITY ===
+Yes
+
+Best with Break teams, with some niche situation to fit in
+
+=== VERTICAL INVESTMENT ORDER ===
+E1 > S1 > E2
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+E1 lets ally with [Foxian Prayer] increases their Weakness Break Efficiency by 50%, crucial for breaking and Super Break DMG.
+
+S1 increases BE%, helps with maxing out Fugue's team BE% buff and offers Break DMG vulnerability.
+
+E2 gives energy when breaking an enemy, Fugue's Ultimate now Advances Forward the whole team by 24%, which can be hard to utilize for more casual players.
+
+E1S0 is a fine stop.
+
+=== EXAMPLE TEAMS ===
+Rappa's beloved Exo-Toughness (Premium Rappa team): Rappa / Dahlia / Fugue / Lingsha
+Talent's stack for Cowboy: Boothill / Dahlia / Fugue / Sunday
+Himeko Break: Himeko / Dahlia / Fugue / Tribbie
+Lingsha Carry?!: HMC / Dahlia / Fugue / Lingsha
+Firefly Premium: Firefly / Dahlia / Fugue / HMC
+Anyone can be a Break-DPS! (High Toughness Reduce unit meme team): Anyone / Dahlia / Fugue / Sustain

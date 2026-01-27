@@ -1,0 +1,55 @@
+NAME: TRAILBLAZER
+RARITY: 5
+PATH: harmony
+
+MAIN ROLE: Support
+BUFF TYPE: Break Effect%
+Super Break enabler
+DEBUFF EFFECT: Delay
+TEAM ARCHETYPES: Break, Super Break
+SP USAGE: SP positive
+SKILL ROTATION: EAA
+E spam for Damage
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Superbreak Enabler and Break DMG buffer
+When Harmony Main Character/Trailblazer uses their Skill, they deal significant Imaginary Toughness Damage in a Bounce formation for 7 times.
+
+When HMC uses Ultimate, they grant all allies [Backup Dancer] for 3 of HMC's turns. Allies with [Backup Dancer] has their Break Effect increased, and can now deal Super Break damage. The Super Break damage multiplier increases the less enemies are on the field
+
+If HMC is on field, all allies have their Break Effect increased, when enemies are Weakness Broken, they get action delayed more and generate Energy for HMC
+
+Synergies:
+✦ Best teammate for Break or Super break teams, since they enable the ability to deal damage beyond the initial Break and increases Super Break damage
+
+Notes:
+✦ Their potential for Ultimate spamming makes HMC a very potent Dance! Dance! Dance! holder.
+
+=== WORTH BUILDING FOR + VERTICAL INVEST EXPLANATION ===
+✦ HMC is great, if not best for Super Break and break teams in general, it is recommended to build them if you use Break/Super Break teams a lot.
+
+✦ HMC E6 is completely free so try to get them if you want to play Break/Super Break archetype.
+
+✦ HMC has a few notable upgrades in terms of LC:
+ 1) Dance! Dance! Dance!: HMC can have very high uptime on Ultimate if the team can break enemies often, which make them one of the best Dance! Dance! Dance! abuser. However this LC has high demands of player's skill to properly be used
+
+ 2) Ruan Mei S1: This LC gives a lot of BE%, energy per wave and SP regeneration, which makes this a very solid option for HMC. However it is not recommended to get Ruan Mei S1 specifically for HMC.
+
+ 3) In Pursuit of the Wind: This is a Battle pass LC, which directly increases break DMG. This is a very great damage buff for Break/Super Break teams if you do not need extra utilities.
+
+=== WORTH PULLING FOR ===
+NOT FOUND
+
+=== E0S0 VIABILITY ===
+Works in about any break team
+
+=== VERTICAL INVESTMENT ORDER ===
+NOT FOUND
+
+=== EXAMPLE TEAMS ===
+Firefly Premium: Firefly / Dahlia / HMC / Fugue
+Super Break Cowboy: Boothill / Dahlia / HMC / Fugue
+Break Himeko is legit: Himeko / Dahlia / HMC / Fugue
+Imaginary Fire - Rappa Premium: Rappa / Dahlia / HMC / Fugue
+Budget Break: DPS / Ruan Mei / HMC / Sustain
+Super Break anyone?: Anyone / Dahlia / HMC / Fugue

@@ -1,0 +1,58 @@
+NAME: FEIXIAO
+RARITY: 5
+PATH: Hunt
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Dual DPS, Hypercarry, FUA
+SP USAGE: SP Negative
+SKILL ROTATION: EEE
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Ultimate & Follow-Up Attack DPS that thrives on team's attack frequency
+Feixiao launches a FUA after using her skill and when an ally attacks. For every 2 ally attacks, a point of [Flying Aureus] is gained, storing up to 12 points. Activating her Ultimate consume 6 points, unleashing a strong Single-Target attack.
+
+Her Ultimate counts as both FUA damage and Ultimate damage. It can deal Toughness Damage regardless of Weakness Type with increased Toughness Reduction against unbroken targets, for broken targets, increase DMG dealt. FInally, buff self Crit DMG% and ATK% by a good amount.
+
+Synergies:
+✦ Supports focused on buffing Crit DPS.
+✦ Action Advance/Speed buffers to the team more turns.
+✦ Allies that attack frequently charge Feixiao's Ultimate more quickly.
+
+Tips:
+✦ You can use the weaker attack type during Feixiao's Ultimate as damage control. By keeping an enemy's HP low, you can finish them of with her Skill to charge more points for the next wave.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Feixiao is a flexible, strong Hunt DPS. She is a worthwhile pick up if you want a DPS who can help with low-target content.
+
+✦ She is also a strong option in Pure Fiction due to her ability to kill Elite/Boss enemies fast and can drive certain AoE DPS, such as Herta.
+
+✦ However, she is still Single-Target, and will underperform in content that specifically favours AoE such as linked HP bosses.
+
+=== E0S0 VIABILITY ===
+Yes
+
+As mentioned, gives Feixiao allies that attack frequently and/or good damage amplifier.
+
+She works with typical Hypercarry setups or Dual DPS setups
+
+=== VERTICAL INVESTMENT ORDER ===
+Robin > E2 > E1 = S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+Robin synergises well with allies that attack frequently. Her strong teamwide buffs also complement Feixiao's preference for Dual DPS setups.
+
+E2 lets each FUA from any ally charges 1 point of [Flying Aureus], greatly increasing the amount of Ultimates.
+
+E1 and S1 are decent damage increases, though she has access to budget LCs.
+
+E0S0 Feixiao with Robin is a great core, E2 Feixiao with E1 Robin is a menacing combo for vertical investment enjoyers.
+
+=== EXAMPLE TEAMS ===
+FART Team: Feixiao / Aventurine / Robin / Topaz
+Feixao Premium: Feixiao / Cipher / Robin / Aventurine
+Half Premium: Feixiao / Hunt March 7th / Tribbie / Gallagher
+Hypercarry Feixiao, why not?: Feixiao / Bronya / Robin / Sustain
+Pure Fiction Feixiao - Herta Enabler: Feixiao / Herta / Tribbie / Hyacine

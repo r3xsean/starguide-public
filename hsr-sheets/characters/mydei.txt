@@ -1,0 +1,59 @@
+NAME: MYDEI
+RARITY: 5
+PATH: destruction
+
+MAIN ROLE: DPS
+TYPE: Crit
+TEAM ARCHETYPES: Hypercarry
+(Possible) Dual DPS
+SP USAGE: SP Neutral
+SKILL ROTATION: Skill Spam
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Nearly Immortal Self-HP drain Blast DPS
+Mydei's normal Skill depletes his HP and does not require Skill Points. For each 1% of HP lost, accumulates 1 point of Charge, at 100 Charge, consumes Charge to enter [Vendetta] state, while active, buff his Max HP while his DEF remains at 0, increasing efficiency of Charge gains, he also becomes immune to Crowd Control debuffs. When it's Mydei's turn, automatically launch a powerful attack, if 150 Charge is gained in this state, consumes it to obtain one Extra Turn and deal an even more damaging Skill attack then heal himself.
+
+When receiving a killing blow in the [Vendetta] state, Mydei will not be knocked down, up to 3 times in battle.
+
+Ultimate heals and deals a blast attack, taunting all enemies for 2 turns, and the primary target of the Ultimate will be the same target focused by his Enhanced Skill. This allows for some control over his Auto playstyle.
+Mydei gains additional Crit Rate and Charges ratio from enemies the more HP he has, up to 8000 HP.
+
+Synergies:
+✦ Crit DPS support units that do more than ATK buff since Mydei scales on HP.
+✦ Speed or Action Advance buffers to earn more turns for HP drains.
+✦ Characters that consume his HP without hindering his performance.
+✦ Healer units for HP drains.
+Notes:
+✦ While Ultimate can help with controlling Mydei, his Auto-play playstyle might not be for everyone.
+
+=== WORTH PULLING FOR ===
+✦ If you like a character, get them!
+
+✦ Mydei is another strong, easy to play and flexible DPS that is worth a pick up if you favor his traits, his ability to sustain damage is notable for challenge runs or more comfort in Simulated Universe-like modes.
+
+✦ He is rather lackluster in AoE-centric battle without E1 however.
+
+✦ Once again, the auto-play playstyle of him should be considered if you require precision.
+
+=== E0S0 VIABILITY ===
+Yes
+Mydei purely scale of HP, so his support choices are limited.
+Gallagher is the recommended pick as he has high burst healing.
+Put Mydei in the middle spot in case you get lucky from getting hit with Blast attacks.
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 >= E1 > E2 - Stops at E0S1 or E1S1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 buffs Max HP, Incoming Healing, when using Ultimate or Skill, consumes 6% Max HP for 30% DMG% to that attack, and another 30% if 500 HP is consumed. Good option for DMG enhances, the HP drains effect further buffs Charge gain rate.
+
+E1: Enhanced Skill's multiplier increases by 30% and now attack all targets, letting Mydei work better in AoE battles.
+
+E2: In [Vendetta] state, DMG dealt ignores 15% DEF. When he receives healing, 40% of the amount healed is converted to Charge, a good eidolon but not outstanding.
+
+=== EXAMPLE TEAMS ===
+Premium Mydei: Cyrene / Cerydra / Mydei / Hyacine
+Half Premium Mydei: Cyrene / RMC / Mydei / Hyacine
+No Elysia?: Sunday / Tribbie / Mydei / Luocha
+Double AA strikes again: Sunday / Bronya / Mydei / Luocha
+Budget Mydei: Ruan Mei / RMC / Mydei / Gallagher

@@ -1,0 +1,61 @@
+NAME: AVENTURINE
+RARITY: 5
+PATH: preservation
+
+MAIN ROLE: Sustain
+SUSTAIN TYPE: Shielder
+DEBUFF TYPE: Crit DMG Vulnerability
+TEAM ARCHETYPES: Generalist, FUA, Debuff
+SP USAGE: SP positive
+SKILL ROTATION: EAA/EAEA (as needed)
+AAA (common)
+
+=== GENERAL ANALYSIS ===
+Kit Overview: Strong Shielder with FUA attacks
+Whenever Aventurine uses his skill or triggers his FUA from talent, he grants shields to all allies. Shielded allies will also gain Effect RES.
+
+Whenever anyone is hit or perform FUA attack, Aventurine gain 1 stack of Blind Bet, up to 10 stacks. When 7 Blind Bet stacks are obtained, he performs a Bounce FUA attack.
+
+When using Ultimate, he apply CDMG% vulnerability to the enemy and gain a random number of Blind Bet stack.
+
+Team Snerygies:
+✦ Teams then want a high amount of attacks (i.e. Feixiao)
+✦ Teams that want to apply debuff to enemies benefit from Aventurine's Ult (and FUA with at E0S1 Aventurine)
+Notes:
+✦ Allies may lose shields if they take too many turns,
+✦ Aventurine performs better the more enemies attack
+✦ While allies will gain extra Effect RES when shielded, they can still get inflicted with Crowd Control and debuffs, and Aventurine cannot cleanse them. It is recommended to build Effect RES on other teammates for this matter.
+Tips:
+✦ Be flexible with Aventurine's skill and Ultimate to ensure comfort sustainability.
+
+=== WORTH PULLING FOR ===
+✦ If you like the character, get them!
+
+✦ Aventurine is a great and comforting sustainer choice for many teams thanks to his fast and reliable shield. He can boost performance of teams that can make use of his high attack frequency and debuffs.
+
+✦ Aventurine excel against enemies who attacks frequent and have many Blast/AoE attacks. However he struggle against enemies with hard Single-target attacks as he wants the whole team to get hit as much as possible.
+
+=== E0S0 VIABILITY ===
+Yes.
+
+Fits anywhere, best in Crit DMG team and for when tanking AoE hits
+Put him in the middle spot in case you get lucky from getting hit with Blast attacks for talent stacks
+
+=== VERTICAL INVESTMENT ORDER ===
+S1 > E2 > E1
+
+=== VERTICAL INVESTMENT EXPLANATION ===
+S1 increases DEF% and CDMG% on top of having very high base DEF. Whenever the wearer perform FUA, they apply 10% vulnerability to the enemies. This is a very nice damage amplification, and it also allow him to go for sub-DPS builds.
+
+E1 grant shielded allies 20% CD and Ultimate will now give shields.
+
+E2 makes his Basic Attack reduce enemy's RES by 12%.
+
+E0S1 is a good stop, further investment is not recommended for low spenders.
+
+=== EXAMPLE TEAMS ===
+FART - Premium Feixiao Team: Feixiao / Aventurine / Robin / Topaz
+Acheron Premium: Acheron / Aventurine / Jiaoqiu / Cipher
+Doctor, you are huge - Ratio Hypercarry: Dr. Ratio / Aventurine / Silver Wolf / Sunday
+Jade and her gambler: Jade / Aventurine / Herta / Tribbie
+He is a sustain, he fits anywhere: Anyone / Aventurine / Anyone / Anyone
