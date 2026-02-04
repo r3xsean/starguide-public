@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>StarGuide OG Image Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Exo+2:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background: #1a1a2e;
+      padding: 40px;
+    }
+
+    .instructions {
+      color: #fff;
+      font-family: 'Exo 2', sans-serif;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .instructions h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    .instructions p {
+      font-size: 14px;
+      opacity: 0.7;
+    }
+
+    /* OG Image Container - exactly 1200x630 */
+    .og-image {
+      width: 1200px;
+      height: 630px;
+      background: linear-gradient(135deg, #0a0a1a 0%, #1a1a3e 50%, #0f0f25 100%);
+      position: relative;
+      overflow: hidden;
+      border: 2px solid #333;
+    }
+
+    /* Cosmic background effects */
+    .og-image::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 800px 400px at 20% 30%, rgba(249, 115, 22, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse 600px 300px at 80% 70%, rgba(139, 92, 246, 0.1) 0%, transparent 50%),
+        radial-gradient(ellipse 400px 200px at 50% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 50%);
+    }
+
+    /* Stars effect */
+    .stars {
+      position: absolute;
+      inset: 0;
+      background-image:
+        radial-gradient(2px 2px at 100px 100px, white, transparent),
+        radial-gradient(2px 2px at 200px 150px, white, transparent),
+        radial-gradient(1px 1px at 300px 80px, white, transparent),
+        radial-gradient(2px 2px at 400px 200px, white, transparent),
+        radial-gradient(1px 1px at 500px 120px, white, transparent),
+        radial-gradient(2px 2px at 600px 180px, white, transparent),
+        radial-gradient(1px 1px at 700px 90px, white, transparent),
+        radial-gradient(2px 2px at 800px 160px, white, transparent),
+        radial-gradient(1px 1px at 900px 100px, white, transparent),
+        radial-gradient(2px 2px at 1000px 200px, white, transparent),
+        radial-gradient(1px 1px at 1100px 80px, white, transparent),
+        radial-gradient(2px 2px at 150px 400px, white, transparent),
+        radial-gradient(1px 1px at 350px 500px, white, transparent),
+        radial-gradient(2px 2px at 550px 450px, white, transparent),
+        radial-gradient(1px 1px at 750px 550px, white, transparent),
+        radial-gradient(2px 2px at 950px 480px, white, transparent);
+      opacity: 0.4;
+    }
+
+    .content {
+      position: relative;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      padding: 40px;
+    }
+
+    .title {
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 900;
+      font-size: 96px;
+      color: #fff;
+      text-shadow:
+        0 0 40px rgba(249, 115, 22, 0.8),
+        0 0 80px rgba(249, 115, 22, 0.4),
+        0 4px 8px rgba(0, 0, 0, 0.5);
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      font-family: 'Exo 2', sans-serif;
+      font-weight: 600;
+      font-size: 32px;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 40px;
+      letter-spacing: 2px;
+    }
+
+    .character-grid {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 40px;
+    }
+
+    .character-icon {
+      width: 80px;
+      height: 80px;
+      border-radius: 12px;
+      border: 2px solid rgba(249, 115, 22, 0.6);
+      box-shadow: 0 0 20px rgba(249, 115, 22, 0.3);
+      object-fit: cover;
+    }
+
+    .tagline {
+      font-family: 'Exo 2', sans-serif;
+      font-size: 24px;
+      color: rgba(255, 255, 255, 0.7);
+      letter-spacing: 1px;
+    }
+
+    .url {
+      position: absolute;
+      bottom: 24px;
+      right: 32px;
+      font-family: 'Exo 2', sans-serif;
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <div class="instructions">
+    <h2>OG Image Generator</h2>
+    <p>Take a screenshot of the box below at exactly 1200x630 pixels, then save as og-image.png</p>
+    <p>Tip: Use browser DevTools > Device Mode > Set to 1200x630, or use a screenshot tool with dimensions</p>
+  </div>
+
+  <div class="og-image">
+    <div class="stars"></div>
+    <div class="content">
+      <div class="title">StarGuide</div>
+      <div class="subtitle">Honkai Star Rail Team Builder</div>
+      <div class="character-grid">
+        <img class="character-icon" src="/icons/acheron.webp" alt="Acheron">
+        <img class="character-icon" src="/icons/firefly.webp" alt="Firefly">
+        <img class="character-icon" src="/icons/robin.webp" alt="Robin">
+        <img class="character-icon" src="/icons/the-herta.webp" alt="The Herta">
+        <img class="character-icon" src="/icons/sunday.webp" alt="Sunday">
+        <img class="character-icon" src="/icons/ruan-mei.webp" alt="Ruan Mei">
+        <img class="character-icon" src="/icons/aventurine.webp" alt="Aventurine">
+        <img class="character-icon" src="/icons/feixiao.webp" alt="Feixiao">
+      </div>
+      <div class="tagline">Build optimal teams for your roster</div>
+      <div class="url">starguide-bay.vercel.app</div>
+    </div>
+  </div>
+</body>
+</html>
